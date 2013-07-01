@@ -1,28 +1,28 @@
 /collection1 {
 	/attributes {
-		/Pane#AdobeLayerPalette\ PaneMode 1
-		/Pane#AdobeLayerPalette\ Size 35
+		/Pane#AdobeAlignObjects\ PaneMode 1
+		/Pane#AdobeAlignObjects\ Size 0
 		/AdobeArtboardPanel\ SizeUncnstr {
-			/v 512
-			/h 262
+			/v 111
+			/h 210
 		}
 		/AdobeArtboardPanel\ SizeCnstr {
 			/v 111
 			/h 210
 		}
 		/AdobeArtboardPanel\ Size {
-			/b 631
-			/r 1368
-			/t 119
-			/l 1106
+			/b 212
+			/r 1630
+			/t 101
+			/l 1420
 		}
 		/AdobeArtboardPanel\ Location {
-			/v 119
-			/h 1106
+			/v 0
+			/h 0
 		}
-		/AdobeArtboardPanel\ DockGroup (AdobeLayerPalette)
+		/AdobeArtboardPanel\ DockGroup (AdobeColorEditor)
 		/AdobeArtboardPanel\ ExtendedDockCode 268435456
-		/AdobeArtboardPanel\ DockCode 562299392
+		/AdobeArtboardPanel\ DockCode 58982917
 		/AdobeArtboardPanel\ Visible 0
 		/Pane#AdobeObjectAttributes\ PaneMode 1
 		/Pane#AdobeObjectAttributes\ Size 0
@@ -126,10 +126,10 @@
 			/h 210
 		}
 		/AdobeBrush\ Size {
-			/b 281
-			/r 1630
-			/t 101
-			/l 1420
+			/b 356
+			/r 1405
+			/t 176
+			/l 1195
 		}
 		/AdobeBrush\ Location {
 			/v 0
@@ -178,30 +178,30 @@
 		}
 		/AdobeColorEditor\ DockGroup (AdobeColorEditor)
 		/AdobeColorEditor\ ExtendedDockCode 268435456
-		/AdobeColorEditor\ DockCode 193265921
-		/AdobeColorEditor\ Visible 1
+		/AdobeColorEditor\ DockCode 58982657
+		/AdobeColorEditor\ Visible 0
 		/AdobeLayerPalette\ SizeUncnstr {
-			/v 512
-			/h 262
+			/v 116
+			/h 210
 		}
 		/AdobeLayerPalette\ SizeCnstr {
 			/v 116
 			/h 210
 		}
 		/AdobeLayerPalette\ Size {
-			/b 631
-			/r 1368
-			/t 119
-			/l 1106
+			/b 263
+			/r 1622
+			/t 109
+			/l 1412
 		}
 		/AdobeLayerPalette\ Location {
-			/v 119
-			/h 1106
+			/v 0
+			/h 0
 		}
-		/AdobeLayerPalette\ DockGroup (AdobeLayerPalette)
+		/AdobeLayerPalette\ DockGroup (AdobeColorEditor)
 		/AdobeLayerPalette\ ExtendedDockCode 268435456
-		/AdobeLayerPalette\ DockCode 562364672
-		/AdobeLayerPalette\ Visible 1
+		/AdobeLayerPalette\ DockCode 59048197
+		/AdobeLayerPalette\ Visible 0
 		/svgInteractivityDlg\ SizeUncnstr {
 			/v 146
 			/h 210
@@ -272,10 +272,10 @@
 			/h 210
 		}
 		/AdobeSwatch_\ Size {
-			/b 283
-			/r 1622
-			/t 109
-			/l 1412
+			/b 262
+			/r 1405
+			/t 176
+			/l 1195
 		}
 		/AdobeSwatch_\ Location {
 			/v 0
@@ -283,11 +283,11 @@
 		}
 		/AdobeSwatch_\ DockGroup (AdobeColorEditor)
 		/AdobeSwatch_\ ExtendedDockCode 268435456
-		/AdobeSwatch_\ DockCode 59048194
+		/AdobeSwatch_\ DockCode 58982658
 		/AdobeSwatch_\ Visible 0
 		/AdobeColorHarmony\ ShowOptions 1
 		/AdobeColorHarmony\ SizeUncnstr {
-			/v 122
+			/v 378
 			/h 210
 		}
 		/AdobeColorHarmony\ SizeCnstr {
@@ -295,10 +295,10 @@
 			/h 210
 		}
 		/AdobeColorHarmony\ Size {
-			/b 224
-			/r 1405
-			/t 102
-			/l 1195
+			/b 481
+			/r 1613
+			/t 103
+			/l 1403
 		}
 		/AdobeColorHarmony\ Location {
 			/v 0
@@ -306,7 +306,7 @@
 		}
 		/AdobeColorHarmony\ DockGroup (AdobeColorEditor)
 		/AdobeColorHarmony\ ExtendedDockCode 268435456
-		/AdobeColorHarmony\ DockCode 58982913
+		/AdobeColorHarmony\ DockCode 59048449
 		/AdobeColorHarmony\ Visible 0
 		/AdobeTransparencyEditor\ Size 1
 		/AdobeTransparencyEditor\ Location {
@@ -327,7 +327,7 @@
 		/AdobeTransformObjects\ Visible 0
 		/AdobeSymbolsPalette\ SymbolPaletteView 0
 		/AdobeSymbolsPalette\ SizeUncnstr {
-			/v 111
+			/v 328
 			/h 210
 		}
 		/AdobeSymbolsPalette\ SizeCnstr {
@@ -335,10 +335,10 @@
 			/h 210
 		}
 		/AdobeSymbolsPalette\ Size {
-			/b 212
-			/r 1630
-			/t 101
-			/l 1420
+			/b 512
+			/r 1397
+			/t 184
+			/l 1187
 		}
 		/AdobeSymbolsPalette\ Location {
 			/v 0
@@ -346,8 +346,8 @@
 		}
 		/AdobeSymbolsPalette\ DockGroup (AdobeColorEditor)
 		/AdobeSymbolsPalette\ ExtendedDockCode 268435456
-		/AdobeSymbolsPalette\ DockCode 58983170
-		/AdobeSymbolsPalette\ Visible 0
+		/AdobeSymbolsPalette\ DockCode 193266434
+		/AdobeSymbolsPalette\ Visible 1
 		/AdobeSeparationsPalette\ SizeUncnstr {
 			/v 145
 			/h 210
@@ -357,10 +357,10 @@
 			/h 210
 		}
 		/AdobeSeparationsPalette\ Size {
-			/b 175
-			/r 240
-			/t 30
-			/l 30
+			/b 648
+			/r 954
+			/t 503
+			/l 744
 		}
 		/AdobeSeparationsPalette\ Location {
 			/v 503
@@ -434,17 +434,17 @@
 		/AdobeFlatteningPreview\ ShowOptions 0
 		/AdobeFlatteningPreview\ SizeUncnstr {
 			/v 200
-			/h 467
+			/h 486
 		}
 		/AdobeFlatteningPreview\ SizeCnstr {
 			/v 200
-			/h 467
+			/h 486
 		}
 		/AdobeFlatteningPreview\ Size {
-			/b 230
-			/r 497
-			/t 30
-			/l 30
+			/b 513
+			/r 786
+			/t 313
+			/l 300
 		}
 		/AdobeFlatteningPreview\ Location {
 			/v 313
@@ -576,10 +576,10 @@
 			/h 210
 		}
 		/AdobeAppearancePalette\ Size {
-			/b 214
-			/r 1630
-			/t 101
-			/l 1420
+			/b 265
+			/r 1622
+			/t 109
+			/l 1412
 		}
 		/AdobeAppearancePalette\ Location {
 			/v 0

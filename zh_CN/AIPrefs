@@ -50,8 +50,8 @@
 		}
 	}
 	/faceSize 12.0
-	/units 2
-	/asianunits 2
+	/units 6
+	/asianunits 6
 	/groupTypeMenuByLanguage 1
 	/fontMenu {
 		/menuNameLimit 35
@@ -154,7 +154,7 @@
 	/memoryPercentage 0
 	/tweakHighMemory 0
 }
-/rulerType 1
+/rulerType 6
 /startup {
 	/showSplashScreen 1
 }
@@ -1180,6 +1180,7 @@
 		/InvertNewMasks 0
 	}
 	/DontShowWarningAgain {
+		/illegalCornerSmooth 1
 		/legacyCSSaveWarning 0
 		/DontShowAIWelcomeScreenAgain 1
 		/AI9ClrMgmtNoProfInFile 0
@@ -2594,7 +2595,7 @@
 /ovalRadius 34.0157470703
 /showToolTips 1
 /numbersArePoints 0
-/strokeUnits 2
+/strokeUnits 6
 /uiPersistDrawers 1
 /uiBrightness 1
 /uiOpenDocumentsAsTabs 1
@@ -2680,9 +2681,9 @@
 	/ActiveColor {
 		/AIColor {
 			/Gray {
-				/Gray 1.0
+				/Gray 0.0
 			}
-			/Kind (Gray)
+			/Kind (CMYK)
 			/CMYK {
 				/Cyan 0.0
 				/Magenta 0.0
@@ -2712,21 +2713,21 @@
 /unloadPlugins 1
 /maxRecentFiles 10
 /FileList {
-	/file0 [ 45
+	/file0 [ 43
+		433a5c77616d705c7777775c6a71756572792d75692d7468656d652d6a642e63
+		6f6d5c55495c55492e6169
+	]
+	/file1 [ 45
 		463a5ce68891e79a84e69687e6a1a35c4d792050696374757265735c41495ce6
 		9caae6a087e9a2982d312e6169
 	]
-	/file1 [ 33
-		653a5c4465736b746f705c44656c6574655ce69caae6a08733e9a2982d312e61
-		69
+	/file2 [ 43
+		453a5c576f726b5c44657369676e5ce7bd91e9a1b5e8aebee8aea15c313633e5
+		858de8b4b9e982ae2e6169
 	]
-	/file2 [ 33
-		653a5c4465736b746f705c44656c6574655c313633e5858de8b4b9e982ae2e61
-		69
-	]
-	/file3 [ 34
-		653a5c4465736b746f705c44656c6574655c313633e5858de8b4b9e982ae2e65
-		7073
+	/file3 [ 43
+		453a5c576f726b5c44657369676e5ce7bd91e9a1b5e8aebee8aea15c313633e5
+		858de8b4b9e982ae2e6169
 	]
 	/file4 [ 43
 		453a5c576f726b5c44657369676e5ce7bd91e9a1b5e8aebee8aea15c313633e5
@@ -2876,7 +2877,7 @@
 		/v 246
 	}
 }
-/showDirectionHandles 0
+/showDirectionHandles 1
 /snapToPoint 1
 /selectBehind 1
 /selectionTolerance 3
@@ -2885,12 +2886,11 @@
 /useLowResProxy 0
 /rastersys {
 	/scratch {
-		/primary [ 48
-			433a5c446f63756d656e747320616e642053657474696e67735c68705c4c6f63
-			616c2053657474696e67735c54656d70
-		]
-		/secondary [ 9
+		/primary [ 9
 			453a5c414954454d50
+		]
+		/secondary [ 0
+
 		]
 	}
 }
