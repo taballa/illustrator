@@ -1,1200 +1,791 @@
-/actionwarning {
-	/oldFileFormat 1
-}
-/printing {
-	/PostScript {
-		/preserveImageOrMeshFilledText 0
+/plugins [ 35
+	463a5ce98791e5b1b1e5bfabe79b985c4e6565645c41646f62655c506c75672d
+	696e73
+]
+/cropareatool {
+	/CropAreaControlPalette {
+		/9PointRef 16254
 	}
 }
-/templatesBrowsed 1
-/text {
-	/debugFontMenu {
-		/lieAboutNativeScript 0
-		/writeDebugFile 0
-	}
-	/useEnglishFontNames 0
-	/defaultFaceNames {
-		/Roman {
-			/1 (MyriadPro-Regular)
-		}
-		/Japanese {
-			/5 (MS-Mincho)
-			/4 (Ryumin-Light)
-			/3 (HeiseiMincho-W3)
-			/2 (HeiseiMin-W3)
-			/1 (KozGoPro-Regular)
-		}
-		/TraditionalChinese {
-			/1 (AdobeMingStd-Light)
-		}
-		/Korean {
-			/1 (AdobeMyungjoStd-Medium)
-		}
-		/SimplifiedChinese {
-			/1 (AdobeSongStd-Light)
-		}
-		/Cyrillic {
-			/1 (MyriadPro-Regular)
-		}
-		/EastEuropean {
-			/1 (MyriadPro-Regular)
-		}
-		/Turkish {
-			/1 (MyriadPro-Regular)
-		}
-		/Greek {
-			/1 (MyriadPro-Regular)
-		}
-		/Baltic {
-			/1 (MyriadPro-Regular)
-		}
-	}
-	/faceSize 12.0
-	/units 6
-	/asianunits 6
-	/groupTypeMenuByLanguage 1
-	/fontMenu {
-		/menuNameLimit 35
-		/showInFace 1
-		/showSubMenusInFace 0
-		/faceSizeMultiplier 1.25
-	}
-	/recentFontMenu {
-		/showNEntries 5
-	}
-	/greekingThreshold 6.0
-	/doFontLocking 1
-	/doNonLatinInlineInput 1
-	/sizeIncrement 2.0
-	/riseIncrement 2.0
-	/kernIncrement 20
-	/GreekingDisabled 1
+/startupProfiles {
+	/DefaultMobile [ 128
+		433a5c446f63756d656e747320616e642053657474696e67735c68705c417070
+		6c69636174696f6e20446174615c41646f62655c41646f626520496c6c757374
+		7261746f72204353352e312053657474696e67735c7a685f434e5c4e65772044
+		6f63756d656e742050726f66696c65735ce7a7bbe58aa8e8aebee5a4872e6169
+	]
+	/BasicRGB [ 126
+		433a5c446f63756d656e747320616e642053657474696e67735c68705c417070
+		6c69636174696f6e20446174615c41646f62655c41646f626520496c6c757374
+		7261746f72204353352e312053657474696e67735c7a685f434e5c4e65772044
+		6f63756d656e742050726f66696c65735ce59fbae69cac205247422e6169
+	]
+	/BasicCMYK [ 127
+		433a5c446f63756d656e747320616e642053657474696e67735c68705c417070
+		6c69636174696f6e20446174615c41646f62655c41646f626520496c6c757374
+		7261746f72204353352e312053657474696e67735c7a685f434e5c4e65772044
+		6f63756d656e742050726f66696c65735ce59fbae69cac20434d594b2e6169
+	]
+	/DefaultVideo [ 131
+		433a5c446f63756d656e747320616e642053657474696e67735c68705c417070
+		6c69636174696f6e20446174615c41646f62655c41646f626520496c6c757374
+		7261746f72204353352e312053657474696e67735c7a685f434e5c4e65772044
+		6f63756d656e742050726f66696c65735ce8a786e9a291e5928ce883b6e78987
+		2e6169
+	]
+	/DefaultWeb [ 119
+		433a5c446f63756d656e747320616e642053657474696e67735c68705c417070
+		6c69636174696f6e20446174615c41646f62655c41646f626520496c6c757374
+		7261746f72204353352e312053657474696e67735c7a685f434e5c4e65772044
+		6f63756d656e742050726f66696c65735c5765622e6169
+	]
+	/DefaultPrint [ 122
+		433a5c446f63756d656e747320616e642053657474696e67735c68705c417070
+		6c69636174696f6e20446174615c41646f62655c41646f626520496c6c757374
+		7261746f72204353352e312053657474696e67735c7a685f434e5c4e65772044
+		6f63756d656e742050726f66696c65735ce68993e58db02e6169
+	]
 }
-/showAsianTextOptions 1
-/hyphenation {
-	/language 0
-}
-/Snapomatic {
-	/Blend {
-		/up (A v)
-		/down (A v)
-	}
-	/Select {
-		/up (A v o f)
-		/down (ATFGPLM v i o f)
-	}
-	/RangeSelect {
-		/up ()
-		/down ()
-	}
-	/Zoom {
-		/up ()
-		/down ()
-	}
-	/Page {
-		/up (ATFGP v i o)
-		/down (ATFGP v i o)
-	}
-	/Ruler {
-		/up (ATFGP v i o)
-		/down (ATFGPM v i o)
-	}
-	/Guide {
-		/up (ATFGP v i o)
-		/down (ATFGP v i o)
-	}
-	/Scissor {
-		/up (ATFGP v i o)
-		/down (ATFGP v i o)
-	}
-	/SquareCircle {
-		/up (ATFGP v i o)
-		/down (ATFGP v i o)
-	}
-	/Pen {
-		/up (ATFGPLMSU v i o)
-		/down (ATFGP v i o)
-	}
-	/Translate {
-		/up (ATFGP v i o)
-		/down (ATFGPBLM v i o)
-	}
-	/Scale {
-		/up (ATFGP v i o)
-		/down (ATFGPBLM v i o)
-	}
-	/Rotate {
-		/up (ATFGP v i o)
-		/down (ATFGPLM v i o)
-	}
-	/Reflect {
-		/up (ATFGP v i o)
-		/down (ATFGPLM v i o)
-	}
-	/Shear {
-		/up (ATFGP v i o)
-		/down (ATFGPLM v i o)
-	}
-	/Eyebucket {
-		/up (A v o f)
-		/down (A v o f)
-	}
-	/GeometryTranslate {
-		/up (A v i o)
-		/down (LM v i o)
+/Threshold {
+	/DbrushPath {
+		/Save 30
 	}
 }
-/useProcessorSpecificCode 1
-/editableGuides 1
-/EnableInternalMemoryPool 0
-/startupProfiles 6
-/memory {
-	/usePhysicalRAMSize 0
-	/physicalRAMSize 3327
-	/memoryPercentage 0
-	/tweakHighMemory 0
+/defaultPath [ 31
+	463a5ce68891e79a84e69687e6a1a35c4d792050696374757265735c41495c
+]
+/FileNewFirstTime 0
+/startupFileType [ 122
+	433a5c446f63756d656e747320616e642053657474696e67735c68705c417070
+	6c69636174696f6e20446174615c41646f62655c41646f626520496c6c757374
+	7261746f72204353352e312053657474696e67735c7a685f434e5c4e65772044
+	6f63756d656e742050726f66696c65735ce68993e58db02e6169
+]
+/open {
+	/legacyGradientMeshConversion 0
 }
-/rulerType 6
-/startup {
-	/showSplashScreen 1
+/LegacyArtboardOptions {
+	/artworkBounds 0
+	/pageTiles 0
+	/cropAreas 1
+	/artboard 1
+	/ShowDialog 1
 }
-/loadAdditionalPlugins 0
-/pluginCacheCheckModDate -331632426
-/pluginCacheCheckCreateDate -331632426
+/artnewdialog {
+	/bleedsLocked 1
+	/bottomBleedSize 0.0
+	/topBleedSize 0.0
+	/rightBleedSize 0.0
+	/leftBleedSize 0.0
+	/isArtboardLayoutLeftToRight 1
+	/artboardLayout 0
+	/artboardRowsOrCols 1
+	/artboardSpacing 20.0
+	/numArtboards 1
+	/advancedOptions 0
+	/pixelaspectratio 1.0
+	/transparencygrid_color2_blue 52428
+	/transparencygrid_color2_green 52428
+	/transparencygrid_color2_red 52428
+	/transparencygrid_color1_blue 65535
+	/transparencygrid_color1_green 65535
+	/transparencygrid_color1_red 65535
+	/transparencygrid 0
+	/pixelperfectobjects 0
+	/rasterresolution 300
+	/previewmode 2
+	/documentType 1
+	/fileModifiedDate -912772076
+	/fileSize 223507
+}
+/ExperimentalPixelMerge 0
+/Illustrator\ version 15
+/perspectivegrid {
+	/expandAnswer 0
+}
+/artboard {
+	/height 1224.0
+	/width 792.0
+	/transform 0
+}
+/rastersys {
+	/scratch {
+		/secondary [ 0
+
+		]
+		/primary [ 10
+			453a5c414954454d505c
+		]
+	}
+}
+/useLowResProxy 0
+/directionHandleMarkType 4
+/snappingTolerance 2
+/selectionTolerance 3
+/selectBehind 1
+/snapToPoint 1
+/showDirectionHandles 1
+/preferencesDialog {
+	/position {
+		/v 246
+		/h 499
+	}
+}
+/doubleClickToIsolate 1
+/fileFormatGetFile {
+	/ConvertedInFilename 1
+}
+/artNamesAreXMLIDs 0
+/outlineTol 0.0
+/freehandTol 2.0
+/cursorKeyLength 1.0
+/selectSameTintPercentage 0
+/pen {
+	/disableAutoAddDelete 0
+}
+/scaleLineWeight 0
+/transformPatterns 0
+/hitTypeShapeOnPreview 1
+/hitShapeOnPreview 1
+/useSnapomatic 1
+/enableAGMThreadedRendering 0
+/enableHyperThreadedRendering 0
+/constrain {
+	/sin 0.0
+	/cos 1.0
+	/angle 0.0
+}
+/Guide {
+	/Color {
+		/blue 1.0
+		/green 1.0
+		/red 0.2899976969
+	}
+	/Style 0
+	/ShowPixelGrid 1
+}
+/PeriodicCopyDelay 0.5
+/RenderingTimerEnabled 0
+/NewRenderingEnabled 1
+/enableThreadedRendering 1
+/photoshopFilter {
+	/separateProcess 0
+	/excludeSpots 0
+}
+/shrinkToFitResizedDocs 1
+/messageIndex 0
+/antialias {
+	/image 1
+	/text 1
+	/graphic 1
+}
+/pageTiling {
+	/imageBoundsColor (r=0x00, g=0x00, b=0x00)
+	/mediaBoundsColor (r=0x00, g=0x00, b=0x00)
+}
+/maxMRUFiles 500
+/blackPreservation {
+	/Export 1
+	/Onscreen 1
+}
+/warning {
+	/legacyTextConversion 1
+	/colorConversion 1
+	/fontProblem 1
+}
+/aiFileFormat {
+	/enableATEWriteRecovery 0
+	/PDFCompatibility 1
+	/enableATEReadRecovery 0
+	/enableContentRecovery 0
+	/dumpPGFwithoutShortcut 0
+	/cmykPostScript 1
+}
+/xml {
+	/UID {
+		/autoBaseNameUS [ 5
+			584d4c4944
+		]
+	}
+}
+/colorModel 2
+/cropMarkStyle 0
+/isRulerOriginTopLeft 1
+/printerResolution 800.0
+/doSplitPath 0
+/showPlacedImages 0
+/Grid {
+	/Color {
+		/Lite {
+			/b 0.8999999762
+			/g 0.8999999762
+			/r 0.8999999762
+		}
+		/Dark {
+			/b 0.8000000119
+			/g 0.8000000119
+			/r 0.8000000119
+		}
+	}
+	/Style 0
+	/Posn 1
+	/Vertical {
+		/Ticks 8
+		/Spacing 72.0
+	}
+	/Horizontal {
+		/Ticks 8
+		/Spacing 72.0
+	}
+}
+/undoDepth 5
+/maxUndoDepth 200
+/stickycursor 0
+/usePreciseCursors 0
+/layout {
+	/0 {
+		/FrameWindowMaximized 1
+		/FrameWindow {
+			/r 1440
+			/b 870
+			/t 0
+			/l 0
+		}
+	}
+}
+/FileList {
+	/file9 [ 0
+
+	]
+	/file8 [ 0
+
+	]
+	/file7 [ 0
+
+	]
+	/file6 [ 0
+
+	]
+	/file5 [ 43
+		453a5c576f726b5c44657369676e5ce7bd91e9a1b5e8aebee8aea15c313633e5
+		858de8b4b9e982ae2e6169
+	]
+	/file4 [ 43
+		453a5c576f726b5c44657369676e5ce7bd91e9a1b5e8aebee8aea15c313633e5
+		858de8b4b9e982ae2e6169
+	]
+	/file3 [ 43
+		453a5c576f726b5c44657369676e5ce7bd91e9a1b5e8aebee8aea15c313633e5
+		858de8b4b9e982ae2e6169
+	]
+	/file2 [ 45
+		463a5ce68891e79a84e69687e6a1a35c4d792050696374757265735c41495ce6
+		9caae6a087e9a2982d312e6169
+	]
+	/file1 [ 43
+		433a5c77616d705c7777775c6a71756572792d75692d7468656d652d6a642e63
+		6f6d5c55495c55492e6169
+	]
+	/file0 [ 45
+		463a5ce68891e79a84e69687e6a1a35c4d792050696374757265735c41495ce6
+		9caae6a087e9a2982d322e6169
+	]
+}
+/maxRecentFiles 10
+/unloadPlugins 1
+/layers {
+	/pastePreserveBackup 0
+	/pastePreserve 0
+}
+/DefaultPaintStyle {
+	/ActiveGradient {
+		/AIColor {
+			/Kind (Gradient)
+			/Gradient {
+				/Name [ 0
+
+				]
+			}
+			/Gray {
+				/Gray 0.0
+			}
+		}
+	}
+	/ActiveColor {
+		/AIColor {
+			/CMYK {
+				/Black 1.0
+				/Yellow 0.0
+				/Magenta 0.0
+				/Cyan 0.0
+			}
+			/Kind (CMYK)
+			/Gray {
+				/Gray 0.0
+			}
+		}
+	}
+	/PathStyle {
+		/Stroke {
+			/MiterLimit 10.0
+			/Join (MiterJoin)
+			/Cap (ButtCap)
+			/Dash {
+				/Offset 0.0
+				/Length 0
+			}
+			/Width 1.0
+			/Overprint 0
+			/AIColor {
+				/CMYK {
+					/Black 1.0
+					/Yellow 0.0
+					/Magenta 0.0
+					/Cyan 0.0
+				}
+				/Kind (CMYK)
+			}
+		}
+		/StrokePaint 0
+		/Fill {
+			/Overprint 0
+			/AIColor {
+				/CMYK {
+					/Black 0.0
+					/Yellow 0.0
+					/Magenta 0.0
+					/Cyan 0.0
+				}
+				/Gray {
+					/Gray 1.0
+				}
+				/Kind (Gray)
+			}
+		}
+		/FillPaint 1
+	}
+	/StrokeActive 1
+}
+/onlyTransformPatterns 0
+/isRulerIn4thQuad 1
+/dontUseSymbolRegPoint 0
+/linkTransform 0
+/AI\ Container\ Overrides\ Object 1
+/AI\ New\ Art\ Basic\ Appearance 1
+/precision {
+	/percentageNoUnits 2
+	/angleNoUnits 3
+	/fixedNoUnits 3
+	/millimetersWithUnits 3
+	/centimetersWithUnits 4
+	/inchesWithUnits 4
+	/pixelsWithUnits 3
+	/pointsWithUnits 3
+}
+/attributePalette {
+	/URL29 ()
+	/URL28 ()
+	/URL27 ()
+	/URL26 ()
+	/URL25 ()
+	/URL24 ()
+	/URL23 ()
+	/URL22 ()
+	/URL21 ()
+	/URL20 ()
+	/URL19 ()
+	/URL18 ()
+	/URL17 ()
+	/URL16 ()
+	/URL15 ()
+	/URL14 ()
+	/URL13 ()
+	/URL12 ()
+	/URL11 ()
+	/URL10 ()
+	/URL9 ()
+	/URL8 ()
+	/URL7 ()
+	/URL6 ()
+	/URL5 ()
+	/URL4 ()
+	/URL3 ()
+	/URL2 ()
+	/URL1 ()
+	/URL0 ()
+	/currentUrlCount 0
+	/maxUrlCount 30
+}
+/uiOpenDocumentsAsTabs 1
+/uiBrightness 1
+/uiPersistDrawers 1
+/strokeUnits 6
+/numbersArePoints 0
+/showToolTips 1
+/ovalRadius 3.0
+/includeStrokeInBounds 0
+/showBoundingBox 1
+/BucketTool {
+	/graphicsStyleExpanded 1
+	/text {
+		/paragraphStyle 1
+		/characterStyle 1
+	}
+	/paint {
+		/strokeExpanded 1
+		/fillExpanded 1
+		/objectExpanded 1
+		/stroke {
+			/dash 1
+			/miter 1
+			/join 1
+			/cap 1
+			/weight 1
+			/overprint 1
+			/transparency 1
+			/color 1
+		}
+		/stroke 1
+		/fill {
+			/overprint 1
+			/transparency 1
+			/color 1
+		}
+		/fill 1
+		/object {
+			/transparency 1
+		}
+	}
+	/graphicsStyle 0
+	/rasterSampleSize 1
+}
+/EyedropperTool {
+	/graphicsStyleExpanded 1
+	/text {
+		/paragraphStyle 1
+		/characterStyle 1
+	}
+	/paint {
+		/strokeExpanded 1
+		/fillExpanded 1
+		/objectExpanded 1
+		/stroke {
+			/dash 1
+			/miter 1
+			/join 1
+			/cap 1
+			/weight 1
+			/overprint 1
+			/transparency 1
+			/color 1
+		}
+		/stroke 1
+		/fill {
+			/overprint 1
+			/transparency 1
+			/color 1
+		}
+		/fill 1
+		/object {
+			/transparency 1
+		}
+	}
+	/graphicsStyle 0
+	/rasterSampleSize 1
+}
+/checkRequiredPlugins 1
+/ColorHarmony {
+	/HarmonyDialogRecolorArtCheckbox 1
+	/VariationTypeColorGuide 0
+	/ShowHideColorGuide 1
+	/combineTintsOnExtraction 1
+	/mapMethodApplyToAll 1
+	/mapMethodPreserveSpots 1
+	/SliderColorSpace 3
+	/ShowAdjustSliders 0
+	/ShowStorage 1
+}
+/Persistent\ Swatch\ Count 0
+/Gradient\ Annotator\ View\ Option 1
+/unselectedAnchorMarkType 1
+/selectedAnchorMarkType 2
+/highlightAnchorOnMouseOver 1
+/snapomatic {
+	/Color {
+		/blue 0.2899976969
+		/green 1.0
+		/red 0.2899976969
+	}
+}
+/smartGuides {
+	/customAngles3 135.0
+	/customAngles2 90.0
+	/customAngles1 45.0
+	/customAngles0 0.0
+	/angles3 135.0
+	/angles2 90.0
+	/angles1 45.0
+	/angles0 0.0
+	/customAnglesCount 4
+	/isEnabled 0
+	/tolerance 4
+	/anglesCount 4
+	/showAlignmentGuides 1
+	/showReadouts 1
+	/showObjectHighlighting 1
+	/showToolGuides 0
+	/showConstructionGuides 0
+	/showLabels 1
+}
+/Planar {
+	/MergeTool {
+		/Highlight {
+			/StrokeColor {
+				/Blue 20224
+				/Green 20224
+				/Red 65535
+			}
+			/StrokeColorIndex 1
+			/Stroke 1
+			/Fill 1
+		}
+		/PreviewSwatchCursor 0
+		/PaintFills 1
+		/BreakEdge 0
+		/ClosedOpenFillPaths 1
+		/Gap {
+			/Length 3.0
+			/CustomGap 0
+			/Type 0
+			/Detect 0
+		}
+	}
+	/FaceSelect {
+		/SelectStrokes 1
+		/SelectFills 1
+		/Highlight {
+			/Stroke 4.0
+			/Color {
+				/blue 0.2899999917
+				/green 0.2899999917
+				/red 1.0
+			}
+		}
+		/Highlight 1
+	}
+	/Paintbucket {
+		/CursorSwatchPrevew 1
+		/PaintStrokes 0
+		/PaintFills 1
+		/Highlight {
+			/Stroke 4.0
+			/Color {
+				/blue 0.2899999917
+				/green 0.2899999917
+				/red 1.0
+			}
+		}
+		/Highlight 1
+	}
+	/Resolution 100
+	/ArtboardGapPreview 0
+	/GapDetection {
+		/PreviewOn 1
+		/GapColor {
+			/blue 0.2899999917
+			/green 0.2899999917
+			/red 1.0
+		}
+		/Custom 0
+		/Size 3.0
+	}
+	/GapDetection 1
+}
 /plugin {
-	/ColorPickerDlg {
-		/WebSafe 0
-		/ItemID 8
+	/ArtboardRearrange {
 	}
-	/BlobBrushOptions {
+	/VectorScribe {
+		/DCPanelVisible 0
+		/DSPanelVisible 0
+		/DMPanelVisible 0
+		/PSPanelVisible 0
+		/PRPanelVisible 0
+		/DCCornerUseTrueRadius 1
+		/DCCornerType 1
+		/DCCornerRadius 9.0
+		/DSLinkedSlice 0
+		/DSLinkedDim 1
+		/DSSliceEnd 0.0
+		/DSSliceStart 0.0
+		/DSStarOuter 0
+		/DSUseTrueRadius 1
+		/DSCornerType 0
+		/DSCornerRadius 0.0
+		/DSInnerDim 56.9209976196
+		/DSOuterDim 56.9209976196
+		/DSCenterY -558.0004882813
+		/DSCenterX 414.0
+		/DSSides 5
+		/DSShapeType 0
+		/DCPanelLocation {
+			/y 103
+			/x 1367
+		}
+		/DCPanelDockCode 327682
+		/DCPanelDockGroup (AdobeTransformObjects)
+		/DSPanelLocation {
+			/y 103
+			/x 1367
+		}
+		/DSPanelDockCode 328194
+		/DSPanelDockGroup (AdobeTransformObjects)
+		/DMPanelLocation {
+			/y 103
+			/x 1367
+		}
+		/DMPanelDockCode 262914
+		/DMPanelDockGroup (AdobeTransformObjects)
+		/PSPanelLocation {
+			/y 103
+			/x 1367
+		}
+		/PSPanelDockCode 263170
+		/PSPanelDockGroup (AdobeTransformObjects)
+		/PRPanelLocation {
+			/y 103
+			/x 1367
+		}
+		/PRPanelDockCode 263426
+		/PRPanelDockGroup (AdobeTransformObjects)
+		/DCAnnotationSmooth 1
+		/DCAnnotationColor 0
+		/DCCRPStyle 1
+		/DCActiveMode 1
+		/DCDisplayArrows 1
+		/DCRecallLast 0
+		/DSLargeHandles 0
+		/DSShapesByBoundingBox 0
+		/DSSlicesByPercentage 0
+		/DSRecallLast 0
+		/DMSettingsWritten 1
+		/DMUnlockedConvertLayer 0
+		/DMScaleUnits 0
+		/DMScale 1.0
+		/DMPrecision 3
+		/DMRadiiLines 21
+		/DMHoverHandleMode 7
+		/DMHoverPointMode 8
+		/DMHoverSegNormals 1
+		/DMHoverSegTangent 0
+		/DMHoverSegRadius 0
+		/DMHoverPathLength 1
+		/DMHoverSegLength 1
+		/DMHoverPathInfo 1
+		/DMShowHover 1
+		/DMAnnotFields 24
+		/DMAnnotMode 60
+		/DMAnnotPosition 2
+		/DMShowConvertButton 1
+		/DMShowDeleteButton 1
+		/DMAnnotRed 1
+		/DMAnnotBoxed 1
+		/DMAnnotBold 1
+		/DMAnnotBig 1
+		/DMAnnotDelay 4
+		/DMShowWhenDeselected 1
+		/DMRetainedMeasures 25
+		/DMKeepArrows 1
+		/DMShowArrows 1
+		/DMIconNum 0
+		/DMRingMode 7
+		/DMShiftRequired 0
+		/DMResetOnSelect 0
+		/DMDefaultLineWeight 0.25
+		/DMDefaultTextSize 8.0
+		/DMDefaultFont [ 10
+			4d79726961642050726f
+		]
+		/DMMeasureDirIndicator 1
+		/DMRedLine 1
+		/DMSetDistance 4
+		/DMSetAngle 4
+		/DMClickDrag 0
+		/PSSettingsWritten 1
+		/PSAngleThreshhold 5.0
+		/PSRecognizeConnectors 0
+		/PSPathDragFollowsCursor 1
+		/PSHighlightTangencies 1
+		/PSSnapToTangencies 1
+		/PSToolAddsPoints 1
+		/PSCounterrotate 1
+		/PSPanelExpansion 1
+		/PSBoxedTextLarge 0
+		/PSBoxedText 0
+		/PSRingHasText 1
+		/PSUseRingPaths 1
+		/PSUseRing 1
+		/PSMHSetAngle 0.0
+		/PSMHSetLength 0.0
+		/PSMHRotate 0.0
+		/PSMHScale 100.0
+		/PSMHIncrement 1.0
+		/PSSlowDragDivider 5.0
+		/PSShiftMultiplier 5.0
+		/PSMHExtendStopAtZero 0
+		/PSMHExtendProportionally 1
+		/PSSlowDragCtrl 1
+		/PSMultiPointDrag 1
+		/PSPointDrag 1
+		/PSSlowDrag 0
+		/PSDragBreak 1
+		/PSAnchorAllHandles 0
+		/PSShiftEqualizes 0
+		/PSSmoothing 0.3905244
+		/PSPrecision 3
+		/ProtractorAngle3 30.0
+		/ProtractorAngle2 90.0
+		/ProtractorAngle1 150.0
+	}
+	/GlobalBrushOptions {
 		/fidelity 4.0
 		/smoothness 0.0
-		/limitMerge 0
-		/keepSelected 0
+		/select 0
+		/fill 0
 	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\704\654\710\717\711\653\660\745\\\712\723\706\665\672\715\675\672\706\654.ai {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\704\654\710\717\711\653\660\745\\\722\706\666\657\711\750\661\670.ai {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\704\654\710\717\711\653\660\745\\\664\762\723\641.ai {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\704\654\710\717\711\653\660\745\\\673\771\661\676\ RGB.ai {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\704\654\710\717\711\653\660\745\\\673\771\661\676\ CMYK.ai {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\704\654\710\717\711\653\660\745\\Web.ai {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\704\654\710\717\711\653\660\745\\Flash\ Catalyst.ai {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\712\663\706\667\\\722\773\701\717.ase {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\712\663\706\667\\\712\737\662\713.ase {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\712\663\706\667\\\714\760\706\667.ase {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\712\663\706\667\\\713\656\671\773.ase {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\712\663\706\667\\\661\771\744\677\701\734.ase {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\721\725\711\653\712\764\720\724\\\661\645\672\715\711\653.ase {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\721\725\711\653\712\764\720\724\\\707\663\711\653.ase {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\721\725\711\653\712\764\720\724\\\710\741\672\715\711\653.ase {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\721\725\711\653\712\764\720\724\\\660\665\711\653.ase {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\721\725\711\653\712\764\720\724\\\705\657\711\653.ase {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\721\725\711\653\712\764\720\724\\\700\744\711\653.ase {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\721\725\711\653\712\764\720\724\\\701\701\711\653.ase {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\721\725\711\653\712\764\720\724\\\662\673\661\645\672\715\711\653.ase {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\722\725\712\765\712\667\\\724\666\671\705\667\747\670\761.ase {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\722\725\712\765\712\667\\\701\767\720\720\722\725\712\765\667\747\670\761.ase {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\722\725\712\765\712\667\\\716\704\722\725\670\664\720\713\667\747\670\761.ase {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\722\725\712\765\712\667\\\660\715\702\745\677\713\667\747\670\761.ase {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\722\725\712\765\712\667\\\712\667\707\660\667\747\670\761.ase {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\722\725\712\765\712\667\\\723\641\717\763\705\711\667\747\670\761.ase {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\722\725\712\765\712\667\\\666\755\671\772\672\643\661\650\722\725\712\765\667\747\670\761.ase {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\722\725\712\765\712\667\\\726\720\712\700\674\715\667\747\670\761.ase {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\TRUMATCH.acb {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\TOYO\ Color\ Finder.acb {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\TOYO\ 94\ COLOR\ FINDER.acb {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\PANTONE\ solid\ uncoated.acb {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\PANTONE\ solid\ to\ process.acb {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\PANTONE\ solid\ to\ process\ EURO.acb {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\PANTONE\ solid\ matte.acb {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\PANTONE\ solid\ coated.acb {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\PANTONE\ process\ uncoated.acb {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\PANTONE\ process\ coated.acb {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\PANTONE\ pastel\ uncoated.acb {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\PANTONE\ pastel\ coated.acb {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\PANTONE\ metallic\ coated.acb {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\PANTONE\ color\ bridge\ CMYK\ UP.acb {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\PANTONE\ color\ bridge\ CMYK\ PC.acb {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\PANTONE\ color\ bridge\ CMYK\ EC.acb {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\HKS\ Z.acb {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\HKS\ Z\ Process.acb {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\HKS\ N.acb {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\HKS\ N\ Process.acb {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\HKS\ K.acb {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\HKS\ K\ Process.acb {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\HKS\ E.acb {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\HKS\ E\ Process.acb {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\FOCOLTONE.acb {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\DIC\ Color\ Guide.acb {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\ANPA\ Color.acb {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\727\724\710\673\\\667\747\676\660.ase {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\727\724\710\673\\\673\650\666\744.ase {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\727\724\710\673\\\712\657\715\667\672\715\727\651\677\751.ase {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\727\724\710\673\\\672\643\714\662.ase {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\727\724\710\673\\\674\676\675\732.ase {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\727\724\710\673\\\722\666\727\723.ase {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\677\706\721\647\\\675\774\713\706\711\653.ase {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\677\706\721\647\\\713\704\711\653\727\751\672\717.ase {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\677\706\721\647\\\667\726\701\721\673\645\662\671\711\653.ase {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\677\706\721\647\\\673\645\662\671\711\653.ase {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\677\706\721\647\\\710\775\711\653\727\751\672\717.ase {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\721\725\711\653\727\751\672\717.ai {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\675\760\712\764.ai {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\700\657\661\712.ai {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\711\653\706\727.ai {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\711\653\662\712\665\767\672\715.ai {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\667\764\711\653.ai {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\674\762\665\645\676\666\717\762.ai {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\712\657\715\667\672\715\727\651\677\751.ai {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\723\761\712\657\672\715\726\751\661\646.ai {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\675\645\722\776.ai {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\665\655\711\653\672\715\660\665\711\653.ai {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\713\656\671\773\672\715\712\737\662\713.ai {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\713\656.ai {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\704\676\726\712.ai {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\724\716\723\660.ai {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\703\767\701\701.ai {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\674\676\675\732.ai {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\714\754\677\725.ai {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\664\763\665\730\711\653\665\767.ai {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\722\666\727\723.ai {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\726\720\720\724\711\653.ai {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\715\674\660\670\\\727\660\712\716\\\727\660\712\716_\673\650\712\716.ai {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\715\674\660\670\\\727\660\712\716\\\727\660\712\716_\717\726\664\772.ai {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\715\674\660\670\\\727\660\712\716\\\727\660\712\716_\671\705\665\744.ai {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\715\674\660\670\\\727\660\712\716\\\727\660\712\716_\724\655\712\674.ai {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\715\674\660\670\\\727\660\712\716\\\727\660\712\716_\674\670\672\716\715\674\720\716\ 2.ai {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\715\674\660\670\\\727\660\712\716\\\727\660\712\716_\674\670\672\716\715\674\720\716\ 1.ai {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\715\674\660\670\\\727\724\710\673\\\727\724\710\673_\722\666\727\723.ai {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\715\674\660\670\\\727\724\710\673\\\727\724\710\673_\666\657\716\757\706\644.ai {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\715\674\660\670\\\673\771\661\676\715\674\720\716\\\673\771\661\676\715\674\720\716_\717\737\714\765.ai {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\715\674\660\670\\\673\771\661\676\715\674\720\716\\\673\771\661\676\715\674\720\716_\716\706\700\755.ai {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\715\674\660\670\\\673\771\661\676\715\674\720\716\\\673\771\661\676\715\674\720\716_\665\743.ai {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\675\760\712\764.ase {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\667\764\711\653.ase {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\667\704\726\657\706\667.ase {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\717\665\715\663\ (Windows).ai {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\717\665\715\663\ (Macintosh).ai {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\707\754\727\643.ase {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\664\763\665\730\711\653\665\767.ase {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\671\653\713\676.ase {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\666\771\715\657\716\757\706\667.ase {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\726\720\720\724.ase {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\Web.ai {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\VisiBone2.ai {
-		/Persistent 0
-		/DockCode 130817
-	}
-	/AIProxy_CacheFile_MetaData {
-		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\TRUMATCH.acb < 16
-			0cc000003a2b98c93a2b98c900000000
-		>
-		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\TRUMATCH.acb 16
-		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\TOYO\ Color\ Finder.acb < 16
-			846d000064f717c164f717c100000000
-		>
-		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\TOYO\ Color\ Finder.acb 16
-		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\TOYO\ 94\ COLOR\ FINDER.acb < 16
-			fa57000064f717c164f717c100000000
-		>
-		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\TOYO\ 94\ COLOR\ FINDER.acb 16
-		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE\ solid\ uncoated.acb < 16
-			e06a00003a2b98c93a2b98c900000000
-		>
-		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE\ solid\ uncoated.acb 16
-		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE\ solid\ to\ process.acb < 16
-			d66600003a2b98c93a2b98c900000000
-		>
-		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE\ solid\ to\ process.acb 16
-		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE\ solid\ to\ process\ EURO.acb < 16
-			f06600003a2b98c93a2b98c900000000
-		>
-		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE\ solid\ to\ process\ EURO.acb 16
-		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE\ solid\ matte.acb < 16
-			c26a00003a2b98c93a2b98c900000000
-		>
-		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE\ solid\ matte.acb 16
-		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE\ solid\ coated.acb < 16
-			cc6a00003a2b98c93a2b98c900000000
-		>
-		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE\ solid\ coated.acb 16
-		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE\ process\ uncoated.acb < 16
-			2c1601003a2b98c93a2b98c900000000
-		>
-		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE\ process\ uncoated.acb 16
-		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE\ process\ coated.acb < 16
-			181601003a2b98c93a2b98c900000000
-		>
-		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE\ process\ coated.acb 16
-		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE\ pastel\ uncoated.acb < 16
-			741000003a2b98c93a2b98c900000000
-		>
-		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE\ pastel\ uncoated.acb 16
-		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE\ pastel\ coated.acb < 16
-			601000003a2b98c93a2b98c900000000
-		>
-		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE\ pastel\ coated.acb 16
-		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE\ metallic\ coated.acb < 16
-			2e1d00003a2b98c93a2b98c900000000
-		>
-		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE\ metallic\ coated.acb 16
-		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE\ color\ bridge\ CMYK\ UP.acb < 16
-			f0660000f22dfcc1f22dfcc100000000
-		>
-		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE\ color\ bridge\ CMYK\ UP.acb 16
-		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE\ color\ bridge\ CMYK\ PC.acb < 16
-			c6680000022efcc1022efcc100000000
-		>
-		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE\ color\ bridge\ CMYK\ PC.acb 16
-		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE\ color\ bridge\ CMYK\ EC.acb < 16
-			aa660000e88afcc1e88afcc100000000
-		>
-		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE\ color\ bridge\ CMYK\ EC.acb 16
-		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\HKS\ Z.acb < 16
-			7b0500003a2b98c93a2b98c900000000
-		>
-		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\HKS\ Z.acb 16
-		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\HKS\ Z\ Process.acb < 16
-			160800003a2b98c93a2b98c900000000
-		>
-		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\HKS\ Z\ Process.acb 16
-		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\HKS\ N.acb < 16
-			040800003a2b98c93a2b98c900000000
-		>
-		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\HKS\ N.acb 16
-		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\HKS\ N\ Process.acb < 16
-			160800003a2b98c93a2b98c900000000
-		>
-		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\HKS\ N\ Process.acb 16
-		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\HKS\ K.acb < 16
-			260800003a2b98c93a2b98c900000000
-		>
-		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\HKS\ K.acb 16
-		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\HKS\ K\ Process.acb < 16
-			160800003a2b98c93a2b98c900000000
-		>
-		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\HKS\ K\ Process.acb 16
-		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\HKS\ E.acb < 16
-			100800003a2b98c93a2b98c900000000
-		>
-		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\HKS\ E.acb 16
-		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\HKS\ E\ Process.acb < 16
-			160800003a2b98c93a2b98c900000000
-		>
-		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\HKS\ E\ Process.acb 16
-		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\FOCOLTONE.acb < 16
-			484a00003a2b98c93a2b98c900000000
-		>
-		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\FOCOLTONE.acb 16
-		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\DIC\ Color\ Guide.acb < 16
-			447400003a2b98c93a2b98c900000000
-		>
-		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\DIC\ Color\ Guide.acb 16
-		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\ANPA\ Color.acb < 16
-			c01b00003a2b98c93a2b98c900000000
-		>
-		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\ANPA\ Color.acb 16
-		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Support\ Files\\Contents\\Windows\\AIDelayLoadedPlugins.cfg 16
-		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Support\ Files\\Contents\\Windows\\AIDelayLoadedPlugins.cfg < 16
-			eb1000007e7a52c87e7a52c800000000
-		>
-		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Support\ Files\\Contents\\Windows\\AIResolutionIndependentEffects.cfg 16
-		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Support\ Files\\Contents\\Windows\\AIResolutionIndependentEffects.cfg < 16
-			e8120000faabf2c5faabf2c500000000
-		>
-	}
-	/Debug {
-		/useDebugMenu 0
-		/timeActions 0
-	}
-	/BRSTool30Mar9816Build {
-		/noise_filter_degree 4
-		/corner_angle 120.0
-		/editing_distance 12.0
-		/select_results 1
-		/slow_pointer_speed 0
+	/PDF {
+		/CompressPGF 1
 	}
-	/BRSPencilTool {
-		/fidelity 2.5
-		/smoothness 0.0
-		/select_results 1
-		/edit_selection 1
-		/filling 0
-	}
-	/BRSSmootherTool {
-		/fidelity 2.5
-		/smoothness 25.0
-	}
-	/Rasterize {
-		/rasterizeMemory 20
-		/Defaults {
-			/Type 4
-			/DPI 72
-			/Alias 0
-			/Spot 1
-			/Mask 0
-			/Padding 36.0
-		}
-	}
-	/AdobeSlicingPlugin {
-		/addSlicingTools 1
-		/divideHorizontally 1
-		/divideVertically 1
-		/divideEvenHorizontally 1
-		/divideEvenVertically 1
-		/dividePreview 0
-		/divideHorizontallyCount 1
-		/divideHorizontallyPixelCount 0
-		/divideVerticallyCount 1
-		/divideVerticallyPixelCount 0
-		/showSliceNumbers 1
-		/feedback {
-			/red 65535
-			/green 19018
-			/blue 19018
-		}
-		/lockSlices 0
-	}
-	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\673\655\661\712\\Wacom\ 6D\ \673\655\661\712\\6d\ \722\725\712\765\670\726\661\712\673\655\661\712.ai {
-		/Persistent 0
-	}
-	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\673\655\661\712\\\703\653\713\642\673\655\661\712\\\703\653\713\642\673\655\661\712\677\742.ai {
-		/Persistent 0
-	}
-	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\673\655\661\712\\\712\670\701\677\660\774\\\712\726\673\746\673\655\661\712\712\670\701\677\660\774.ai {
-		/Persistent 0
-	}
-	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\673\655\661\712\\\712\670\701\677\660\774\\\715\707\667\717\673\655\661\712\712\670\701\677\660\774.ai {
-		/Persistent 0
-	}
-	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\673\655\661\712\\\674\775\715\667\\\715\674\660\670\674\775\715\667.ai {
-		/Persistent 0
-	}
-	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\673\655\661\712\\\674\775\715\667\\\674\775\715\667_\661\752\727\674.ai {
-		/Persistent 0
-	}
-	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\673\655\661\712\\\674\775\715\667\\\674\775\715\667_\714\730\712\742.ai {
-		/Persistent 0
-	}
-	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\673\655\661\712\\\722\725\712\765\720\647\671\773\\\722\725\712\765\720\647\671\773_\712\751\667\650.ai {
-		/Persistent 0
-	}
-	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\673\655\661\712\\\722\725\712\765\720\647\671\773\\\722\725\712\765\720\647\671\773_\676\755\726\741\661\712.ai {
-		/Persistent 0
-	}
-	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\673\655\661\712\\\722\725\712\765\720\647\671\773\\\722\725\712\765\720\647\671\773_\713\656\662\712.ai {
-		/Persistent 0
-	}
-	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\673\655\661\712\\\722\725\712\765\720\647\671\773\\\722\725\712\765\720\647\671\773_\723\715\704\653.ai {
-		/Persistent 0
-	}
-	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\673\655\661\712\\\722\725\712\765\720\647\671\773\\\722\725\712\765\720\647\671\773_\673\655\661\712.ai {
-		/Persistent 0
-	}
-	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\673\655\661\712\\\722\725\712\765\720\647\671\773\\\722\725\712\765\720\647\671\773_\667\733\661\712\714\677\661\712\707\646\661\712.ai {
-		/Persistent 0
-	}
-	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\673\655\661\712\\\727\660\712\716\\\665\744\721\705\665\704\676\755\707\772\672\715\673\650\720\716\673\655\661\712\727\751.ai {
-		/Persistent 0
-	}
-	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\673\655\661\712\\\727\660\712\716\\\727\660\712\716_\711\642\662\674.ai {
-		/Persistent 0
-	}
-	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\673\655\661\712\\\727\660\712\716\\\727\660\712\716_\716\704\661\676\667\726\670\764\717\737.ai {
-		/Persistent 0
-	}
-	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\673\655\661\712\\\727\660\712\716\\\727\660\712\716_\672\741\667\771\672\715\667\742\714\765.ai {
-		/Persistent 0
-	}
-	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\673\655\661\712\\\661\737\677\762\\\661\737\677\762_\674\670\672\716\715\674\720\716.ai {
-		/Persistent 0
-	}
-	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\673\655\661\712\\\661\737\677\762\\\661\737\677\762_\724\655\712\674.ai {
-		/Persistent 0
-	}
-	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\673\655\661\712\\\661\737\677\762\\\661\737\677\762_\720\702\706\746.ai {
-		/Persistent 0
-	}
-	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\673\655\661\712\\\661\737\677\762\\\661\737\677\762_\677\762\674\734.ai {
-		/Persistent 0
-	}
-	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\673\655\661\712\\\661\737\677\762\\\661\737\677\762_\717\737\714\765.ai {
-		/Persistent 0
-	}
-	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\673\655\661\712\\\661\737\677\762\\\661\737\677\762_\720\751\717\737.ai {
-		/Persistent 0
-	}
-	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\673\655\661\712\\\661\737\677\762\\\661\737\677\762_\727\660\712\716.ai {
-		/Persistent 0
-	}
-	/Swatches {
-		/DockCode 1099235586
-	}
-	/dBrush {
-		/ShowPoseAnnotation 0
-		/UseODEPhysics 0
-		/ShowSteppingTrajectories 0
-		/UseSampledStepping 1
-		/MousePoseFollowPath 1
-		/MousePoseAzimuth 45.0
-		/MousePoseAltitude 45.0
-		/MousePoseTwist 0.0
-		/MousePosePressure 0.5
-		/CountBeforeSavePrint 1
-	}
-	/CropAreaPrefix {
-		/ShowFading 1
-		/RealTimeFading 1
-		/MoveContentWithArtbrd 1
-	}
-	/BlobBrushTool {
-		/diameterRnd 0.0
-		/roundnessRnd 0.0
-		/angleRnd 0.0
-		/diameterDependsOn 0
-		/roundnessDependsOn 0
-		/angleDependsOn 0
-		/angleRelativeTo 0
-		/diameter 10.0
-		/diameterVariation 0.0
-		/roundness 100.0
-		/roundnessVariation 0.0
-		/angle 0.0
-		/angleVariation 0.0
-	}
-	/EraserTool {
-		/diameterRnd 0.0
-		/roundnessRnd 0.0
-		/angleRnd 0.0
-		/diameterDependsOn 0
-		/roundnessDependsOn 0
-		/angleDependsOn 0
-		/angleRelativeTo 0
-		/diameter 10.0
-		/diameterVariation 0.0
-		/roundness 100.0
-		/roundnessVariation 0.0
-		/angle 0.0
-		/angleVariation 0.0
-	}
-	/objectExpand {
-		/gradientSteps 255
-	}
-	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\667\773\672\705\\3D\ \667\773\672\705.ai {
-		/Persistent 0
-	}
-	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\667\773\672\705\\Web\ \660\664\705\645\672\715\714\765\720\716.ai {
-		/Persistent 0
-		/Visible 0
-	}
-	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\667\773\672\705\\\664\653\674\722\661\646.ai {
-		/Persistent 0
-	}
-	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\667\773\672\705\\\724\655\712\674.ai {
-		/Persistent 0
-	}
-	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\667\773\672\705\\\715\674\661\755.ai {
-		/Persistent 0
-		/Visible 0
-	}
-	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\667\773\672\705\\\665\730\715\674.ai {
-		/Persistent 0
-	}
-	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\667\773\672\705\\\670\664\671\705.ai {
+	/AdobeStrokeSwatchesPopup {
 		/Persistent 0
 	}
-	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\667\773\672\705\\\712\731\713\676.ai {
+	/AdobeFillSwatchesPopup {
 		/Persistent 0
 	}
-	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\667\773\672\705\\\707\754\727\643.ai {
+	/AdobeSwatch_ {
 		/Persistent 0
 	}
-	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\667\773\672\705\\\673\725\661\752\724\652\713\730.ai {
-		/Persistent 0
-	}
-	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\667\773\672\705\\\714\741\673\771.ai {
-		/Persistent 0
-		/Visible 0
-	}
-	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\667\773\672\705\\\712\661\711\720.ai {
-		/Persistent 0
+	/AdobeStylesPalette {
 		/Visible 1
 	}
-	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\667\773\672\705\\\703\653\667\642\672\715\703\653\706\644.ai {
-		/Persistent 0
+	/Illustrator {
+		/WritingStartupFile 0
 	}
-	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\667\773\672\705\\\716\733\665\743\712\670\701\677\660\774.ai {
-		/Persistent 0
+	/FileClipboard {
+		/flatten 1
+		/AICBOption 1
+		/copyAsAICB 1
+		/copyAsPDF 1
+		/linkoptions 2
 	}
-	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\667\773\672\705\\\665\743\727\664\715\674\660\670\712\670\701\677\660\774.ai {
-		/Persistent 0
+	/AssetManagement {
+		/vcLinkStatusUpdateCycleInTicks 120
+		/vcReplicaStatusUpdateCycleInTicks 30
+		/bridgeTalkPumpCycleInTicks 30
 	}
-	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\667\773\672\705\\\725\725\701\701\713\677\664\770.ai {
-		/Persistent 0
-	}
-	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\667\773\672\705\\\725\725\701\701\701\767\663\714\715\674.ai {
-		/Persistent 0
-	}
-	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\667\773\672\705\\\725\725\701\701\727\751\726\657\675\741\671\671\715\674.ai {
-		/Persistent 0
-	}
-	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\667\773\672\705\\\667\750\677\761\677\706\721\647.ai {
-		/Persistent 0
-	}
-	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\667\773\672\705\\\722\706\666\657.ai {
-		/Persistent 0
-	}
-	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\667\773\672\705\\\674\775\715\667.ai {
-		/Persistent 0
-	}
-	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\667\773\672\705\\\721\644\700\766\712\670\701\677\660\774.ai {
-		/Persistent 0
-	}
-	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\667\773\672\705\\\715\770\722\663\715\674\661\752.ai {
-		/Persistent 0
-	}
-	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\667\773\672\705\\\727\724\710\673.ai {
-		/Persistent 0
-	}
-	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\667\773\672\705\\\726\701\727\760\712\670\701\677\660\774.ai {
-		/Persistent 0
-	}
-	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\667\773\672\705\\\722\725\712\765\716\706\700\755.ai {
-		/Persistent 0
-	}
-	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\667\773\672\705\\\673\650\666\744.ai {
-		/Persistent 0
-	}
-	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\667\773\672\705\\\715\650\721\666.ai {
-		/Persistent 0
-	}
-	/PG {
-		/PlaneSwitcherVisible 1
-		/PlaneSwitcherPosition 0
-	}
-	/Art\ Style\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\715\674\720\716\721\771\712\675\\3D\ \720\647\671\773.ai {
-		/Persistent 0
-	}
-	/Art\ Style\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\715\674\720\716\721\771\712\675\\\715\674\717\761\720\647\671\773.ai {
-		/Persistent 0
-	}
-	/Art\ Style\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\715\674\720\716\721\771\712\675\\\660\664\705\645\672\715\667\655\727\652\720\647\671\773.ai {
-		/Persistent 0
-	}
-	/Art\ Style\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\715\674\720\716\721\771\712\675\\\716\704\727\726\720\647\671\773.ai {
-		/Persistent 0
-	}
-	/Art\ Style\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\715\674\720\716\721\771\712\675\\\660\737\665\743\673\655\661\712\665\704\670\675\712\764\706\667.ai {
-		/Persistent 0
-	}
-	/Art\ Style\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\715\674\720\716\721\771\712\675\\\715\677\704\650\720\647\671\773.ai {
-		/Persistent 0
-	}
-	/Art\ Style\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\715\674\720\716\721\771\712\675\\\725\725\701\701\721\771\712\675.ai {
-		/Persistent 0
-	}
-	/Art\ Style\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\715\674\720\716\721\771\712\675\\\716\706\700\755.ai {
-		/Persistent 0
-	}
-	/Art\ Style\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\715\674\720\716\721\771\712\675\\\722\725\712\765\720\647\671\773.ai {
-		/Persistent 0
-	}
-	/Art\ Style\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\715\674\720\716\721\771\712\675\\\670\675\712\764\706\667.ai {
-		/Persistent 0
-	}
-	/Art\ Style\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\715\674\720\716\721\771\712\675\\\704\736\672\747\720\647\671\773.ai {
-		/Persistent 0
-	}
-	/PDFExport {
-		/DlgPosX 0
-		/DlgPosY 0
-		/DescriptionListEntryExpanded 0
-		/GeneralListEntryExpanded 0
-		/CompressionListEntryExpanded 0
-		/MarksBleedsListEntryExpanded 0
-		/OutputListEntryExpanded 0
-		/OutputColorExpanded 0
-		/OutputPDFXExpanded 0
-		/AdvancedListEntryExpanded 0
-		/SecurityListEntryExpanded 0
-		/ColorImageListEntryExpanded 0
-		/GrayImageListEntryExpanded 0
-		/MonoImageListEntryExpanded 0
-		/FlattenerListEntryExpanded 0
-		/OptionSet 2
-		/OptionSetName [ 23
-			5b496c6c7573747261746f7220e9bb98e8aea4e580bc5d
+	/WorkspacePrefix {
+		/Last\ Used\ Workspace\ Name [ 12
+			e59fbae69cace58a9fe883bd
 		]
-		/AI11PDF_Compatibility 3
-		/AI12PDF_UsePrintTiling 0
-		/AI11PDF_PreserveIllustratorEditingCapabilities 1
-		/AI11PDF_GenerateThumbnails 1
-		/AI11PDF_ViewPDFFile 0
-		/AI11PDF_FastWebView 0
-		/AI11PDF_ColorCompressionKind 1
-		/AI11PDF_ColorCompressionQuality 3
-		/AI11PDF_ColorDownsampleKind 1
-		/AI11PDF_ColorDownsampleResolution 300
-		/AI11PDF_ColorDownsampleImageAbove 450
-		/AI11PDF_ColorTileSize 256
-		/AI11PDF_GrayCompressionKind 1
-		/AI11PDF_GrayCompressionQuality 3
-		/AI11PDF_GrayDownsampleKind 1
-		/AI11PDF_GrayDownsampleResolution 300
-		/AI11PDF_GrayDownsampleImageAbove 450
-		/AI11PDF_GrayTileSize 256
-		/AI11PDF_MonochromeCompressionKind 1
-		/AI11PDF_MonochromeDownsampleKind 1
-		/AI11PDF_MonochromeDownsampleResolution 300
-		/AI11PDF_MonoDownsampleImageAbove 450
-		/AI11PDF_CompressArt 1
-		/AI11PDF_TrimMarks 0
-		/AI11PDF_RegMarks 0
-		/AI11PDF_ColorBars 0
-		/AI11PDF_PageInfo 0
-		/AI11PDF_PrinterMarkType 0
-		/AI11PDF_TrimMarkWeight 0.125
-		/AI11PDF_OffsetFromArtworkLeft 0.0
-		/AI11PDF_OffsetFromArtworkRight 0.0
-		/AI11PDF_OffsetFromArtworkTop 0.0
-		/AI11PDF_OffsetFromArtworkBottom 0.0
-		/AI11PDF_BleedLink 1
-		/AI11PDF_BleedLeft 0.0
-		/AI11PDF_BleedRight 0.0
-		/AI11PDF_BleedTop 0.0
-		/AI11PDF_BleedBottom 0.0
-		/AI14PDF_DocBleed 1
-		/AI11PDF_SubsetFontRatio 0
-		/AI11PDF_Overprint 0
-		/AI11PDF_PreserveAcrobatLayers 1
-		/AI11PDF_FlattenTransparency 0
-		/AI11PDF_FlatteningPresetName [ 14
-			5be9ab98e58886e8bea8e78e875d
-		]
-		/AI11PDF_FlatteningPresetMaxResolution 300.0
-		/AI11PDF_FlatteningPresetMinResolution 150.0
-		/AI11PDF_FlatteningPresetVectorBalance 75
-		/AI11PDF_FlatteningPresetClipComplexRegion 1
-		/AI11PDF_FlatteningPresetOutlineStroke 1
-		/AI11PDF_FlatteningPresetOutlineText 0
-		/AI11PDF_FlatteningPresetPrinterResolution 800.0
-		/AI12PDF_DontShowSecurityWarning 0
-		/AI12PDF_Standard 1
-		/AI12PDF_ProfileInclusionPolicy 1
-		/AI12PDF_DestinationPolicy 1
-		/AI12PDF_OutputIntentProfileNamePolicy 1
-		/AI12PDF_ColorConversionPolicy 1
-		/AI12PDF_Trapped 0
-		/AI12PDF_Description [ 0
-
-		]
-		/AI12PDF_DestinationName [ 0
-
-		]
-		/AI12PDF_OutputIntentProfileName [ 0
-
-		]
-		/AI12PDF_OutputCondition [ 0
-
-		]
-		/AI12PDF_OutputConditionIdentifier [ 0
-
-		]
-		/AI12PDF_RegistryName [ 0
-
-		]
-	}
-	/PDFImport {
-		/DlgPosX 0
-		/DlgPosY 0
-		/CropTo 4
-		/PageNumber 1
-	}
-	/ICCColorMgmt3.0 {
-		/useAI6 0
-		/useAdvanced 0
-		/settingsFileValid 1
-		/settingsFile [ 88
-			433a5c50726f6772616d2046696c65735c436f6d6d6f6e2046696c65735c4164
-			6f62655c436f6c6f725c53657474696e67735c5265636f6d6d656e6465645c4a
-			6170616e2047656e6572616c20507572706f73652e637366
-		]
-	}
-	/AdobeAlignObjects {
-		/StickyAlignOption 0
-	}
-	/Navigator {
-		/Greeking 72.0
-		/DontDrawDash 1
-		/Artboard\ Mode 1
-		/Color {
-			/red 1.0
-			/green 0.2899999917
-			/blue 0.2899999917
-		}
-	}
-	/DocumentInfo {
-		/DockCode 65793
-	}
-	/KBSCShortcutFile {
-		/FileName [ 21
-			496c6c7573747261746f7220e9bb98e8aea4e580bc
-		]
-		/IsPreset 1
-	}
-	/AdobeSymbolsPalette {
-		/DockCode 1099170562
-	}
-	/AdobeTransformObjects {
-		/AnchorPoint 1050
-	}
-	/TransparencyPalette {
-		/NewMasksClip 1
-		/InvertNewMasks 0
-	}
-	/DontShowWarningAgain {
-		/illegalCornerSmooth 1
-		/legacyCSSaveWarning 0
-		/DontShowAIWelcomeScreenAgain 1
-		/AI9ClrMgmtNoProfInFile 0
-		/applyAllLinkOption 0
-		/AISpotTransparencyAlertDlg 0
-	}
-	/AdobeColorEditor {
-		/DockCode 1099235585
-	}
-	/AdobeStrokeEditor {
-		/DockCode 1099235587
-	}
-	/AdobeGradientEditor {
-		/DockCode 1099170307
 	}
 	/Action {
 		/SavedSets {
@@ -2373,626 +1964,1213 @@
 		}
 		/SavedSetCount 1
 	}
-	/WorkspacePrefix {
-		/Last\ Used\ Workspace\ Name [ 12
-			e59fbae69cace58a9fe883bd
+	/AdobeGradientEditor {
+		/DockCode 1099170307
+	}
+	/AdobeStrokeEditor {
+		/DockCode 1099235587
+	}
+	/AdobeColorEditor {
+		/DockCode 1099235585
+	}
+	/DontShowWarningAgain {
+		/illegalDeleteKnot 1
+		/AISpotTransparencyAlertDlg 0
+		/applyAllLinkOption 0
+		/AI9ClrMgmtNoProfInFile 0
+		/DontShowAIWelcomeScreenAgain 1
+		/legacyCSSaveWarning 0
+		/illegalCornerSmooth 1
+		/illegalAddKnot 1
+		/ApplyEffectWarningDlg 0
+	}
+	/TransparencyPalette {
+		/InvertNewMasks 0
+		/NewMasksClip 1
+	}
+	/AdobeTransformObjects {
+		/AnchorPoint 1050
+	}
+	/AdobeSymbolsPalette {
+		/DockCode 1099170562
+	}
+	/KBSCShortcutFile {
+		/IsPreset 1
+		/FileName [ 21
+			496c6c7573747261746f7220e9bb98e8aea4e580bc
 		]
 	}
-	/AssetManagement {
-		/bridgeTalkPumpCycleInTicks 30
-		/vcReplicaStatusUpdateCycleInTicks 30
-		/vcLinkStatusUpdateCycleInTicks 120
+	/DocumentInfo {
+		/DockCode 65793
 	}
-	/FileClipboard {
-		/linkoptions 2
-		/copyAsPDF 1
-		/copyAsAICB 1
-		/AICBOption 1
-		/flatten 1
+	/Navigator {
+		/Color {
+			/blue 0.2899999917
+			/green 0.2899999917
+			/red 1.0
+		}
+		/Artboard\ Mode 1
+		/DontDrawDash 1
+		/Greeking 72.0
 	}
-	/Illustrator {
-		/WritingStartupFile 0
+	/AdobeAlignObjects {
+		/StickyAlignOption 0
 	}
-	/AdobeStylesPalette {
+	/ICCColorMgmt3.0 {
+		/settingsFile [ 88
+			433a5c50726f6772616d2046696c65735c436f6d6d6f6e2046696c65735c4164
+			6f62655c436f6c6f725c53657474696e67735c5265636f6d6d656e6465645c4a
+			6170616e2047656e6572616c20507572706f73652e637366
+		]
+		/settingsFileValid 1
+		/useAdvanced 0
+		/useAI6 0
+	}
+	/PDFImport {
+		/PageNumber 1
+		/CropTo 4
+		/DlgPosY 0
+		/DlgPosX 0
+	}
+	/PDFExport {
+		/AI12PDF_RegistryName [ 0
+
+		]
+		/AI12PDF_OutputConditionIdentifier [ 0
+
+		]
+		/AI12PDF_OutputCondition [ 0
+
+		]
+		/AI12PDF_OutputIntentProfileName [ 0
+
+		]
+		/AI12PDF_DestinationName [ 0
+
+		]
+		/AI12PDF_Description [ 0
+
+		]
+		/AI12PDF_Trapped 0
+		/AI12PDF_ColorConversionPolicy 1
+		/AI12PDF_OutputIntentProfileNamePolicy 1
+		/AI12PDF_DestinationPolicy 1
+		/AI12PDF_ProfileInclusionPolicy 1
+		/AI12PDF_Standard 1
+		/AI12PDF_DontShowSecurityWarning 0
+		/AI11PDF_FlatteningPresetPrinterResolution 800.0
+		/AI11PDF_FlatteningPresetOutlineText 0
+		/AI11PDF_FlatteningPresetOutlineStroke 1
+		/AI11PDF_FlatteningPresetClipComplexRegion 1
+		/AI11PDF_FlatteningPresetVectorBalance 75
+		/AI11PDF_FlatteningPresetMinResolution 150.0
+		/AI11PDF_FlatteningPresetMaxResolution 300.0
+		/AI11PDF_FlatteningPresetName [ 14
+			5be9ab98e58886e8bea8e78e875d
+		]
+		/AI11PDF_FlattenTransparency 0
+		/AI11PDF_PreserveAcrobatLayers 1
+		/AI11PDF_Overprint 0
+		/AI11PDF_SubsetFontRatio 0
+		/AI14PDF_DocBleed 1
+		/AI11PDF_BleedBottom 0.0
+		/AI11PDF_BleedTop 0.0
+		/AI11PDF_BleedRight 0.0
+		/AI11PDF_BleedLeft 0.0
+		/AI11PDF_BleedLink 1
+		/AI11PDF_OffsetFromArtworkBottom 0.0
+		/AI11PDF_OffsetFromArtworkTop 0.0
+		/AI11PDF_OffsetFromArtworkRight 0.0
+		/AI11PDF_OffsetFromArtworkLeft 0.0
+		/AI11PDF_TrimMarkWeight 0.125
+		/AI11PDF_PrinterMarkType 0
+		/AI11PDF_PageInfo 0
+		/AI11PDF_ColorBars 0
+		/AI11PDF_RegMarks 0
+		/AI11PDF_TrimMarks 0
+		/AI11PDF_CompressArt 1
+		/AI11PDF_MonoDownsampleImageAbove 450
+		/AI11PDF_MonochromeDownsampleResolution 300
+		/AI11PDF_MonochromeDownsampleKind 1
+		/AI11PDF_MonochromeCompressionKind 1
+		/AI11PDF_GrayTileSize 256
+		/AI11PDF_GrayDownsampleImageAbove 450
+		/AI11PDF_GrayDownsampleResolution 300
+		/AI11PDF_GrayDownsampleKind 1
+		/AI11PDF_GrayCompressionQuality 3
+		/AI11PDF_GrayCompressionKind 1
+		/AI11PDF_ColorTileSize 256
+		/AI11PDF_ColorDownsampleImageAbove 450
+		/AI11PDF_ColorDownsampleResolution 300
+		/AI11PDF_ColorDownsampleKind 1
+		/AI11PDF_ColorCompressionQuality 3
+		/AI11PDF_ColorCompressionKind 1
+		/AI11PDF_FastWebView 0
+		/AI11PDF_ViewPDFFile 0
+		/AI11PDF_GenerateThumbnails 1
+		/AI11PDF_PreserveIllustratorEditingCapabilities 1
+		/AI12PDF_UsePrintTiling 0
+		/AI11PDF_Compatibility 3
+		/OptionSetName [ 23
+			5b496c6c7573747261746f7220e9bb98e8aea4e580bc5d
+		]
+		/OptionSet 2
+		/FlattenerListEntryExpanded 0
+		/MonoImageListEntryExpanded 0
+		/GrayImageListEntryExpanded 0
+		/ColorImageListEntryExpanded 0
+		/SecurityListEntryExpanded 0
+		/AdvancedListEntryExpanded 0
+		/OutputPDFXExpanded 0
+		/OutputColorExpanded 0
+		/OutputListEntryExpanded 0
+		/MarksBleedsListEntryExpanded 0
+		/CompressionListEntryExpanded 0
+		/GeneralListEntryExpanded 0
+		/DescriptionListEntryExpanded 0
+		/DlgPosY 0
+		/DlgPosX 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\715\674\720\716\721\771\712\675\\\704\736\672\747\720\647\671\773.ai {
+		/Persistent 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\715\674\720\716\721\771\712\675\\\670\675\712\764\706\667.ai {
+		/Persistent 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\715\674\720\716\721\771\712\675\\\722\725\712\765\720\647\671\773.ai {
+		/Persistent 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\715\674\720\716\721\771\712\675\\\716\706\700\755.ai {
+		/Persistent 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\715\674\720\716\721\771\712\675\\\725\725\701\701\721\771\712\675.ai {
+		/Persistent 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\715\674\720\716\721\771\712\675\\\715\677\704\650\720\647\671\773.ai {
+		/Persistent 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\715\674\720\716\721\771\712\675\\\660\737\665\743\673\655\661\712\665\704\670\675\712\764\706\667.ai {
+		/Persistent 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\715\674\720\716\721\771\712\675\\\716\704\727\726\720\647\671\773.ai {
+		/Persistent 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\715\674\720\716\721\771\712\675\\\660\664\705\645\672\715\667\655\727\652\720\647\671\773.ai {
+		/Persistent 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\715\674\720\716\721\771\712\675\\\715\674\717\761\720\647\671\773.ai {
+		/Persistent 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\715\674\720\716\721\771\712\675\\3D\ \720\647\671\773.ai {
+		/Persistent 0
+	}
+	/PG {
+		/PlaneSwitcherPosition 0
+		/PlaneSwitcherVisible 1
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\667\773\672\705\\\715\650\721\666.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\667\773\672\705\\\673\650\666\744.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\667\773\672\705\\\722\725\712\765\716\706\700\755.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\667\773\672\705\\\726\701\727\760\712\670\701\677\660\774.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\667\773\672\705\\\727\724\710\673.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\667\773\672\705\\\715\770\722\663\715\674\661\752.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\667\773\672\705\\\721\644\700\766\712\670\701\677\660\774.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\667\773\672\705\\\674\775\715\667.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\667\773\672\705\\\722\706\666\657.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\667\773\672\705\\\667\750\677\761\677\706\721\647.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\667\773\672\705\\\725\725\701\701\727\751\726\657\675\741\671\671\715\674.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\667\773\672\705\\\725\725\701\701\701\767\663\714\715\674.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\667\773\672\705\\\725\725\701\701\713\677\664\770.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\667\773\672\705\\\665\743\727\664\715\674\660\670\712\670\701\677\660\774.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\667\773\672\705\\\716\733\665\743\712\670\701\677\660\774.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\667\773\672\705\\\703\653\667\642\672\715\703\653\706\644.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\667\773\672\705\\\712\661\711\720.ai {
 		/Visible 1
-	}
-	/AdobeSwatch_ {
 		/Persistent 0
 	}
-	/AdobeFillSwatchesPopup {
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\667\773\672\705\\\714\741\673\771.ai {
+		/Visible 0
 		/Persistent 0
 	}
-	/AdobeStrokeSwatchesPopup {
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\667\773\672\705\\\673\725\661\752\724\652\713\730.ai {
 		/Persistent 0
 	}
-	/PDF {
-		/CompressPGF 1
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\667\773\672\705\\\707\754\727\643.ai {
+		/Persistent 0
 	}
-	/GlobalBrushOptions {
-		/fill 0
-		/select 0
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\667\773\672\705\\\712\731\713\676.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\667\773\672\705\\\670\664\671\705.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\667\773\672\705\\\665\730\715\674.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\667\773\672\705\\\715\674\661\755.ai {
+		/Visible 0
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\667\773\672\705\\\724\655\712\674.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\667\773\672\705\\\664\653\674\722\661\646.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\667\773\672\705\\Web\ \660\664\705\645\672\715\714\765\720\716.ai {
+		/Visible 0
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\667\773\672\705\\3D\ \667\773\672\705.ai {
+		/Persistent 0
+	}
+	/objectExpand {
+		/gradientSteps 255
+	}
+	/EraserTool {
+		/angleVariation 0.0
+		/angle 0.0
+		/roundnessVariation 0.0
+		/roundness 100.0
+		/diameterVariation 0.0
+		/diameter 10.0
+		/angleRelativeTo 0
+		/angleDependsOn 0
+		/roundnessDependsOn 0
+		/diameterDependsOn 0
+		/angleRnd 0.0
+		/roundnessRnd 0.0
+		/diameterRnd 0.0
+	}
+	/BlobBrushTool {
+		/angleVariation 0.0
+		/angle 0.0
+		/roundnessVariation 0.0
+		/roundness 100.0
+		/diameterVariation 0.0
+		/diameter 10.0
+		/angleRelativeTo 0
+		/angleDependsOn 0
+		/roundnessDependsOn 0
+		/diameterDependsOn 0
+		/angleRnd 0.0
+		/roundnessRnd 0.0
+		/diameterRnd 0.0
+	}
+	/CropAreaPrefix {
+		/MoveContentWithArtbrd 1
+		/RealTimeFading 1
+		/ShowFading 1
+	}
+	/dBrush {
+		/CountBeforeSavePrint 1
+		/MousePosePressure 0.5
+		/MousePoseTwist 0.0
+		/MousePoseAltitude 45.0
+		/MousePoseAzimuth 45.0
+		/MousePoseFollowPath 1
+		/UseSampledStepping 1
+		/ShowSteppingTrajectories 0
+		/UseODEPhysics 0
+		/ShowPoseAnnotation 0
+	}
+	/Swatches {
+		/DockCode 1099235586
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\673\655\661\712\\\661\737\677\762\\\661\737\677\762_\727\660\712\716.ai {
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\673\655\661\712\\\661\737\677\762\\\661\737\677\762_\720\751\717\737.ai {
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\673\655\661\712\\\661\737\677\762\\\661\737\677\762_\717\737\714\765.ai {
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\673\655\661\712\\\661\737\677\762\\\661\737\677\762_\677\762\674\734.ai {
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\673\655\661\712\\\661\737\677\762\\\661\737\677\762_\720\702\706\746.ai {
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\673\655\661\712\\\661\737\677\762\\\661\737\677\762_\724\655\712\674.ai {
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\673\655\661\712\\\661\737\677\762\\\661\737\677\762_\674\670\672\716\715\674\720\716.ai {
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\673\655\661\712\\\727\660\712\716\\\727\660\712\716_\672\741\667\771\672\715\667\742\714\765.ai {
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\673\655\661\712\\\727\660\712\716\\\727\660\712\716_\716\704\661\676\667\726\670\764\717\737.ai {
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\673\655\661\712\\\727\660\712\716\\\727\660\712\716_\711\642\662\674.ai {
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\673\655\661\712\\\727\660\712\716\\\665\744\721\705\665\704\676\755\707\772\672\715\673\650\720\716\673\655\661\712\727\751.ai {
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\673\655\661\712\\\722\725\712\765\720\647\671\773\\\722\725\712\765\720\647\671\773_\667\733\661\712\714\677\661\712\707\646\661\712.ai {
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\673\655\661\712\\\722\725\712\765\720\647\671\773\\\722\725\712\765\720\647\671\773_\673\655\661\712.ai {
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\673\655\661\712\\\722\725\712\765\720\647\671\773\\\722\725\712\765\720\647\671\773_\723\715\704\653.ai {
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\673\655\661\712\\\722\725\712\765\720\647\671\773\\\722\725\712\765\720\647\671\773_\713\656\662\712.ai {
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\673\655\661\712\\\722\725\712\765\720\647\671\773\\\722\725\712\765\720\647\671\773_\676\755\726\741\661\712.ai {
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\673\655\661\712\\\722\725\712\765\720\647\671\773\\\722\725\712\765\720\647\671\773_\712\751\667\650.ai {
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\673\655\661\712\\\674\775\715\667\\\674\775\715\667_\714\730\712\742.ai {
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\673\655\661\712\\\674\775\715\667\\\674\775\715\667_\661\752\727\674.ai {
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\673\655\661\712\\\674\775\715\667\\\715\674\660\670\674\775\715\667.ai {
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\673\655\661\712\\\712\670\701\677\660\774\\\715\707\667\717\673\655\661\712\712\670\701\677\660\774.ai {
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\673\655\661\712\\\712\670\701\677\660\774\\\712\726\673\746\673\655\661\712\712\670\701\677\660\774.ai {
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\673\655\661\712\\\703\653\713\642\673\655\661\712\\\703\653\713\642\673\655\661\712\677\742.ai {
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\673\655\661\712\\Wacom\ 6D\ \673\655\661\712\\6d\ \722\725\712\765\670\726\661\712\673\655\661\712.ai {
+		/Persistent 0
+	}
+	/AdobeSlicingPlugin {
+		/lockSlices 0
+		/feedback {
+			/blue 19018
+			/green 19018
+			/red 65535
+		}
+		/showSliceNumbers 1
+		/divideVerticallyPixelCount 0
+		/divideVerticallyCount 1
+		/divideHorizontallyPixelCount 0
+		/divideHorizontallyCount 1
+		/dividePreview 0
+		/divideEvenVertically 1
+		/divideEvenHorizontally 1
+		/divideVertically 1
+		/divideHorizontally 1
+		/addSlicingTools 1
+	}
+	/Rasterize {
+		/Defaults {
+			/Padding 36.0
+			/Mask 0
+			/Spot 1
+			/Alias 0
+			/DPI 72
+			/Type 4
+		}
+		/rasterizeMemory 20
+	}
+	/BRSSmootherTool {
+		/smoothness 25.0
+		/fidelity 2.5
+	}
+	/BRSPencilTool {
+		/filling 0
+		/edit_selection 1
+		/select_results 1
+		/smoothness 0.0
+		/fidelity 2.5
+	}
+	/BRSTool30Mar9816Build {
+		/slow_pointer_speed 0
+		/select_results 1
+		/editing_distance 12.0
+		/corner_angle 120.0
+		/noise_filter_degree 4
+	}
+	/Debug {
+		/timeActions 0
+		/useDebugMenu 0
+	}
+	/AIProxy_CacheFile_MetaData {
+		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Support\ Files\\Contents\\Windows\\AIResolutionIndependentEffects.cfg < 16
+			e8120000faabf2c5faabf2c500000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Support\ Files\\Contents\\Windows\\AIResolutionIndependentEffects.cfg 16
+		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Support\ Files\\Contents\\Windows\\AIDelayLoadedPlugins.cfg < 16
+			eb1000007e7a52c87e7a52c800000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Support\ Files\\Contents\\Windows\\AIDelayLoadedPlugins.cfg 16
+		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\ANPA\ Color.acb 16
+		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\ANPA\ Color.acb < 16
+			c01b00003a2b98c93a2b98c900000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\DIC\ Color\ Guide.acb 16
+		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\DIC\ Color\ Guide.acb < 16
+			447400003a2b98c93a2b98c900000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\FOCOLTONE.acb 16
+		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\FOCOLTONE.acb < 16
+			484a00003a2b98c93a2b98c900000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\HKS\ E\ Process.acb 16
+		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\HKS\ E\ Process.acb < 16
+			160800003a2b98c93a2b98c900000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\HKS\ E.acb 16
+		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\HKS\ E.acb < 16
+			100800003a2b98c93a2b98c900000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\HKS\ K\ Process.acb 16
+		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\HKS\ K\ Process.acb < 16
+			160800003a2b98c93a2b98c900000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\HKS\ K.acb 16
+		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\HKS\ K.acb < 16
+			260800003a2b98c93a2b98c900000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\HKS\ N\ Process.acb 16
+		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\HKS\ N\ Process.acb < 16
+			160800003a2b98c93a2b98c900000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\HKS\ N.acb 16
+		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\HKS\ N.acb < 16
+			040800003a2b98c93a2b98c900000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\HKS\ Z\ Process.acb 16
+		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\HKS\ Z\ Process.acb < 16
+			160800003a2b98c93a2b98c900000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\HKS\ Z.acb 16
+		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\HKS\ Z.acb < 16
+			7b0500003a2b98c93a2b98c900000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE\ color\ bridge\ CMYK\ EC.acb 16
+		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE\ color\ bridge\ CMYK\ EC.acb < 16
+			aa660000e88afcc1e88afcc100000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE\ color\ bridge\ CMYK\ PC.acb 16
+		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE\ color\ bridge\ CMYK\ PC.acb < 16
+			c6680000022efcc1022efcc100000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE\ color\ bridge\ CMYK\ UP.acb 16
+		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE\ color\ bridge\ CMYK\ UP.acb < 16
+			f0660000f22dfcc1f22dfcc100000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE\ metallic\ coated.acb 16
+		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE\ metallic\ coated.acb < 16
+			2e1d00003a2b98c93a2b98c900000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE\ pastel\ coated.acb 16
+		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE\ pastel\ coated.acb < 16
+			601000003a2b98c93a2b98c900000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE\ pastel\ uncoated.acb 16
+		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE\ pastel\ uncoated.acb < 16
+			741000003a2b98c93a2b98c900000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE\ process\ coated.acb 16
+		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE\ process\ coated.acb < 16
+			181601003a2b98c93a2b98c900000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE\ process\ uncoated.acb 16
+		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE\ process\ uncoated.acb < 16
+			2c1601003a2b98c93a2b98c900000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE\ solid\ coated.acb 16
+		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE\ solid\ coated.acb < 16
+			cc6a00003a2b98c93a2b98c900000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE\ solid\ matte.acb 16
+		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE\ solid\ matte.acb < 16
+			c26a00003a2b98c93a2b98c900000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE\ solid\ to\ process\ EURO.acb 16
+		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE\ solid\ to\ process\ EURO.acb < 16
+			f06600003a2b98c93a2b98c900000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE\ solid\ to\ process.acb 16
+		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE\ solid\ to\ process.acb < 16
+			d66600003a2b98c93a2b98c900000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE\ solid\ uncoated.acb 16
+		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE\ solid\ uncoated.acb < 16
+			e06a00003a2b98c93a2b98c900000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\TOYO\ 94\ COLOR\ FINDER.acb 16
+		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\TOYO\ 94\ COLOR\ FINDER.acb < 16
+			fa57000064f717c164f717c100000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\TOYO\ Color\ Finder.acb 16
+		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\TOYO\ Color\ Finder.acb < 16
+			846d000064f717c164f717c100000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\TRUMATCH.acb 16
+		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\TRUMATCH.acb < 16
+			0cc000003a2b98c93a2b98c900000000
+		>
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\VisiBone2.ai {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\Web.ai {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\726\720\720\724.ase {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\666\771\715\657\716\757\706\667.ase {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\671\653\713\676.ase {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\664\763\665\730\711\653\665\767.ase {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\707\754\727\643.ase {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\717\665\715\663\ (Macintosh).ai {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\717\665\715\663\ (Windows).ai {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\667\704\726\657\706\667.ase {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\667\764\711\653.ase {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\675\760\712\764.ase {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\715\674\660\670\\\673\771\661\676\715\674\720\716\\\673\771\661\676\715\674\720\716_\665\743.ai {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\715\674\660\670\\\673\771\661\676\715\674\720\716\\\673\771\661\676\715\674\720\716_\716\706\700\755.ai {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\715\674\660\670\\\673\771\661\676\715\674\720\716\\\673\771\661\676\715\674\720\716_\717\737\714\765.ai {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\715\674\660\670\\\727\724\710\673\\\727\724\710\673_\666\657\716\757\706\644.ai {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\715\674\660\670\\\727\724\710\673\\\727\724\710\673_\722\666\727\723.ai {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\715\674\660\670\\\727\660\712\716\\\727\660\712\716_\674\670\672\716\715\674\720\716\ 1.ai {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\715\674\660\670\\\727\660\712\716\\\727\660\712\716_\674\670\672\716\715\674\720\716\ 2.ai {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\715\674\660\670\\\727\660\712\716\\\727\660\712\716_\724\655\712\674.ai {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\715\674\660\670\\\727\660\712\716\\\727\660\712\716_\671\705\665\744.ai {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\715\674\660\670\\\727\660\712\716\\\727\660\712\716_\717\726\664\772.ai {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\715\674\660\670\\\727\660\712\716\\\727\660\712\716_\673\650\712\716.ai {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\726\720\720\724\711\653.ai {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\722\666\727\723.ai {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\664\763\665\730\711\653\665\767.ai {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\714\754\677\725.ai {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\674\676\675\732.ai {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\703\767\701\701.ai {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\724\716\723\660.ai {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\704\676\726\712.ai {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\713\656.ai {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\713\656\671\773\672\715\712\737\662\713.ai {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\665\655\711\653\672\715\660\665\711\653.ai {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\675\645\722\776.ai {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\723\761\712\657\672\715\726\751\661\646.ai {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\712\657\715\667\672\715\727\651\677\751.ai {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\674\762\665\645\676\666\717\762.ai {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\667\764\711\653.ai {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\711\653\662\712\665\767\672\715.ai {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\711\653\706\727.ai {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\700\657\661\712.ai {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\675\760\712\764.ai {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\721\725\711\653\727\751\672\717.ai {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\677\706\721\647\\\710\775\711\653\727\751\672\717.ase {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\677\706\721\647\\\673\645\662\671\711\653.ase {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\677\706\721\647\\\667\726\701\721\673\645\662\671\711\653.ase {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\677\706\721\647\\\713\704\711\653\727\751\672\717.ase {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\677\706\721\647\\\675\774\713\706\711\653.ase {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\727\724\710\673\\\722\666\727\723.ase {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\727\724\710\673\\\674\676\675\732.ase {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\727\724\710\673\\\672\643\714\662.ase {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\727\724\710\673\\\712\657\715\667\672\715\727\651\677\751.ase {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\727\724\710\673\\\673\650\666\744.ase {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\727\724\710\673\\\667\747\676\660.ase {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\ANPA\ Color.acb {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\DIC\ Color\ Guide.acb {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\FOCOLTONE.acb {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\HKS\ E\ Process.acb {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\HKS\ E.acb {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\HKS\ K\ Process.acb {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\HKS\ K.acb {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\HKS\ N\ Process.acb {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\HKS\ N.acb {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\HKS\ Z\ Process.acb {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\HKS\ Z.acb {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\PANTONE\ color\ bridge\ CMYK\ EC.acb {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\PANTONE\ color\ bridge\ CMYK\ PC.acb {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\PANTONE\ color\ bridge\ CMYK\ UP.acb {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\PANTONE\ metallic\ coated.acb {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\PANTONE\ pastel\ coated.acb {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\PANTONE\ pastel\ uncoated.acb {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\PANTONE\ process\ coated.acb {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\PANTONE\ process\ uncoated.acb {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\PANTONE\ solid\ coated.acb {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\PANTONE\ solid\ matte.acb {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\PANTONE\ solid\ to\ process\ EURO.acb {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\PANTONE\ solid\ to\ process.acb {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\PANTONE\ solid\ uncoated.acb {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\TOYO\ 94\ COLOR\ FINDER.acb {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\TOYO\ Color\ Finder.acb {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\TRUMATCH.acb {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\722\725\712\765\712\667\\\726\720\712\700\674\715\667\747\670\761.ase {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\722\725\712\765\712\667\\\666\755\671\772\672\643\661\650\722\725\712\765\667\747\670\761.ase {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\722\725\712\765\712\667\\\723\641\717\763\705\711\667\747\670\761.ase {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\722\725\712\765\712\667\\\712\667\707\660\667\747\670\761.ase {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\722\725\712\765\712\667\\\660\715\702\745\677\713\667\747\670\761.ase {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\722\725\712\765\712\667\\\716\704\722\725\670\664\720\713\667\747\670\761.ase {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\722\725\712\765\712\667\\\701\767\720\720\722\725\712\765\667\747\670\761.ase {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\722\725\712\765\712\667\\\724\666\671\705\667\747\670\761.ase {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\721\725\711\653\712\764\720\724\\\662\673\661\645\672\715\711\653.ase {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\721\725\711\653\712\764\720\724\\\701\701\711\653.ase {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\721\725\711\653\712\764\720\724\\\700\744\711\653.ase {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\721\725\711\653\712\764\720\724\\\705\657\711\653.ase {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\721\725\711\653\712\764\720\724\\\660\665\711\653.ase {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\721\725\711\653\712\764\720\724\\\710\741\672\715\711\653.ase {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\721\725\711\653\712\764\720\724\\\707\663\711\653.ase {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\721\725\711\653\712\764\720\724\\\661\645\672\715\711\653.ase {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\712\663\706\667\\\661\771\744\677\701\734.ase {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\712\663\706\667\\\713\656\671\773.ase {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\712\663\706\667\\\714\760\706\667.ase {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\712\663\706\667\\\712\737\662\713.ase {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\712\663\706\667\\\722\773\701\717.ase {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\704\654\710\717\711\653\660\745\\Flash\ Catalyst.ai {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\704\654\710\717\711\653\660\745\\Web.ai {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\704\654\710\717\711\653\660\745\\\673\771\661\676\ CMYK.ai {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\704\654\710\717\711\653\660\745\\\673\771\661\676\ RGB.ai {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\704\654\710\717\711\653\660\745\\\664\762\723\641.ai {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\704\654\710\717\711\653\660\745\\\722\706\666\657\711\750\661\670.ai {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS5.1\\Presets\\zh_CN\\\711\653\660\745\\\704\654\710\717\711\653\660\745\\\712\723\706\665\672\715\675\672\706\654.ai {
+		/DockCode 130817
+		/Persistent 0
+	}
+	/BlobBrushOptions {
+		/keepSelected 0
+		/limitMerge 0
 		/smoothness 0.0
 		/fidelity 4.0
 	}
-}
-/Planar {
-	/GapDetection 1
-	/GapDetection {
-		/Size 3.0
-		/Custom 0
-		/GapColor {
-			/red 1.0
-			/green 0.2899999917
-			/blue 0.2899999917
-		}
-		/PreviewOn 1
+	/ColorPickerDlg {
+		/ItemID 8
+		/WebSafe 0
 	}
-	/ArtboardGapPreview 0
-	/Resolution 100
-	/Paintbucket {
-		/Highlight 1
-		/Highlight {
-			/Color {
-				/red 1.0
-				/green 0.2899999917
-				/blue 0.2899999917
-			}
-			/Stroke 4.0
-		}
-		/PaintFills 1
-		/PaintStrokes 0
-		/CursorSwatchPrevew 1
+	/__NSD_SmartPaths_V1 {
+		/ShowTips 0
+		/_XP12_E_Serial_NkSD_ ()
+		/_XP12_E_UserName_NkSD_ ()
 	}
-	/FaceSelect {
-		/Highlight 1
-		/Highlight {
-			/Color {
-				/red 1.0
-				/green 0.2899999917
-				/blue 0.2899999917
-			}
-			/Stroke 4.0
-		}
-		/SelectFills 1
-		/SelectStrokes 1
-	}
-	/MergeTool {
-		/Gap {
-			/Detect 0
-			/Type 0
-			/CustomGap 0
-			/Length 3.0
-		}
-		/ClosedOpenFillPaths 1
-		/BreakEdge 0
-		/PaintFills 1
-		/PreviewSwatchCursor 0
-		/Highlight {
-			/Fill 1
-			/Stroke 1
-			/StrokeColorIndex 1
-			/StrokeColor {
-				/Red 65535
-				/Green 20224
-				/Blue 20224
-			}
-		}
+	/ShapeEffectOptions {
+		/PreviewChanges 0
 	}
 }
-/smartGuides {
-	/showLabels 1
-	/showConstructionGuides 0
-	/showToolGuides 0
-	/showObjectHighlighting 1
-	/showReadouts 1
-	/showAlignmentGuides 1
-	/anglesCount 4
-	/tolerance 4
-	/isEnabled 1
-	/customAnglesCount 4
-	/angles0 0.0
-	/angles1 45.0
-	/angles2 90.0
-	/angles3 135.0
-	/customAngles0 0.0
-	/customAngles1 45.0
-	/customAngles2 90.0
-	/customAngles3 135.0
+/pluginCacheCheckCreateDate 731105724
+/pluginCacheCheckModDate 888089583
+/loadAdditionalPlugins 1
+/startup {
+	/showSplashScreen 1
 }
-/snapomatic {
-	/Color {
-		/red 0.2899976969
-		/green 1.0
-		/blue 0.2899976969
+/rulerType 6
+/memory {
+	/tweakHighMemory 0
+	/memoryPercentage 0
+	/physicalRAMSize 3327
+	/usePhysicalRAMSize 0
+}
+/startupProfiles 6
+/EnableInternalMemoryPool 0
+/editableGuides 1
+/useProcessorSpecificCode 1
+/Snapomatic {
+	/GeometryTranslate {
+		/down (LM v i o)
+		/up (A v i o)
+	}
+	/Eyebucket {
+		/down (A v o f)
+		/up (A v o f)
+	}
+	/Shear {
+		/down (ATFGPLM v i o)
+		/up (ATFGP v i o)
+	}
+	/Reflect {
+		/down (ATFGPLM v i o)
+		/up (ATFGP v i o)
+	}
+	/Rotate {
+		/down (ATFGPLM v i o)
+		/up (ATFGP v i o)
+	}
+	/Scale {
+		/down (ATFGPBLM v i o)
+		/up (ATFGP v i o)
+	}
+	/Translate {
+		/down (ATFGPBLM v i o)
+		/up (ATFGP v i o)
+	}
+	/Pen {
+		/down (ATFGP v i o)
+		/up (ATFGPLMSU v i o)
+	}
+	/SquareCircle {
+		/down (ATFGP v i o)
+		/up (ATFGP v i o)
+	}
+	/Scissor {
+		/down (ATFGP v i o)
+		/up (ATFGP v i o)
+	}
+	/Guide {
+		/down (ATFGP v i o)
+		/up (ATFGP v i o)
+	}
+	/Ruler {
+		/down (ATFGPM v i o)
+		/up (ATFGP v i o)
+	}
+	/Page {
+		/down (ATFGP v i o)
+		/up (ATFGP v i o)
+	}
+	/Zoom {
+		/down ()
+		/up ()
+	}
+	/RangeSelect {
+		/down ()
+		/up ()
+	}
+	/Select {
+		/down (ATFGPLM v i o f)
+		/up (A v o f)
+	}
+	/Blend {
+		/down (A v)
+		/up (A v)
 	}
 }
-/highlightAnchorOnMouseOver 1
-/selectedAnchorMarkType 2
-/unselectedAnchorMarkType 1
-/Gradient\ Annotator\ View\ Option 1
-/Persistent\ Swatch\ Count 0
-/ColorHarmony {
-	/ShowStorage 1
-	/ShowAdjustSliders 0
-	/SliderColorSpace 3
-	/mapMethodPreserveSpots 1
-	/mapMethodApplyToAll 1
-	/combineTintsOnExtraction 1
-	/ShowHideColorGuide 1
-	/VariationTypeColorGuide 0
+/hyphenation {
+	/language 0
 }
-/checkRequiredPlugins 1
-/EyedropperTool {
-	/rasterSampleSize 1
-	/graphicsStyle 0
-	/paint {
-		/object {
-			/transparency 1
-		}
-		/fill 1
-		/fill {
-			/color 1
-			/transparency 1
-			/overprint 1
-		}
-		/stroke 1
-		/stroke {
-			/color 1
-			/transparency 1
-			/overprint 1
-			/weight 1
-			/cap 1
-			/join 1
-			/miter 1
-			/dash 1
-		}
-		/objectExpanded 1
-		/fillExpanded 1
-		/strokeExpanded 1
+/showAsianTextOptions 1
+/text {
+	/GreekingDisabled 1
+	/kernIncrement 20
+	/riseIncrement 2.0
+	/sizeIncrement 2.0
+	/doNonLatinInlineInput 1
+	/doFontLocking 1
+	/greekingThreshold 6.0
+	/recentFontMenu {
+		/showNEntries 5
 	}
-	/text {
-		/characterStyle 1
-		/paragraphStyle 1
+	/fontMenu {
+		/faceSizeMultiplier 1.25
+		/showSubMenusInFace 0
+		/showInFace 1
+		/menuNameLimit 35
 	}
-	/graphicsStyleExpanded 1
-}
-/BucketTool {
-	/rasterSampleSize 1
-	/graphicsStyle 0
-	/paint {
-		/object {
-			/transparency 1
+	/groupTypeMenuByLanguage 1
+	/asianunits 6
+	/units 6
+	/faceSize 12.0
+	/defaultFaceNames {
+		/Baltic {
+			/1 (MyriadPro-Regular)
 		}
-		/fill 1
-		/fill {
-			/color 1
-			/transparency 1
-			/overprint 1
+		/Greek {
+			/1 (MyriadPro-Regular)
 		}
-		/stroke 1
-		/stroke {
-			/color 1
-			/transparency 1
-			/overprint 1
-			/weight 1
-			/cap 1
-			/join 1
-			/miter 1
-			/dash 1
+		/Turkish {
+			/1 (MyriadPro-Regular)
 		}
-		/objectExpanded 1
-		/fillExpanded 1
-		/strokeExpanded 1
-	}
-	/text {
-		/characterStyle 1
-		/paragraphStyle 1
-	}
-	/graphicsStyleExpanded 1
-}
-/showBoundingBox 1
-/includeStrokeInBounds 0
-/ovalRadius 34.0157470703
-/showToolTips 1
-/numbersArePoints 0
-/strokeUnits 6
-/uiPersistDrawers 1
-/uiBrightness 1
-/uiOpenDocumentsAsTabs 1
-/attributePalette {
-	/maxUrlCount 30
-	/currentUrlCount 0
-	/URL0 ()
-	/URL1 ()
-	/URL2 ()
-	/URL3 ()
-	/URL4 ()
-	/URL5 ()
-	/URL6 ()
-	/URL7 ()
-	/URL8 ()
-	/URL9 ()
-	/URL10 ()
-	/URL11 ()
-	/URL12 ()
-	/URL13 ()
-	/URL14 ()
-	/URL15 ()
-	/URL16 ()
-	/URL17 ()
-	/URL18 ()
-	/URL19 ()
-	/URL20 ()
-	/URL21 ()
-	/URL22 ()
-	/URL23 ()
-	/URL24 ()
-	/URL25 ()
-	/URL26 ()
-	/URL27 ()
-	/URL28 ()
-	/URL29 ()
-}
-/precision {
-	/pointsWithUnits 3
-	/pixelsWithUnits 3
-	/inchesWithUnits 4
-	/centimetersWithUnits 4
-	/millimetersWithUnits 3
-	/fixedNoUnits 3
-	/angleNoUnits 3
-	/percentageNoUnits 2
-}
-/AI\ New\ Art\ Basic\ Appearance 1
-/AI\ Container\ Overrides\ Object 1
-/linkTransform 0
-/dontUseSymbolRegPoint 0
-/isRulerIn4thQuad 1
-/onlyTransformPatterns 0
-/DefaultPaintStyle {
-	/StrokeActive 0
-	/PathStyle {
-		/FillPaint 1
-		/Fill {
-			/AIColor {
-				/Kind (Gray)
-				/Gray {
-					/Gray 1.0
-				}
-			}
-			/Overprint 0
+		/EastEuropean {
+			/1 (MyriadPro-Regular)
 		}
-		/StrokePaint 0
-		/Stroke {
-			/AIColor {
-				/Kind ()
-			}
-			/Overprint 0
-			/Width 1.0
-			/Dash {
-				/Length 0
-				/Offset 0.0
-			}
-			/Cap (ButtCap)
-			/Join (MiterJoin)
-			/MiterLimit 10.0
+		/Cyrillic {
+			/1 (MyriadPro-Regular)
+		}
+		/SimplifiedChinese {
+			/1 (AdobeSongStd-Light)
+		}
+		/Korean {
+			/1 (AdobeMyungjoStd-Medium)
+		}
+		/TraditionalChinese {
+			/1 (AdobeMingStd-Light)
+		}
+		/Japanese {
+			/1 (KozGoPro-Regular)
+			/2 (HeiseiMin-W3)
+			/3 (HeiseiMincho-W3)
+			/4 (Ryumin-Light)
+			/5 (MS-Mincho)
+		}
+		/Roman {
+			/1 (MyriadPro-Regular)
 		}
 	}
-	/ActiveColor {
-		/AIColor {
-			/Gray {
-				/Gray 0.0
-			}
-			/Kind (CMYK)
-			/CMYK {
-				/Cyan 0.0
-				/Magenta 0.0
-				/Yellow 0.0
-				/Black 0.0
-			}
-		}
-	}
-	/ActiveGradient {
-		/AIColor {
-			/Gray {
-				/Gray 0.0
-			}
-			/Gradient {
-				/Name [ 0
-
-				]
-			}
-			/Kind (Gradient)
-		}
+	/useEnglishFontNames 0
+	/debugFontMenu {
+		/writeDebugFile 0
+		/lieAboutNativeScript 0
 	}
 }
-/layers {
-	/pastePreserve 0
-	/pastePreserveBackup 0
-}
-/unloadPlugins 1
-/maxRecentFiles 10
-/FileList {
-	/file0 [ 43
-		433a5c77616d705c7777775c6a71756572792d75692d7468656d652d6a642e63
-		6f6d5c55495c55492e6169
-	]
-	/file1 [ 45
-		463a5ce68891e79a84e69687e6a1a35c4d792050696374757265735c41495ce6
-		9caae6a087e9a2982d312e6169
-	]
-	/file2 [ 43
-		453a5c576f726b5c44657369676e5ce7bd91e9a1b5e8aebee8aea15c313633e5
-		858de8b4b9e982ae2e6169
-	]
-	/file3 [ 43
-		453a5c576f726b5c44657369676e5ce7bd91e9a1b5e8aebee8aea15c313633e5
-		858de8b4b9e982ae2e6169
-	]
-	/file4 [ 43
-		453a5c576f726b5c44657369676e5ce7bd91e9a1b5e8aebee8aea15c313633e5
-		858de8b4b9e982ae2e6169
-	]
-	/file5 [ 32
-		653a5c4465736b746f705c44656c6574655ce69caae6a087e9a2982d312e6169
-	]
-	/file6 [ 0
-
-	]
-	/file7 [ 0
-
-	]
-	/file8 [ 0
-
-	]
-	/file9 [ 0
-
-	]
-}
-/layout {
-	/0 {
-		/FrameWindow {
-			/l 0
-			/t 0
-			/b 840
-			/r 1440
-		}
-		/FrameWindowMaximized 1
+/templatesBrowsed 1
+/printing {
+	/PostScript {
+		/preserveImageOrMeshFilledText 0
 	}
 }
-/usePreciseCursors 0
-/stickycursor 0
-/maxUndoDepth 200
-/undoDepth 5
-/Grid {
-	/Horizontal {
-		/Spacing 72.0
-		/Ticks 8
-	}
-	/Vertical {
-		/Spacing 72.0
-		/Ticks 8
-	}
-	/Posn 1
-	/Style 0
-	/Color {
-		/Dark {
-			/r 0.8000000119
-			/g 0.8000000119
-			/b 0.8000000119
-		}
-		/Lite {
-			/r 0.8999999762
-			/g 0.8999999762
-			/b 0.8999999762
-		}
-	}
-}
-/showPlacedImages 0
-/doSplitPath 0
-/printerResolution 800.0
-/isRulerOriginTopLeft 1
-/cropMarkStyle 0
-/colorModel 2
-/xml {
-	/UID {
-		/autoBaseNameUS [ 5
-			584d4c4944
-		]
-	}
-}
-/aiFileFormat {
-	/cmykPostScript 1
-	/dumpPGFwithoutShortcut 0
-	/enableContentRecovery 0
-	/enableATEReadRecovery 0
-	/PDFCompatibility 1
-	/enableATEWriteRecovery 0
-}
-/warning {
-	/fontProblem 1
-	/colorConversion 1
-	/legacyTextConversion 1
-}
-/blackPreservation {
-	/Onscreen 1
-	/Export 1
-}
-/maxMRUFiles 500
-/pageTiling {
-	/mediaBoundsColor (r=0x00, g=0x00, b=0x00)
-	/imageBoundsColor (r=0x00, g=0x00, b=0x00)
-}
-/antialias {
-	/graphic 1
-	/text 1
-	/image 1
-}
-/messageIndex 0
-/shrinkToFitResizedDocs 1
-/photoshopFilter {
-	/excludeSpots 0
-	/separateProcess 0
-}
-/enableThreadedRendering 1
-/NewRenderingEnabled 1
-/RenderingTimerEnabled 0
-/PeriodicCopyDelay 0.5
-/Guide {
-	/ShowPixelGrid 1
-	/Style 0
-	/Color {
-		/red 0.2899976969
-		/green 1.0
-		/blue 1.0
-	}
-}
-/constrain {
-	/angle 0.0
-	/cos 1.0
-	/sin 0.0
-}
-/enableHyperThreadedRendering 0
-/enableAGMThreadedRendering 0
-/useSnapomatic 1
-/hitShapeOnPreview 1
-/hitTypeShapeOnPreview 1
-/transformPatterns 0
-/scaleLineWeight 0
-/pen {
-	/disableAutoAddDelete 0
-}
-/selectSameTintPercentage 0
-/cursorKeyLength 1.0
-/freehandTol 2.0
-/outlineTol 0.0
-/artNamesAreXMLIDs 0
-/fileFormatGetFile {
-	/ConvertedInFilename 1
-}
-/doubleClickToIsolate 1
-/preferencesDialog {
-	/position {
-		/h 499
-		/v 246
-	}
-}
-/showDirectionHandles 1
-/snapToPoint 1
-/selectBehind 1
-/selectionTolerance 3
-/snappingTolerance 2
-/directionHandleMarkType 4
-/useLowResProxy 0
-/rastersys {
-	/scratch {
-		/primary [ 9
-			453a5c414954454d50
-		]
-		/secondary [ 0
-
-		]
-	}
-}
-/artboard {
-	/transform 0
-	/width 595.2800292969
-	/height 841.8900146484
-}
-/perspectivegrid {
-	/expandAnswer 0
-}
-/Illustrator\ version 15
-/ExperimentalPixelMerge 0
-/artnewdialog {
-	/fileSize 223507
-	/fileModifiedDate -912772076
-	/documentType 1
-	/previewmode 2
-	/rasterresolution 300
-	/pixelperfectobjects 0
-	/transparencygrid 0
-	/transparencygrid_color1_red 65535
-	/transparencygrid_color1_green 65535
-	/transparencygrid_color1_blue 65535
-	/transparencygrid_color2_red 52428
-	/transparencygrid_color2_green 52428
-	/transparencygrid_color2_blue 52428
-	/pixelaspectratio 1.0
-	/advancedOptions 0
-	/numArtboards 1
-	/artboardSpacing 20.0
-	/artboardRowsOrCols 1
-	/artboardLayout 0
-	/isArtboardLayoutLeftToRight 1
-	/leftBleedSize 0.0
-	/rightBleedSize 0.0
-	/topBleedSize 0.0
-	/bottomBleedSize 0.0
-	/bleedsLocked 1
-}
-/LegacyArtboardOptions {
-	/ShowDialog 1
-	/artboard 1
-	/cropAreas 1
-	/pageTiles 0
-	/artworkBounds 0
-}
-/open {
-	/legacyGradientMeshConversion 0
-}
-/startupFileType [ 122
-	433a5c446f63756d656e747320616e642053657474696e67735c68705c417070
-	6c69636174696f6e20446174615c41646f62655c41646f626520496c6c757374
-	7261746f72204353352e312053657474696e67735c7a685f434e5c4e65772044
-	6f63756d656e742050726f66696c65735ce68993e58db02e6169
-]
-/FileNewFirstTime 0
-/defaultPath [ 31
-	463a5ce68891e79a84e69687e6a1a35c4d792050696374757265735c41495c
-]
-/Threshold {
-	/DbrushPath {
-		/Save 30
-	}
-}
-/startupProfiles {
-	/DefaultPrint [ 122
-		433a5c446f63756d656e747320616e642053657474696e67735c68705c417070
-		6c69636174696f6e20446174615c41646f62655c41646f626520496c6c757374
-		7261746f72204353352e312053657474696e67735c7a685f434e5c4e65772044
-		6f63756d656e742050726f66696c65735ce68993e58db02e6169
-	]
-	/DefaultWeb [ 119
-		433a5c446f63756d656e747320616e642053657474696e67735c68705c417070
-		6c69636174696f6e20446174615c41646f62655c41646f626520496c6c757374
-		7261746f72204353352e312053657474696e67735c7a685f434e5c4e65772044
-		6f63756d656e742050726f66696c65735c5765622e6169
-	]
-	/DefaultVideo [ 131
-		433a5c446f63756d656e747320616e642053657474696e67735c68705c417070
-		6c69636174696f6e20446174615c41646f62655c41646f626520496c6c757374
-		7261746f72204353352e312053657474696e67735c7a685f434e5c4e65772044
-		6f63756d656e742050726f66696c65735ce8a786e9a291e5928ce883b6e78987
-		2e6169
-	]
-	/BasicCMYK [ 127
-		433a5c446f63756d656e747320616e642053657474696e67735c68705c417070
-		6c69636174696f6e20446174615c41646f62655c41646f626520496c6c757374
-		7261746f72204353352e312053657474696e67735c7a685f434e5c4e65772044
-		6f63756d656e742050726f66696c65735ce59fbae69cac20434d594b2e6169
-	]
-	/BasicRGB [ 126
-		433a5c446f63756d656e747320616e642053657474696e67735c68705c417070
-		6c69636174696f6e20446174615c41646f62655c41646f626520496c6c757374
-		7261746f72204353352e312053657474696e67735c7a685f434e5c4e65772044
-		6f63756d656e742050726f66696c65735ce59fbae69cac205247422e6169
-	]
-	/DefaultMobile [ 128
-		433a5c446f63756d656e747320616e642053657474696e67735c68705c417070
-		6c69636174696f6e20446174615c41646f62655c41646f626520496c6c757374
-		7261746f72204353352e312053657474696e67735c7a685f434e5c4e65772044
-		6f63756d656e742050726f66696c65735ce7a7bbe58aa8e8aebee5a4872e6169
-	]
+/actionwarning {
+	/oldFileFormat 1
 }
 /changed 0
