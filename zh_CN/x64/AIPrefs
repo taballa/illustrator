@@ -1,0 +1,3290 @@
+/cropareatool {
+	/CropAreaControlPalette {
+		/9PointRef 4
+	}
+}
+/isHexInUpperCase 0
+/perspectivegrid {
+	/expandAnswer 0
+}
+/startupProfiles {
+	/DefaultMobile [ 109
+		433a5c55736572735c7468696e6b5c417070446174615c526f616d696e675c41
+		646f62655c41646f626520496c6c7573747261746f7220435336205365747469
+		6e67735c7a685f434e5c7836345c4e657720446f63756d656e742050726f6669
+		6c65735ce8aebee5a4872e6169
+	]
+	/BasicRGB [ 113
+		433a5c55736572735c7468696e6b5c417070446174615c526f616d696e675c41
+		646f62655c41646f626520496c6c7573747261746f7220435336205365747469
+		6e67735c7a685f434e5c7836345c4e657720446f63756d656e742050726f6669
+		6c65735ce59fbae69cac205247422e6169
+	]
+	/BasicCMYK [ 0
+
+	]
+	/DefaultVideo [ 118
+		433a5c55736572735c7468696e6b5c417070446174615c526f616d696e675c41
+		646f62655c41646f626520496c6c7573747261746f7220435336205365747469
+		6e67735c7a685f434e5c7836345c4e657720446f63756d656e742050726f6669
+		6c65735ce8a786e9a291e5928ce883b6e789872e6169
+	]
+	/DefaultWeb [ 106
+		433a5c55736572735c7468696e6b5c417070446174615c526f616d696e675c41
+		646f62655c41646f626520496c6c7573747261746f7220435336205365747469
+		6e67735c7a685f434e5c7836345c4e657720446f63756d656e742050726f6669
+		6c65735c5765622e6169
+	]
+	/DefaultPrint [ 109
+		433a5c55736572735c7468696e6b5c417070446174615c526f616d696e675c41
+		646f62655c41646f626520496c6c7573747261746f7220435336205365747469
+		6e67735c7a685f434e5c7836345c4e657720446f63756d656e742050726f6669
+		6c65735ce68993e58db02e6169
+	]
+}
+/hitShapeOnPreview 1
+/useSnapomatic 1
+/messageIndex 0
+/FileNewFirstTime 0
+/uiCanvasIsWhite 0
+/enableAGMThreadedRendering 0
+/enableHyperThreadedRendering 0
+/constrain {
+	/angle 0.0
+	/cos 1.0
+	/sin 0.0
+}
+/Guide {
+	/ShowPixelGrid 1
+	/Style 0
+	/Color {
+		/red 0.2899976969
+		/green 1.0
+		/blue 1.0
+	}
+}
+/RenderingTimerEnabled 0
+/PeriodicCopyDelay 0.5
+/NewRenderingEnabled 1
+/enableThreadedRendering 1
+/shrinkToFitResizedDocs 1
+/antialias {
+	/graphic 1
+	/text 1
+	/image 1
+}
+/DisplayBitmapsAsAntiAliasedPixelPreview 0
+/pageTiling {
+	/imageBoundsColor (r=0x00, g=0x00, b=0x00)
+	/mediaBoundsColor (r=0x00, g=0x00, b=0x00)
+}
+/startupFileType [ 109
+	433a5c55736572735c7468696e6b5c417070446174615c526f616d696e675c41
+	646f62655c41646f626520496c6c7573747261746f7220435336205365747469
+	6e67735c7a685f434e5c7836345c4e657720446f63756d656e742050726f6669
+	6c65735ce68993e58db02e6169
+]
+/artboard {
+	/transform 0
+	/height 841.8900146484
+	/width 595.2800292969
+}
+/defaultPath [ 25
+	433a5c55736572735c7468696e6b5c446f63756d656e74735c
+]
+/dictionary {
+	/updateDocumentsToNewDicitonary 0
+	/forceKeepProximity 0
+}
+/xml {
+	/UID {
+		/autoBaseNameUS [ 5
+			584d4c4944
+		]
+	}
+}
+/aiFileFormat {
+	/clipboardPSLevel 3
+	/enableATEReadRecovery 0
+	/dumpPGFwithoutShortcut 0
+	/enableContentRecovery 0
+	/PDFCompatibility 1
+	/enableATEWriteRecovery 0
+}
+/colorModel 2
+/cropMarkStyle 0
+/isRulerOriginTopLeft 1
+/printerResolution 800.0
+/doSplitPath 0
+/showPlacedImages 0
+/Grid {
+	/Color {
+		/Lite {
+			/b 0.8999999762
+			/g 0.8999999762
+			/r 0.8999999762
+		}
+		/Dark {
+			/b 0.8000000119
+			/g 0.8000000119
+			/r 0.8000000119
+		}
+	}
+	/Style 0
+	/Posn 1
+	/Vertical {
+		/Ticks 8
+		/Spacing 72.0
+	}
+	/Horizontal {
+		/Ticks 8
+		/Spacing 72.0
+	}
+}
+/undoDepth 5
+/maxUndoDepth 200
+/open {
+	/legacyGradientMeshConversion 0
+}
+/LegacyArtboardOptions {
+	/artworkBounds 0
+	/pageTiles 0
+	/cropAreas 1
+	/artboard 1
+	/ShowDialog 1
+}
+/warning {
+	/legacyTextConversion 1
+	/colorConversion 1
+	/liveTrace 1
+	/fontProblem 1
+}
+/artnewdialog {
+	/bleedsLocked 1
+	/bottomBleedSize 0.0
+	/topBleedSize 0.0
+	/rightBleedSize 0.0
+	/leftBleedSize 0.0
+	/isArtboardLayoutLeftToRight 1
+	/artboardLayout 0
+	/artboardRowsOrCols 1
+	/artboardSpacing 20.0
+	/numArtboards 1
+	/advancedOptions 1
+	/pixelaspectratio 1.0
+	/transparencygrid_color2_blue 52428
+	/transparencygrid_color2_green 52428
+	/transparencygrid_color2_red 52428
+	/transparencygrid_color1_blue 65535
+	/transparencygrid_color1_green 65535
+	/transparencygrid_color1_red 65535
+	/transparencygrid 0
+	/pixelperfectobjects 0
+	/rasterresolution 300
+	/previewmode 2
+	/documentType 1
+	/fileModifiedDate -879807076
+	/fileSize 270950
+}
+/text {
+	/GreekingDisabled 1
+	/kernIncrement 20
+	/riseIncrement 2.0
+	/sizeIncrement 2.0
+	/doNonLatinInlineInput 1
+	/doFontLocking 1
+	/greekingThreshold 6.0
+	/debugFontMenu {
+		/lieAboutNativeScript 0
+		/writeDebugFile 0
+	}
+	/useEnglishFontNames 0
+	/defaultFaceNames {
+		/Roman {
+			/1 (MyriadPro-Regular)
+		}
+		/Japanese {
+			/1 (KozGoPr6N-Regular)
+		}
+		/TraditionalChinese {
+			/1 (AdobeMingStd-Light)
+		}
+		/Korean {
+			/1 (AdobeMyungjoStd-Medium)
+		}
+		/SimplifiedChinese {
+			/1 (AdobeSongStd-Light)
+		}
+		/Cyrillic {
+			/1 (MyriadPro-Regular)
+		}
+		/EastEuropean {
+			/1 (MyriadPro-Regular)
+		}
+		/Turkish {
+			/1 (MyriadPro-Regular)
+		}
+		/Greek {
+			/1 (MyriadPro-Regular)
+		}
+		/Baltic {
+			/1 (MyriadPro-Regular)
+		}
+		/Arabic {
+			/1 (AdobeArabic-Regular)
+		}
+		/Hebrew {
+			/1 (MyriadHebrew-Regular)
+		}
+	}
+	/faceSize 12.0
+	/units 2
+	/asianunits 2
+	/fontMenu {
+		/faceSizeMultiplier 1.0
+		/showSubMenusInFace 0
+		/showInFace 1
+		/menuNameLimit 35
+	}
+	/groupTypeMenuByLanguage 1
+	/recentFontMenu {
+		/showNEntries 5
+	}
+}
+/showAsianTextOptions 1
+/hyphenation {
+	/language 0
+}
+/useProcessorSpecificCode 1
+/editableGuides 1
+/Snapomatic {
+	/Blend {
+		/up (A v)
+		/down (A v)
+	}
+	/Select {
+		/up (A v o f)
+		/down (ATFGPLM v i o f)
+	}
+	/RangeSelect {
+		/up ()
+		/down ()
+	}
+	/Zoom {
+		/up ()
+		/down ()
+	}
+	/Page {
+		/up (ATFGP v i o)
+		/down (ATFGP v i o)
+	}
+	/Ruler {
+		/up (ATFGP v i o)
+		/down (ATFGPM v i o)
+	}
+	/Guide {
+		/up (ATFGP v i o)
+		/down (ATFGP v i o)
+	}
+	/Scissor {
+		/up (ATFGP v i o)
+		/down (ATFGP v i o)
+	}
+	/SquareCircle {
+		/up (ATFGP v i o)
+		/down (ATFGP v i o)
+	}
+	/Pen {
+		/up (ATFGPLMSU v i o)
+		/down (ATFGP v i o)
+	}
+	/Translate {
+		/up (ATFGP v i o)
+		/down (ATFGPBLM v i o)
+	}
+	/Scale {
+		/up (ATFGP v i o)
+		/down (ATFGPBLM v i o)
+	}
+	/Rotate {
+		/up (ATFGP v i o)
+		/down (ATFGPLM v i o)
+	}
+	/Reflect {
+		/up (ATFGP v i o)
+		/down (ATFGPLM v i o)
+	}
+	/Shear {
+		/up (ATFGP v i o)
+		/down (ATFGPLM v i o)
+	}
+	/Eyebucket {
+		/up (A v o f)
+		/down (A v o f)
+	}
+	/GeometryTranslate {
+		/up (A v i o)
+		/down (LM v i o)
+	}
+}
+/EnableInternalMemoryPool 0
+/AI\ WorldReadiness\ Dict\ Key 0
+/startupProfiles 6
+/rulerType 1
+/memory {
+	/usePhysicalRAMSize 0
+	/physicalRAMSize 3496
+	/memoryPercentage 0
+}
+/startup {
+	/showSplashScreen 1
+}
+/loadAdditionalPlugins 0
+/pluginCacheCheckModDate 1840284402
+/pluginCacheCheckCreateDate -1238021414
+/plugin {
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\750\611\662\746\635\677\\\751\673\630\750\750\611\662\746\635\677\\\745\637\672\746\634\654\ RGB.ai {
+		/Persistent 0
+		/CurrentListStyle 0
+		/ShowFindField 1
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\750\611\662\746\635\677\\\744\670\600ase {
+		/Persistent 0
+		/CurrentListStyle 0
+		/ShowFindField 1
+	}
+	/ArtboardRearrange {
+		/MoveArtwork 1
+		/ArtboardSpacing 20.0
+		/IsLayoutRToL 0
+		/LayoutChosen 1
+	}
+	/ShapeEffectOptions {
+		/PreviewChanges 1
+	}
+	/ColorPickerDlg {
+		/WebSafe 0
+		/ItemID 0
+	}
+	/Retranslation {
+		/Origin_y 2676.1292962314
+		/Origin_x 10106.6986197201
+	}
+	/VectorScribe {
+		/DCCornerUseTrueRadius 1
+		/DCCornerType 0
+		/DCCornerRadius 28.3464566929
+		/DSLinkedSlice 0
+		/DSLinkedDim 1
+		/DSSliceEnd 0.0
+		/DSSliceStart 0.0
+		/DSStarOuter 0
+		/DSUseTrueRadius 1
+		/DSCornerType 0
+		/DSCornerRadius 0.0
+		/DSInnerDim 70.8661417323
+		/DSOuterDim 141.7322834646
+		/DSAngle 0.0
+		/DSCenterY 0.0
+		/DSCenterX 0.0
+		/DSSides 6
+		/DSShapeType 0
+		/DCAnnotationColor 0
+		/DCCRPStyle 0
+		/DCActiveMode 1
+		/DCDisplayArrows 1
+		/DCRecallLast 0
+		/DSLargeHandles 1
+		/DSShapesByBoundingBox 0
+		/DSSlicesByPercentage 0
+		/DSRecallLast 0
+		/DMSettingsWritten 1
+		/DMUnlockedConvertLayer 0
+		/DMScaleUnits 0
+		/DMScale 1.0
+		/DMPrecision 3
+		/DMRadiiLines 21
+		/DMHoverHandleMode 7
+		/DMHoverPointMode 8
+		/DMHoverSegNormals 1
+		/DMHoverSegTangent 0
+		/DMHoverSegRadius 0
+		/DMHoverPathLength 1
+		/DMHoverSegLength 1
+		/DMHoverPathInfo 1
+		/DMShowHover 1
+		/DMAnnotFields 24
+		/DMAnnotMode 60
+		/DMAnnotPosition 2
+		/DMShowConvertButton 1
+		/DMShowDeleteButton 1
+		/DMAnnotRed 1
+		/DMAnnotBoxed 1
+		/DMAnnotBold 1
+		/DMAnnotBig 1
+		/DMAnnotDelay 4
+		/DMShowWhenDeselected 1
+		/DMRetainedMeasures 25
+		/DMKeepArrows 1
+		/DMShowArrows 1
+		/DMIconNum 0
+		/DMRingMode 7
+		/DMShiftRequired 0
+		/DMResetOnSelect 0
+		/DMDefaultLineWeight 0.25
+		/DMDefaultTextSize 8.0
+		/DMDefaultFont [ 10
+			4d79726961642050726f
+		]
+		/DMMeasureDirIndicator 1
+		/DMRedLine 1
+		/DMSetDistance 4
+		/DMSetAngle 4
+		/DMClickDrag 0
+		/PSSettingsWritten 1
+		/PSAngleThreshhold 5.0
+		/PSRecognizeConnectors 1
+		/PSPathDragFollowsCursor 1
+		/PSHighlightTangencies 1
+		/PSSnapToTangencies 1
+		/PSToolAddsPoints 1
+		/PSCounterrotate 1
+		/PSPanelExpansion 1
+		/PSBoxedTextLarge 0
+		/PSBoxedText 0
+		/PSRingHasText 1
+		/PSUseRingPaths 1
+		/PSUseRing 1
+		/PSMHSetAngleN 0
+		/PSMHSetAngle 0.0
+		/PSMHSetLengthN 0
+		/PSMHSetLength 0.0
+		/PSMHRotateN 0
+		/PSMHRotate 0.0
+		/PSMHScaleN 0
+		/PSMHScale 100.0
+		/PSMHIncrementN 0
+		/PSMHIncrement 1.0
+		/PSSlowDragDivider 5.0
+		/PSShiftMultiplier 5.0
+		/PSMHExtendStopAtZero 0
+		/PSMHExtendProportionally 1
+		/PSSlowDragCtrl 1
+		/PSMultiPointDrag 1
+		/PSPointDrag 1
+		/PSSlowDrag 0
+		/PSDragBreak 1
+		/PSAnchorAllHandles 0
+		/PSShiftEqualizes 0
+		/PSSmoothing 0.3905244
+		/PSPrecision 3
+		/ProtractorAngle3N 0
+		/ProtractorAngle3 30.0
+		/ProtractorAngle2N 0
+		/ProtractorAngle2 90.0
+		/ProtractorAngle1N 0
+		/ProtractorAngle1 150.0
+	}
+	/NamedStylePopupPanel {
+		/ThumbnailType 0
+		/StylesView 0
+	}
+	/DontShowWarningAgain {
+		/SaveForWebLatinCharacterDontShowAgain 1
+		/notOkToInteract 1
+		/showClipboardWarning 1
+		/illegalJoin 1
+		/illegalCornerSmooth 1
+		/noSelection 0
+		/applyAllLinkOption 0
+		/AI9ClrMgmtNoProfInFile 0
+		/AISpotTransparencyAlertDlg 0
+		/-Vectorize\ Warning\ For\ Big\ Image\ Trace 0
+		/ShowPathfinderGroupWarning 0
+		/EditingSymbolAlert 0
+	}
+	/AIProxy_CacheFile_MetaData {
+		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Support\ Files\\Contents\\Windows\\AIDelayLoadedPlugins.cfg 20
+		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Support\ Files\\Contents\\Windows\\AIDelayLoadedPlugins.cfg < 20
+			0a14000000000000b85d3fcbb85d3fcb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\ANPA\ Color.acb 20
+		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\ANPA\ Color.acb < 20
+			c01b00000000000026b18ecb26b18ecb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\DIC\ Color\ Guide.acb 20
+		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\DIC\ Color\ Guide.acb < 20
+			447400000000000026b18ecb26b18ecb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\FOCOLTONE.acb 20
+		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\FOCOLTONE.acb < 20
+			484a00000000000026b18ecb26b18ecb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\HKS\ E\ Process.acb 20
+		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\HKS\ E\ Process.acb < 20
+			160800000000000026b18ecb26b18ecb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\HKS\ E.acb 20
+		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\HKS\ E.acb < 20
+			100800000000000026b18ecb26b18ecb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\HKS\ K\ Process.acb 20
+		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\HKS\ K\ Process.acb < 20
+			160800000000000026b18ecb26b18ecb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\HKS\ K.acb 20
+		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\HKS\ K.acb < 20
+			260800000000000026b18ecb26b18ecb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\HKS\ N\ Process.acb 20
+		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\HKS\ N\ Process.acb < 20
+			160800000000000026b18ecb26b18ecb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\HKS\ N.acb 20
+		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\HKS\ N.acb < 20
+			040800000000000026b18ecb26b18ecb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\HKS\ Z\ Process.acb 20
+		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\HKS\ Z\ Process.acb < 20
+			160800000000000026b18ecb26b18ecb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\HKS\ Z.acb 20
+		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\HKS\ Z.acb < 20
+			7b0500000000000026b18ecb26b18ecb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE+\ CMYK\ Coated.acb 20
+		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE+\ CMYK\ Coated.acb < 20
+			b20c0100000000004c022ecb4c022ecb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE+\ CMYK\ Uncoated.acb 20
+		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE+\ CMYK\ Uncoated.acb < 20
+			ca0c0100000000004c022ecb4c022ecb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE+\ Color\ Bridge\ Coated.acb 20
+		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE+\ Color\ Bridge\ Coated.acb < 20
+			1a7a0000000000004c022ecb4c022ecb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE+\ Color\ Bridge\ Uncoated.acb 20
+		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE+\ Color\ Bridge\ Uncoated.acb < 20
+			2a7a0000000000004c022ecb4c022ecb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE+\ Metallic\ Coated.acb 20
+		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE+\ Metallic\ Coated.acb < 20
+			2e1d000000000000d0d55acbd0d55acb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE+\ Pastels\ &\ Neons\ Coated.acb 20
+		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE+\ Pastels\ &\ Neons\ Coated.acb < 20
+			dc140000000000004c022ecb4c022ecb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE+\ Pastels\ &\ Neons\ Uncoated.acb 20
+		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE+\ Pastels\ &\ Neons\ Uncoated.acb < 20
+			f0140000000000004c022ecb4c022ecb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE+\ Premium\ Metallics\ Coated.acb 20
+		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE+\ Premium\ Metallics\ Coated.acb < 20
+			9a1d0000000000004c022ecb4c022ecb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE+\ Solid\ Coated.acb 20
+		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE+\ Solid\ Coated.acb < 20
+			2f7e0000000000004c022ecb4c022ecb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE+\ Solid\ Uncoated.acb 20
+		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\PANTONE+\ Solid\ Uncoated.acb < 20
+			437e0000000000004c022ecb4c022ecb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\TOYO\ 94\ COLOR\ FINDER.acb 20
+		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\TOYO\ 94\ COLOR\ FINDER.acb < 20
+			fa5700000000000064f717c164f717c100000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\TOYO\ Color\ Finder.acb 20
+		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\TOYO\ Color\ Finder.acb < 20
+			846d00000000000064f717c164f717c100000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\TRUMATCH.acb 20
+		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\750\611\662\746\635\677\\\750\611\662\746\640\607\747\660\677\\TRUMATCH.acb < 20
+			0cc000000000000026b18ecb26b18ecb00000000
+		>
+		/AIProxy_data_sizeC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Support\ Files\\Contents\\Windows\\AIResolutionIndependentEffects.cfg 20
+		/AIProxy_dataC:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Support\ Files\\Contents\\Windows\\AIResolutionIndependentEffects.cfg < 20
+			e812000000000000faabf2c5faabf2c500000000
+		>
+	}
+	/AIMemoryPreferences {
+		/AIMemoryPrefProfile 1
+		/SingleAllocationOptimum 40
+		/TilingRatioOptimum 5
+	}
+	/Debug {
+		/useDebugMenu 0
+		/timeActions 0
+	}
+	/BRSTool30Mar9816Build {
+		/noise_filter_degree 4
+		/corner_angle 120.0
+		/editing_distance 12.0
+		/select_results 1
+		/slow_pointer_speed 0
+	}
+	/BRSPencilTool {
+		/fidelity 2.5
+		/smoothness 0.0
+		/select_results 1
+		/edit_selection 1
+		/filling 0
+	}
+	/BRSSmootherTool {
+		/fidelity 2.5
+		/smoothness 25.0
+	}
+	/Rasterize {
+		/Defaults {
+			/Padding 36.0
+			/Mask 0
+			/Spot 1
+			/Alias 0
+			/DPI 72
+			/Type 4
+		}
+		/rasterizeMemory 20
+	}
+	/AdobeSlicingPlugin {
+		/addSlicingTools 1
+		/divideHorizontally 1
+		/divideVertically 1
+		/divideEvenHorizontally 1
+		/divideEvenVertically 1
+		/dividePreview 0
+		/divideHorizontallyCount 1
+		/divideHorizontallyPixelCount 0
+		/divideVerticallyCount 1
+		/divideVerticallyPixelCount 0
+		/showSliceNumbers 1
+		/feedback {
+			/red 65535
+			/green 19018
+			/blue 19018
+		}
+		/lockSlices 0
+		/huggableText 1
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\VisiBone2.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\Web.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\726\720\720\724.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\666\771\715\657\716\757\706\667.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\671\653\713\676.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\664\763\665\730\711\653\665\767.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\707\754\727\643.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\717\665\715\663\ (Macintosh).ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\717\665\715\663\ (Windows).ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\667\704\726\657\706\667.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\667\764\711\653.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\675\760\712\764.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\715\674\660\670\\\673\771\661\676\715\674\720\716\\\673\771\661\676\715\674\720\716_\665\743.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\715\674\660\670\\\673\771\661\676\715\674\720\716\\\673\771\661\676\715\674\720\716_\716\706\700\755.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\715\674\660\670\\\673\771\661\676\715\674\720\716\\\673\771\661\676\715\674\720\716_\717\737\714\765.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\715\674\660\670\\\727\724\710\673\\\727\724\710\673_\666\657\716\757\706\644.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\715\674\660\670\\\727\724\710\673\\\727\724\710\673_\722\666\727\723.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\715\674\660\670\\\727\660\712\716\\Vonster\ \715\674\660\670.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\715\674\660\670\\\727\660\712\716\\\727\660\712\716\676\711\660\746.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\726\720\720\724\711\653.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\722\666\727\723.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\664\763\665\730\711\653\665\767.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\714\754\677\725.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\674\676\675\732.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\703\767\701\701.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\724\716\723\660.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\704\676\726\712.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\713\656.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\713\656\671\773\672\715\712\737\662\713.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\665\655\711\653\672\715\660\665\711\653.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\675\645\722\776.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\723\761\712\657\672\715\726\751\661\646.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\712\657\715\667\672\715\727\651\677\751.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\674\762\665\645\676\666\717\762.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\667\764\711\653.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\711\653\662\712\665\767\672\715.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\711\653\706\727.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\700\657\661\712.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\675\760\712\764.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\675\645\661\744\\\721\725\711\653\727\751\672\717.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\677\706\721\647\\\710\775\711\653\727\751\672\717.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\677\706\721\647\\\673\645\662\671\711\653.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\677\706\721\647\\\667\726\701\721\673\645\662\671\711\653.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\677\706\721\647\\\713\704\711\653\727\751\672\717.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\677\706\721\647\\\675\774\713\706\711\653.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\727\724\710\673\\\722\666\727\723.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\727\724\710\673\\\674\676\675\732.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\727\724\710\673\\\672\643\714\662.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\727\724\710\673\\\712\657\715\667\672\715\727\651\677\751.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\727\724\710\673\\\673\650\666\744.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\727\724\710\673\\\667\747\676\660.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\ANPA\ Color.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\DIC\ Color\ Guide.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\FOCOLTONE.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\HKS\ E\ Process.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\HKS\ E.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\HKS\ K\ Process.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\HKS\ K.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\HKS\ N\ Process.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\HKS\ N.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\HKS\ Z\ Process.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\HKS\ Z.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\PANTONE+\ CMYK\ Coated.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\PANTONE+\ CMYK\ Uncoated.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\PANTONE+\ Color\ Bridge\ Coated.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\PANTONE+\ Color\ Bridge\ Uncoated.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\PANTONE+\ Metallic\ Coated.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\PANTONE+\ Pastels\ &\ Neons\ Coated.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\PANTONE+\ Pastels\ &\ Neons\ Uncoated.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\PANTONE+\ Premium\ Metallics\ Coated.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\PANTONE+\ Solid\ Coated.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\PANTONE+\ Solid\ Uncoated.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\TOYO\ 94\ COLOR\ FINDER.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\TOYO\ Color\ Finder.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\711\653\661\752\662\676\\TRUMATCH.acb {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\722\725\712\765\712\667\\\726\720\712\700\674\715\667\747\670\761.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\722\725\712\765\712\667\\\666\755\671\772\672\643\661\650\722\725\712\765\667\747\670\761.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\722\725\712\765\712\667\\\723\641\717\763\705\711\667\747\670\761.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\722\725\712\765\712\667\\\712\667\707\660\667\747\670\761.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\722\725\712\765\712\667\\\660\715\702\745\677\713\667\747\670\761.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\722\725\712\765\712\667\\\716\704\722\725\670\664\720\713\667\747\670\761.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\722\725\712\765\712\667\\\701\767\720\720\722\725\712\765\667\747\670\761.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\722\725\712\765\712\667\\\724\666\671\705\667\747\670\761.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\721\725\711\653\712\764\720\724\\\662\673\661\645\672\715\711\653.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\721\725\711\653\712\764\720\724\\\701\701\711\653.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\721\725\711\653\712\764\720\724\\\700\744\711\653.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\721\725\711\653\712\764\720\724\\\705\657\711\653.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\721\725\711\653\712\764\720\724\\\660\665\711\653.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\721\725\711\653\712\764\720\724\\\710\741\672\715\711\653.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\721\725\711\653\712\764\720\724\\\707\663\711\653.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\721\725\711\653\712\764\720\724\\\661\645\672\715\711\653.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\712\663\706\667\\\661\771\744\677\701\734.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\712\663\706\667\\\713\656\671\773.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\712\663\706\667\\\714\760\706\667.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\712\663\706\667\\\712\737\662\713.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\712\663\706\667\\\722\773\701\717.ase {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\704\654\710\717\711\653\660\745\\Flash\ Builder.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\704\654\710\717\711\653\660\745\\Web.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\704\654\710\717\711\653\660\745\\\673\771\661\676\ RGB.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\704\654\710\717\711\653\660\745\\\664\762\723\641.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\704\654\710\717\711\653\660\745\\\712\723\706\665\672\715\675\672\706\654.ai {
+		/Persistent 0
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\711\653\660\745\\\704\654\710\717\711\653\660\745\\\711\750\661\670.ai {
+		/Persistent 0
+	}
+	/dBrush {
+		/ShowPoseAnnotation 0
+		/UseODEPhysics 0
+		/PhysicsThreads 0
+		/ShowSteppingTrajectories 0
+		/UseSampledStepping 1
+		/MousePoseFollowPath 1
+		/MousePoseAzimuth 45.0
+		/MousePoseAltitude 45.0
+		/MousePoseTwist 0.0
+		/MousePosePressure 0.5
+		/CountBeforeSavePrint 1
+		/OptionsDialog {
+			/PreviewState 0
+		}
+	}
+	/CropAreaPrefix {
+		/ShowFading 1
+		/RealTimeFading 1
+		/MoveContentWithArtbrd 1
+	}
+	/BlobBrushTool {
+		/diameterRnd 0.0
+		/roundnessRnd 0.0
+		/angleRnd 0.0
+		/diameterDependsOn 0
+		/roundnessDependsOn 0
+		/angleDependsOn 0
+		/angleRelativeTo 0
+		/diameter 10.0
+		/diameterVariation 0.0
+		/roundness 100.0
+		/roundnessVariation 0.0
+		/angle 0.0
+		/angleVariation 0.0
+	}
+	/EraserTool {
+		/diameterRnd 0.0
+		/roundnessRnd 0.0
+		/angleRnd 0.0
+		/diameterDependsOn 0
+		/roundnessDependsOn 0
+		/angleDependsOn 0
+		/angleRelativeTo 0
+		/diameter 10.0
+		/diameterVariation 0.0
+		/roundness 100.0
+		/roundnessVariation 0.0
+		/angle 0.0
+		/angleVariation 0.0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\673\655\661\712\\Wacom\ 6D\ \673\655\661\712\\6d\ \722\725\712\765\670\726\661\712\673\655\661\712.ai {
+		/Persistent 0
+		/ThumbnailView 1
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\673\655\661\712\\\703\653\713\642\673\655\661\712\\\703\653\713\642\673\655\661\712\677\742.ai {
+		/Persistent 0
+		/ThumbnailView 1
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\673\655\661\712\\\712\670\701\677\660\774\\\712\726\673\746\673\655\661\712\712\670\701\677\660\774.ai {
+		/Persistent 0
+		/ThumbnailView 1
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\673\655\661\712\\\712\670\701\677\660\774\\\715\707\667\717\673\655\661\712\712\670\701\677\660\774.ai {
+		/Persistent 0
+		/ThumbnailView 1
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\673\655\661\712\\\674\775\715\667\\\715\674\660\670\674\775\715\667.ai {
+		/Persistent 0
+		/ThumbnailView 1
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\673\655\661\712\\\674\775\715\667\\\674\775\715\667_\661\752\727\674.ai {
+		/Persistent 0
+		/ThumbnailView 1
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\673\655\661\712\\\674\775\715\667\\\674\775\715\667_\714\730\712\742.ai {
+		/Persistent 0
+		/ThumbnailView 1
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\673\655\661\712\\\722\725\712\765\720\647\671\773\\\722\725\712\765\720\647\671\773_\712\751\667\650.ai {
+		/Persistent 0
+		/ThumbnailView 1
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\673\655\661\712\\\722\725\712\765\720\647\671\773\\\722\725\712\765\720\647\671\773_\676\755\726\741\661\712.ai {
+		/Persistent 0
+		/ThumbnailView 1
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\673\655\661\712\\\722\725\712\765\720\647\671\773\\\722\725\712\765\720\647\671\773_\713\656\662\712.ai {
+		/Persistent 0
+		/ThumbnailView 1
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\673\655\661\712\\\722\725\712\765\720\647\671\773\\\722\725\712\765\720\647\671\773_\723\715\704\653.ai {
+		/Persistent 0
+		/ThumbnailView 1
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\673\655\661\712\\\722\725\712\765\720\647\671\773\\\722\725\712\765\720\647\671\773_\673\655\661\712.ai {
+		/Persistent 0
+		/ThumbnailView 1
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\673\655\661\712\\\722\725\712\765\720\647\671\773\\\722\725\712\765\720\647\671\773_\667\733\661\712\714\677\661\712\707\646\661\712.ai {
+		/Persistent 0
+		/ThumbnailView 1
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\673\655\661\712\\\727\660\712\716\\\665\744\721\705\665\704\676\755\707\772\672\715\673\650\720\716\673\655\661\712\727\751.ai {
+		/Persistent 0
+		/ThumbnailView 1
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\673\655\661\712\\\727\660\712\716\\\727\660\712\716_\711\642\662\674.ai {
+		/Persistent 0
+		/ThumbnailView 1
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\673\655\661\712\\\727\660\712\716\\\727\660\712\716_\716\704\661\676\667\726\670\764\717\737.ai {
+		/Persistent 0
+		/ThumbnailView 1
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\673\655\661\712\\\727\660\712\716\\\727\660\712\716_\672\741\667\771\672\715\667\742\714\765.ai {
+		/Persistent 0
+		/ThumbnailView 1
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\673\655\661\712\\\661\737\677\762\\\661\737\677\762_\674\670\672\716\715\674\720\716.ai {
+		/Persistent 0
+		/ThumbnailView 1
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\673\655\661\712\\\661\737\677\762\\\661\737\677\762_\724\655\712\674.ai {
+		/Persistent 0
+		/ThumbnailView 1
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\673\655\661\712\\\661\737\677\762\\\661\737\677\762_\720\702\706\746.ai {
+		/Persistent 0
+		/ThumbnailView 1
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\673\655\661\712\\\661\737\677\762\\\661\737\677\762_\677\762\674\734.ai {
+		/Persistent 0
+		/ThumbnailView 1
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\673\655\661\712\\\661\737\677\762\\\661\737\677\762_\717\737\714\765.ai {
+		/Persistent 0
+		/ThumbnailView 1
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\673\655\661\712\\\661\737\677\762\\\661\737\677\762_\720\751\717\737.ai {
+		/Persistent 0
+		/ThumbnailView 1
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\673\655\661\712\\\661\737\677\762\\\661\737\677\762_\727\660\712\716.ai {
+		/Persistent 0
+		/ThumbnailView 1
+	}
+	/objectExpand {
+		/gradientSteps 255
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\667\773\672\705\\3D\ \667\773\672\705.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\667\773\672\705\\Web\ \660\664\705\645\672\715\714\765\720\716.ai {
+		/Persistent 0
+		/VisibleKind 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\667\773\672\705\\\664\653\674\722\661\646.ai {
+		/Persistent 0
+		/VisibleKind 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\667\773\672\705\\\724\655\712\674.ai {
+		/Persistent 0
+		/VisibleKind 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\667\773\672\705\\\715\674\661\755.ai {
+		/Persistent 0
+		/VisibleKind 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\667\773\672\705\\\665\730\715\674.ai {
+		/Persistent 0
+		/VisibleKind 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\667\773\672\705\\\670\664\671\705.ai {
+		/Persistent 0
+		/VisibleKind 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\667\773\672\705\\\712\731\713\676.ai {
+		/Persistent 0
+		/VisibleKind 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\667\773\672\705\\\707\754\727\643.ai {
+		/Persistent 0
+		/VisibleKind 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\667\773\672\705\\\673\725\661\752\724\652\713\730.ai {
+		/Persistent 0
+		/VisibleKind 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\667\773\672\705\\\714\741\673\771.ai {
+		/Persistent 0
+		/VisibleKind 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\667\773\672\705\\\712\661\711\720.ai {
+		/Persistent 0
+		/VisibleKind 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\667\773\672\705\\\703\653\667\642\672\715\703\653\706\644.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\667\773\672\705\\\716\733\665\743\712\670\701\677\660\774.ai {
+		/Persistent 0
+		/VisibleKind 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\667\773\672\705\\\665\743\727\664\715\674\660\670\712\670\701\677\660\774.ai {
+		/Persistent 0
+		/VisibleKind 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\667\773\672\705\\\725\725\701\701\713\677\664\770.ai {
+		/Persistent 0
+		/VisibleKind 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\667\773\672\705\\\725\725\701\701\701\767\663\714\715\674.ai {
+		/Persistent 0
+		/VisibleKind 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\667\773\672\705\\\725\725\701\701\727\751\726\657\675\741\671\671\715\674.ai {
+		/Persistent 0
+		/VisibleKind 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\667\773\672\705\\\667\750\677\761\677\706\721\647.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\667\773\672\705\\\722\706\666\657.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\667\773\672\705\\\674\775\715\667.ai {
+		/Persistent 0
+		/VisibleKind 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\667\773\672\705\\\721\644\700\766\712\670\701\677\660\774.ai {
+		/Persistent 0
+		/VisibleKind 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\667\773\672\705\\\715\770\722\663\715\674\661\752.ai {
+		/Persistent 0
+		/VisibleKind 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\667\773\672\705\\\727\724\710\673.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\667\773\672\705\\\726\701\727\760\712\670\701\677\660\774.ai {
+		/Persistent 0
+		/VisibleKind 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\667\773\672\705\\\722\725\712\765\716\706\700\755.ai {
+		/Persistent 0
+		/VisibleKind 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\667\773\672\705\\\673\650\666\744.ai {
+		/Persistent 0
+		/VisibleKind 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\667\773\672\705\\\715\650\721\666.ai {
+		/Persistent 0
+		/VisibleKind 0
+	}
+	/PG {
+		/PlaneSwitcherPosition 0
+		/PlaneSwitcherVisible 1
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\715\674\720\716\721\771\712\675\\3D\ \720\647\671\773.ai {
+		/Persistent 0
+		/StylesView 0
+		/ThumbnailType 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\715\674\720\716\721\771\712\675\\Vonster\ \715\674\660\670\721\771\712\675.ai {
+		/Persistent 0
+		/StylesView 0
+		/ThumbnailType 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\715\674\720\716\721\771\712\675\\\715\674\717\761\720\647\671\773.ai {
+		/Persistent 0
+		/StylesView 0
+		/ThumbnailType 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\715\674\720\716\721\771\712\675\\\660\664\705\645\672\715\667\655\727\652\720\647\671\773.ai {
+		/Persistent 0
+		/StylesView 0
+		/ThumbnailType 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\715\674\720\716\721\771\712\675\\\716\704\727\726\720\647\671\773.ai {
+		/Persistent 0
+		/StylesView 0
+		/ThumbnailType 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\715\674\720\716\721\771\712\675\\\660\737\665\743\673\655\661\712\665\704\670\675\712\764\706\667.ai {
+		/Persistent 0
+		/StylesView 0
+		/ThumbnailType 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\715\674\720\716\721\771\712\675\\\715\677\704\650\720\647\671\773.ai {
+		/Persistent 0
+		/StylesView 0
+		/ThumbnailType 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\715\674\720\716\721\771\712\675\\\725\725\701\701\721\771\712\675.ai {
+		/Persistent 0
+		/StylesView 0
+		/ThumbnailType 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\715\674\720\716\721\771\712\675\\\716\706\700\755.ai {
+		/Persistent 0
+		/StylesView 0
+		/ThumbnailType 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\715\674\720\716\721\771\712\675\\\722\725\712\765\720\647\671\773.ai {
+		/Persistent 0
+		/StylesView 0
+		/ThumbnailType 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\715\674\720\716\721\771\712\675\\\670\675\712\764\706\667.ai {
+		/Persistent 0
+		/StylesView 0
+		/ThumbnailType 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS6\ (64\ Bit)\\Presets\\zh_CN\\\715\674\720\716\721\771\712\675\\\704\736\672\747\720\647\671\773.ai {
+		/Persistent 0
+		/StylesView 0
+		/ThumbnailType 0
+	}
+	/PDFExport {
+		/DescriptionListEntryExpanded 0
+		/GeneralListEntryExpanded 0
+		/CompressionListEntryExpanded 0
+		/MarksBleedsListEntryExpanded 0
+		/OutputListEntryExpanded 0
+		/OutputColorExpanded 0
+		/OutputPDFXExpanded 0
+		/AdvancedListEntryExpanded 0
+		/SecurityListEntryExpanded 0
+		/ColorImageListEntryExpanded 0
+		/GrayImageListEntryExpanded 0
+		/MonoImageListEntryExpanded 0
+		/FlattenerListEntryExpanded 0
+		/OptionSet 2
+		/OptionSetName [ 23
+			5b496c6c7573747261746f7220e9bb98e8aea4e580bc5d
+		]
+		/AI11PDF_Compatibility 3
+		/AI12PDF_UsePrintTiling 0
+		/AI11PDF_PreserveIllustratorEditingCapabilities 1
+		/AI11PDF_GenerateThumbnails 1
+		/AI11PDF_ViewPDFFile 0
+		/AI11PDF_FastWebView 0
+		/AI11PDF_ColorCompressionKind 1
+		/AI11PDF_ColorCompressionQuality 3
+		/AI11PDF_ColorDownsampleKind 1
+		/AI11PDF_ColorDownsampleResolution 300
+		/AI11PDF_ColorDownsampleImageAbove 450
+		/AI11PDF_ColorTileSize 256
+		/AI11PDF_GrayCompressionKind 1
+		/AI11PDF_GrayCompressionQuality 3
+		/AI11PDF_GrayDownsampleKind 1
+		/AI11PDF_GrayDownsampleResolution 300
+		/AI11PDF_GrayDownsampleImageAbove 450
+		/AI11PDF_GrayTileSize 256
+		/AI11PDF_MonochromeCompressionKind 1
+		/AI11PDF_MonochromeDownsampleKind 1
+		/AI11PDF_MonochromeDownsampleResolution 300
+		/AI11PDF_MonoDownsampleImageAbove 450
+		/AI11PDF_CompressArt 1
+		/AI11PDF_TrimMarks 0
+		/AI11PDF_RegMarks 0
+		/AI11PDF_ColorBars 0
+		/AI11PDF_PageInfo 0
+		/AI11PDF_PrinterMarkType 0
+		/AI11PDF_TrimMarkWeight 0.125
+		/AI11PDF_OffsetFromArtworkLeft 0.0
+		/AI11PDF_OffsetFromArtworkRight 0.0
+		/AI11PDF_OffsetFromArtworkTop 0.0
+		/AI11PDF_OffsetFromArtworkBottom 0.0
+		/AI11PDF_BleedLink 1
+		/AI11PDF_BleedLeft 0.0
+		/AI11PDF_BleedRight 0.0
+		/AI11PDF_BleedTop 0.0
+		/AI11PDF_BleedBottom 0.0
+		/AI14PDF_DocBleed 1
+		/AI11PDF_SubsetFontRatio 0
+		/AI11PDF_Overprint 0
+		/AI11PDF_PreserveAcrobatLayers 1
+		/AI11PDF_FlattenTransparency 0
+		/AI11PDF_FlatteningPresetName [ 14
+			5be9ab98e58886e8bea8e78e875d
+		]
+		/AI11PDF_FlatteningPresetMaxResolution 300.0
+		/AI11PDF_FlatteningPresetMinResolution 150.0
+		/AI11PDF_FlatteningPresetVectorBalance 75
+		/AI11PDF_FlatteningPresetClipComplexRegion 1
+		/AI16PDF_FlatteningPresetAntiAlias 0
+		/AI11PDF_FlatteningPresetOutlineStroke 1
+		/AI11PDF_FlatteningPresetOutlineText 0
+		/AI11PDF_FlatteningPresetPrinterResolution 800.0
+		/AI12PDF_DontShowSecurityWarning 0
+		/AI12PDF_Standard 1
+		/AI12PDF_ProfileInclusionPolicy 1
+		/AI12PDF_DestinationPolicy 1
+		/AI12PDF_OutputIntentProfileNamePolicy 1
+		/AI12PDF_ColorConversionPolicy 1
+		/AI12PDF_Trapped 0
+		/AI12PDF_Description [ 0
+
+		]
+		/AI12PDF_DestinationName [ 0
+
+		]
+		/AI12PDF_OutputIntentProfileName [ 0
+
+		]
+		/AI12PDF_OutputCondition [ 0
+
+		]
+		/AI12PDF_OutputConditionIdentifier [ 0
+
+		]
+		/AI12PDF_RegistryName [ 0
+
+		]
+	}
+	/PDFImport {
+		/CropTo 4
+		/PageNumber 1
+	}
+	/ICCColorMgmt3.0 {
+		/useAI6 0
+		/useAdvanced 0
+		/settingsFileValid 1
+		/settingsFile [ 94
+			433a5c50726f6772616d2046696c65732028783836295c436f6d6d6f6e204669
+			6c65735c41646f62655c436f6c6f725c53657474696e67735c5265636f6d6d65
+			6e6465645c4a6170616e2047656e6572616c20507572706f73652e637366
+		]
+	}
+	/Align {
+		/StickyAlignOption 0
+	}
+	/NamedStyle {
+		/StylesView 0
+		/ThumbnailType 0
+	}
+	/KBSCShortcutFile {
+		/FileName [ 18
+			696c6c7573747261746f725f6368616e6765
+		]
+		/IsPreset 0
+	}
+	/Navigator {
+		/Greeking 72.0
+		/DontDrawDash 1
+		/Artboard\ Mode 1
+		/Color {
+			/red 1.0
+			/green 0.3100000024
+			/blue 0.3100000024
+		}
+	}
+	/Symbols {
+		/VisibleKind 0
+	}
+	/Transform {
+		/AnchorPoint 4
+	}
+	/AdobeBrush {
+		/ThumbnailView 1
+	}
+	/AdobeSwatch_ {
+		/ShowFindField 0
+		/CurrentListStyle 1
+		/VisibleKind 0
+		/ShowAllListStyle 1
+		/ColorListStyle 0
+		/GradientListStyle 0
+		/PatternListStyle 0
+		/GroupsListStyle 0
+	}
+	/AdobeSwatchPopup_Fill {
+		/ShowFindField 0
+		/CurrentListStyle 0
+		/VisibleKind 0
+		/ShowAllListStyle 0
+		/ColorListStyle 0
+		/GradientListStyle 0
+		/PatternListStyle 0
+		/GroupsListStyle 0
+	}
+	/AdobeSwatchPopup_Stroke {
+		/ShowFindField 0
+		/CurrentListStyle 0
+		/VisibleKind 0
+		/ShowAllListStyle 0
+		/ColorListStyle 0
+		/GradientListStyle 0
+		/PatternListStyle 0
+		/GroupsListStyle 0
+	}
+	/Action {
+		/SavedSets {
+			/set-2 {
+				/version 3
+				/name [ 10
+					e58aa8e4bd9ce99b8631
+				]
+				/isOpen 1
+				/actionCount 0
+			}
+			/set-1 {
+				/version 3
+				/name [ 13
+					e9bb98e8aea45fe58aa8e4bd9c
+				]
+				/isOpen 0
+				/actionCount 21
+				/action-1 {
+					/name [ 33
+						e4b88de9808fe6988ee5baa6203630efbc88e68980e98089e9a1b9e79baeefbc
+						89
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/useRulersIn1stQuadrant 1
+						/internalName (ai_plugin_transparency)
+						/localizedName [ 9
+							e9808fe6988ee5baa6
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 0
+						/parameterCount 1
+						/parameter-1 {
+							/key 1869635939
+							/showInPalette 1
+							/type (unit real)
+							/value 60.0000038147
+							/unit 592474723
+						}
+					}
+				}
+				/action-2 {
+					/name [ 54
+						e4b88de9808fe6988ee5baa6203430efbc8ce2809ce5b18fe5b995e2809de6a8
+						a1e5bc8fefbc88e68980e98089e9a1b9e79baeefbc89
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 2
+					/event-1 {
+						/useRulersIn1stQuadrant 1
+						/internalName (ai_plugin_transparency)
+						/localizedName [ 9
+							e9808fe6988ee5baa6
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 0
+						/parameterCount 1
+						/parameter-1 {
+							/key 1869635939
+							/showInPalette 1
+							/type (unit real)
+							/value 40.0
+							/unit 592474723
+						}
+					}
+					/event-2 {
+						/useRulersIn1stQuadrant 1
+						/internalName (ai_plugin_transparency)
+						/localizedName [ 9
+							e9808fe6988ee5baa6
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 0
+						/parameterCount 1
+						/parameter-1 {
+							/key 1836016741
+							/showInPalette 1
+							/type (enumerated)
+							/name [ 6
+								e5b18fe5b995
+							]
+							/value 2
+						}
+					}
+				}
+				/action-3 {
+					/name [ 36
+						e5ba94e794a8e9bb98e8aea4e6a0b7e5bc8fefbc88e68980e98089e9a1b9e79b
+						aeefbc89
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/useRulersIn1stQuadrant 1
+						/internalName (ai_plugin_styles)
+						/localizedName [ 12
+							e59bbee5bda2e6a0b7e5bc8f
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 0
+						/parameterCount 1
+						/parameter-1 {
+							/key 1937013100
+							/showInPalette 1
+							/type (ustring)
+							/value [ 14
+								5be9bb98e8aea4e6a0b7e5bc8f5d
+							]
+						}
+					}
+				}
+				/action-4 {
+					/name [ 42
+						e5ad98e582a8e4b8ba2057656220e68980e794a8e6a0bce5bc8fefbc8c474946
+						20363420e4bbbfe889b2
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/useRulersIn1stQuadrant 1
+						/internalName (adobe_SaveForWeb)
+						/localizedName [ 26
+							e5ad98e582a8e4b8ba2057656220e68980e794a8e6a0bce5bc8f
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 1
+						/showDialog 1
+						/parameterCount 18
+						/parameter-1 {
+							/key 1181578272
+							/showInPalette -1
+							/type (enumerated)
+							/name [ 6
+								474946383961
+							]
+							/value 1195984486
+						}
+						/parameter-2 {
+							/key 1231975538
+							/showInPalette -1
+							/type (boolean)
+							/value 0
+						}
+						/parameter-3 {
+							/key 1382376513
+							/showInPalette -1
+							/type (enumerated)
+							/name [ 9
+								e58fafe98089e68ba9
+							]
+							/value 1399616630
+						}
+						/parameter-4 {
+							/key 1098207844
+							/showInPalette -1
+							/type (boolean)
+							/value 0
+						}
+						/parameter-5 {
+							/key 1313042284
+							/showInPalette -1
+							/type (integer)
+							/value 64
+						}
+						/parameter-6 {
+							/key 1148479602
+							/showInPalette -1
+							/type (enumerated)
+							/name [ 6
+								e689a9e695a3
+							]
+							/value 1147564910
+						}
+						/parameter-7 {
+							/key 1148479553
+							/showInPalette -1
+							/type (integer)
+							/value 88
+						}
+						/parameter-8 {
+							/key 1466262099
+							/showInPalette -1
+							/type (integer)
+							/value 0
+						}
+						/parameter-9 {
+							/key 1282372467
+							/showInPalette -1
+							/type (integer)
+							/value 0
+						}
+						/parameter-10 {
+							/key 1416785523
+							/showInPalette -1
+							/type (boolean)
+							/value 1
+						}
+						/parameter-11 {
+							/key 1299477536
+							/showInPalette -1
+							/type (boolean)
+							/value 1
+						}
+						/parameter-12 {
+							/key 1299477586
+							/showInPalette -1
+							/type (integer)
+							/value 255
+						}
+						/parameter-13 {
+							/key 1299477575
+							/showInPalette -1
+							/type (integer)
+							/value 255
+						}
+						/parameter-14 {
+							/key 1299477570
+							/showInPalette -1
+							/type (integer)
+							/value 255
+						}
+						/parameter-15 {
+							/key 1097757761
+							/showInPalette -1
+							/type (boolean)
+							/value 1
+						}
+						/parameter-16 {
+							/key 1131180097
+							/showInPalette -1
+							/type (boolean)
+							/value 0
+						}
+						/parameter-17 {
+							/key 1397249101
+							/showInPalette -1
+							/type (boolean)
+							/value 0
+						}
+						/parameter-18 {
+							/key 1231953952
+							/showInPalette -1
+							/type (ustring)
+							/value [ 13
+								4d6163696e746f73682048443a
+							]
+						}
+					}
+				}
+				/action-5 {
+					/name [ 59
+						e5ad98e582a8e4b8ba2057656220e68980e794a8e6a0bce5bc8fefbc8c4a5047
+						efbc8ce58e8be7bca9e59381e8b4a8e4b8bae2809ce4b8ade2809d
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/useRulersIn1stQuadrant 1
+						/internalName (adobe_SaveForWeb)
+						/localizedName [ 26
+							e5ad98e582a8e4b8ba2057656220e68980e794a8e6a0bce5bc8f
+						]
+						/isOpen 1
+						/isOn 1
+						/hasDialog 1
+						/showDialog 1
+						/parameterCount 14
+						/parameter-1 {
+							/key 1181578272
+							/showInPalette -1
+							/type (enumerated)
+							/name [ 4
+								4a504547
+							]
+							/value 1246774599
+						}
+						/parameter-2 {
+							/key 1231975538
+							/showInPalette -1
+							/type (boolean)
+							/value 0
+						}
+						/parameter-3 {
+							/key 1366062201
+							/showInPalette -1
+							/type (integer)
+							/value 30
+						}
+						/parameter-4 {
+							/key 1332769901
+							/showInPalette -1
+							/type (boolean)
+							/value 1
+						}
+						/parameter-5 {
+							/key 1348563827
+							/showInPalette -1
+							/type (integer)
+							/value 1
+						}
+						/parameter-6 {
+							/key 1651275122
+							/showInPalette -1
+							/type (real)
+							/value 0.0
+						}
+						/parameter-7 {
+							/key 1299477536
+							/showInPalette -1
+							/type (boolean)
+							/value 1
+						}
+						/parameter-8 {
+							/key 1299477586
+							/showInPalette -1
+							/type (integer)
+							/value 255
+						}
+						/parameter-9 {
+							/key 1299477575
+							/showInPalette -1
+							/type (integer)
+							/value 255
+						}
+						/parameter-10 {
+							/key 1299477570
+							/showInPalette -1
+							/type (integer)
+							/value 255
+						}
+						/parameter-11 {
+							/key 1097757761
+							/showInPalette -1
+							/type (boolean)
+							/value 1
+						}
+						/parameter-12 {
+							/key 1131180097
+							/showInPalette -1
+							/type (boolean)
+							/value 0
+						}
+						/parameter-13 {
+							/key 1397249101
+							/showInPalette -1
+							/type (boolean)
+							/value 0
+						}
+						/parameter-14 {
+							/key 1231953952
+							/showInPalette -1
+							/type (ustring)
+							/value [ 13
+								4d6163696e746f73682048443a
+							]
+						}
+					}
+				}
+				/action-6 {
+					/name [ 35
+						e5ad98e582a8e4b8ba2057656220e68980e794a8e6a0bce5bc8fefbc8c504e47
+						203234
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/useRulersIn1stQuadrant 1
+						/internalName (adobe_SaveForWeb)
+						/localizedName [ 26
+							e5ad98e582a8e4b8ba2057656220e68980e794a8e6a0bce5bc8f
+						]
+						/isOpen 1
+						/isOn 1
+						/hasDialog 1
+						/showDialog 1
+						/parameterCount 11
+						/parameter-1 {
+							/key 1181578272
+							/showInPalette -1
+							/type (enumerated)
+							/name [ 6
+								504e472d3234
+							]
+							/value 1347301940
+						}
+						/parameter-2 {
+							/key 1231975538
+							/showInPalette -1
+							/type (boolean)
+							/value 0
+						}
+						/parameter-3 {
+							/key 1416785523
+							/showInPalette -1
+							/type (boolean)
+							/value 1
+						}
+						/parameter-4 {
+							/key 1299477536
+							/showInPalette -1
+							/type (boolean)
+							/value 1
+						}
+						/parameter-5 {
+							/key 1299477586
+							/showInPalette -1
+							/type (integer)
+							/value 255
+						}
+						/parameter-6 {
+							/key 1299477575
+							/showInPalette -1
+							/type (integer)
+							/value 255
+						}
+						/parameter-7 {
+							/key 1299477570
+							/showInPalette -1
+							/type (integer)
+							/value 255
+						}
+						/parameter-8 {
+							/key 1097757761
+							/showInPalette -1
+							/type (boolean)
+							/value 1
+						}
+						/parameter-9 {
+							/key 1131180097
+							/showInPalette -1
+							/type (boolean)
+							/value 0
+						}
+						/parameter-10 {
+							/key 1397249101
+							/showInPalette -1
+							/type (boolean)
+							/value 0
+						}
+						/parameter-11 {
+							/key 1231953952
+							/showInPalette -1
+							/type (ustring)
+							/value [ 13
+								4d6163696e746f73682048443a
+							]
+						}
+					}
+				}
+				/action-7 {
+					/name [ 24
+						e7ae80e58c96efbc88e68980e98089e9a1b9e79baeefbc89
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/useRulersIn1stQuadrant 1
+						/internalName (ai_plugin_simplify)
+						/localizedName [ 6
+							e7ae80e58c96
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 1
+						/showDialog 0
+						/parameterCount 4
+						/parameter-1 {
+							/key 1919182693
+							/showInPalette 1
+							/type (unit real)
+							/value 40.0
+							/unit 592474723
+						}
+						/parameter-2 {
+							/key 1634561652
+							/showInPalette 1
+							/type (unit real)
+							/value 0.0
+							/unit 591490663
+						}
+						/parameter-3 {
+							/key 1936553064
+							/showInPalette 1
+							/type (boolean)
+							/value 0
+						}
+						/parameter-4 {
+							/key 1936552044
+							/showInPalette 1
+							/type (boolean)
+							/value 1
+						}
+					}
+				}
+				/action-8 {
+					/name [ 33
+						e7ae80e58c96e4b8bae79bb4e7babfefbc88e68980e98089e9a1b9e79baeefbc
+						89
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/useRulersIn1stQuadrant 1
+						/internalName (ai_plugin_simplify)
+						/localizedName [ 6
+							e7ae80e58c96
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 1
+						/showDialog 0
+						/parameterCount 4
+						/parameter-1 {
+							/key 1919182693
+							/showInPalette 1
+							/type (unit real)
+							/value 40.0
+							/unit 592474723
+						}
+						/parameter-2 {
+							/key 1634561652
+							/showInPalette 1
+							/type (unit real)
+							/value 0.0
+							/unit 591490663
+						}
+						/parameter-3 {
+							/key 1936553064
+							/showInPalette 1
+							/type (boolean)
+							/value 1
+						}
+						/parameter-4 {
+							/key 1936552044
+							/showInPalette 1
+							/type (boolean)
+							/value 1
+						}
+					}
+				}
+				/action-9 {
+					/name [ 6
+						e681a2e5a48d
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/useRulersIn1stQuadrant 1
+						/internalName (adobe_revertDocument)
+						/localizedName [ 6
+							e681a2e5a48d
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 0
+						/parameterCount 0
+					}
+				}
+				/action-10 {
+					/name [ 30
+						e588a0e999a4e69caae4bdbfe794a8e79a84e8b083e69dbfe9a1b9e79bae
+					]
+					/keyIndex 0
+					/colorIndex 0
+					/isOpen 0
+					/eventCount 12
+					/event-1 {
+						/useRulersIn1stQuadrant 0
+						/internalName (ai_plugin_symbol_palette)
+						/localizedName [ 6
+							e7aca6e58fb7
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 0
+						/parameterCount 1
+						/parameter-1 {
+							/key 1835363957
+							/showInPalette -1
+							/type (enumerated)
+							/name [ 30
+								e98089e68ba9e68980e69c89e69caae4bdbfe794a8e79a84e7aca6e58fb7
+							]
+							/value 12
+						}
+					}
+					/event-2 {
+						/useRulersIn1stQuadrant 1
+						/internalName (ai_plugin_symbol_palette)
+						/localizedName [ 6
+							e7aca6e58fb7
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 1
+						/showDialog 0
+						/parameterCount 1
+						/parameter-1 {
+							/key 1835363957
+							/showInPalette -1
+							/type (enumerated)
+							/name [ 12
+								e588a0e999a4e7aca6e58fb7
+							]
+							/value 5
+						}
+					}
+					/event-3 {
+						/useRulersIn1stQuadrant 0
+						/internalName (adobe_stop)
+						/localizedName [ 6
+							e5819ce6ada2
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 1
+						/showDialog 1
+						/parameterCount 2
+						/parameter-1 {
+							/key 1952807028
+							/showInPalette 0
+							/type (ustring)
+							/value [ 0
+
+							]
+						}
+						/parameter-2 {
+							/key 1668247156
+							/showInPalette -1
+							/type (boolean)
+							/value 1
+						}
+					}
+					/event-4 {
+						/useRulersIn1stQuadrant 1
+						/internalName (ai_plugin_styles)
+						/localizedName [ 12
+							e59bbee5bda2e6a0b7e5bc8f
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 0
+						/parameterCount 1
+						/parameter-1 {
+							/key 1835363957
+							/showInPalette 1
+							/type (enumerated)
+							/name [ 30
+								e98089e68ba9e68980e69c89e69caae4bdbfe794a8e79a84e6a0b7e5bc8f
+							]
+							/value 14
+						}
+					}
+					/event-5 {
+						/useRulersIn1stQuadrant 1
+						/internalName (ai_plugin_styles)
+						/localizedName [ 12
+							e59bbee5bda2e6a0b7e5bc8f
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 1
+						/showDialog 0
+						/parameterCount 1
+						/parameter-1 {
+							/key 1835363957
+							/showInPalette 1
+							/type (enumerated)
+							/name [ 12
+								e588a0e999a4e6a0b7e5bc8f
+							]
+							/value 3
+						}
+					}
+					/event-6 {
+						/useRulersIn1stQuadrant 0
+						/internalName (adobe_stop)
+						/localizedName [ 6
+							e5819ce6ada2
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 1
+						/showDialog 1
+						/parameterCount 2
+						/parameter-1 {
+							/key 1952807028
+							/showInPalette 0
+							/type (ustring)
+							/value [ 0
+
+							]
+						}
+						/parameter-2 {
+							/key 1668247156
+							/showInPalette -1
+							/type (boolean)
+							/value 1
+						}
+					}
+					/event-7 {
+						/useRulersIn1stQuadrant 1
+						/internalName (ai_plugin_brush)
+						/localizedName [ 6
+							e794bbe7ac94
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 0
+						/parameterCount 1
+						/parameter-1 {
+							/key 1835363957
+							/showInPalette 1
+							/type (enumerated)
+							/name [ 30
+								e98089e68ba9e68980e69c89e69caae4bdbfe794a8e79a84e794bbe7ac94
+							]
+							/value 8
+						}
+					}
+					/event-8 {
+						/useRulersIn1stQuadrant 1
+						/internalName (ai_plugin_brush)
+						/localizedName [ 6
+							e794bbe7ac94
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 1
+						/showDialog 0
+						/parameterCount 1
+						/parameter-1 {
+							/key 1835363957
+							/showInPalette 1
+							/type (enumerated)
+							/name [ 12
+								e588a0e999a4e794bbe7ac94
+							]
+							/value 3
+						}
+					}
+					/event-9 {
+						/useRulersIn1stQuadrant 0
+						/internalName (adobe_stop)
+						/localizedName [ 6
+							e5819ce6ada2
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 1
+						/showDialog 1
+						/parameterCount 2
+						/parameter-1 {
+							/key 1952807028
+							/showInPalette 0
+							/type (ustring)
+							/value [ 0
+
+							]
+						}
+						/parameter-2 {
+							/key 1668247156
+							/showInPalette -1
+							/type (boolean)
+							/value 1
+						}
+					}
+					/event-10 {
+						/useRulersIn1stQuadrant 1
+						/internalName (ai_plugin_swatches)
+						/localizedName [ 6
+							e889b2e69dbf
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 0
+						/parameterCount 1
+						/parameter-1 {
+							/key 1835363957
+							/showInPalette 1
+							/type (enumerated)
+							/name [ 30
+								e98089e68ba9e68980e69c89e69caae4bdbfe794a8e79a84e889b2e69dbf
+							]
+							/value 11
+						}
+					}
+					/event-11 {
+						/useRulersIn1stQuadrant 1
+						/internalName (ai_plugin_swatches)
+						/localizedName [ 6
+							e889b2e69dbf
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 1
+						/showDialog 0
+						/parameterCount 1
+						/parameter-1 {
+							/key 1835363957
+							/showInPalette 1
+							/type (enumerated)
+							/name [ 12
+								e588a0e999a4e889b2e69dbf
+							]
+							/value 3
+						}
+					}
+					/event-12 {
+						/useRulersIn1stQuadrant 0
+						/internalName (adobe_stop)
+						/localizedName [ 6
+							e5819ce6ada2
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 1
+						/showDialog 1
+						/parameterCount 2
+						/parameter-1 {
+							/key 1952807028
+							/showInPalette 0
+							/type (ustring)
+							/value [ 0
+
+							]
+						}
+						/parameter-2 {
+							/key 1668247156
+							/showInPalette -1
+							/type (boolean)
+							/value 1
+						}
+					}
+				}
+				/action-11 {
+					/name [ 33
+						e7a7bbe58aa8e5afb9e8af9de6a186efbc88e68980e98089e9a1b9e79baeefbc
+						89
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/useRulersIn1stQuadrant 1
+						/internalName (adobe_move)
+						/localizedName [ 6
+							e7a7bbe58aa8
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 1
+						/showDialog 1
+						/parameterCount 3
+						/parameter-1 {
+							/key 1752136302
+							/showInPalette 1
+							/type (unit real)
+							/value 66.0
+							/unit 592476268
+						}
+						/parameter-2 {
+							/key 1987339116
+							/showInPalette 1
+							/type (unit real)
+							/value 0.0
+							/unit 592476268
+						}
+						/parameter-3 {
+							/key 1668247673
+							/showInPalette 1
+							/type (boolean)
+							/value 0
+						}
+					}
+				}
+				/action-12 {
+					/name [ 39
+						e6af94e4be8be7bca9e694bee5afb9e8af9de6a186efbc88e68980e98089e9a1
+						b9e79baeefbc89
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/useRulersIn1stQuadrant 1
+						/internalName (adobe_scale)
+						/localizedName [ 6
+							e7bca9e694be
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 1
+						/showDialog 1
+						/parameterCount 4
+						/parameter-1 {
+							/key 1970169453
+							/showInPalette 1
+							/type (boolean)
+							/value 1
+						}
+						/parameter-2 {
+							/key 1818848869
+							/showInPalette 1
+							/type (boolean)
+							/value 0
+						}
+						/parameter-3 {
+							/key 1935895653
+							/showInPalette 1
+							/type (unit real)
+							/value 120.0
+							/unit 592474723
+						}
+						/parameter-4 {
+							/key 1668247673
+							/showInPalette 1
+							/type (boolean)
+							/value 0
+						}
+					}
+				}
+				/action-13 {
+					/name [ 33
+						e6978be8bdace5afb9e8af9de6a186efbc88e68980e98089e9a1b9e79baeefbc
+						89
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/useRulersIn1stQuadrant 1
+						/internalName (adobe_rotate)
+						/localizedName [ 6
+							e6978be8bdac
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 1
+						/showDialog 1
+						/parameterCount 2
+						/parameter-1 {
+							/key 1634625388
+							/showInPalette 1
+							/type (unit real)
+							/value 30.0
+							/unit 591490663
+						}
+						/parameter-2 {
+							/key 1668247673
+							/showInPalette 1
+							/type (boolean)
+							/value 0
+						}
+					}
+				}
+				/action-14 {
+					/name [ 40
+						e9a1bae697b6e99288e6978be8bdac20393020e5baa6efbc88e68980e98089e9
+						a1b9e79baeefbc89
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/useRulersIn1stQuadrant 1
+						/internalName (adobe_rotate)
+						/localizedName [ 6
+							e6978be8bdac
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 1
+						/showDialog 0
+						/parameterCount 4
+						/parameter-1 {
+							/key 1634625388
+							/showInPalette 1
+							/type (unit real)
+							/value 90.0
+							/unit 591490663
+						}
+						/parameter-2 {
+							/key 1668247673
+							/showInPalette 1
+							/type (boolean)
+							/value 0
+						}
+						/parameter-3 {
+							/key 1684370520
+							/showInPalette 1
+							/type (unit real)
+							/value 44.8530273438
+							/unit 592476268
+						}
+						/parameter-4 {
+							/key 1684370521
+							/showInPalette 1
+							/type (unit real)
+							/value 54.4116210938
+							/unit 592476268
+						}
+					}
+				}
+				/action-15 {
+					/name [ 33
+						e580bee6969ce5afb9e8af9de6a186efbc88e68980e98089e9a1b9e79baeefbc
+						89
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/useRulersIn1stQuadrant 1
+						/internalName (adobe_shear)
+						/localizedName [ 6
+							e580bee6969c
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 1
+						/showDialog 1
+						/parameterCount 3
+						/parameter-1 {
+							/key 1936220519
+							/showInPalette 1
+							/type (unit real)
+							/value 45.0
+							/unit 591490663
+						}
+						/parameter-2 {
+							/key 1634625388
+							/showInPalette 1
+							/type (unit real)
+							/value 0.0
+							/unit 591490663
+						}
+						/parameter-3 {
+							/key 1668247673
+							/showInPalette 1
+							/type (boolean)
+							/value 0
+						}
+					}
+				}
+				/action-16 {
+					/name [ 12
+						e6b0b4e5b9b3e9959ce5838f
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/useRulersIn1stQuadrant 1
+						/internalName (adobe_reflect)
+						/localizedName [ 6
+							e5afb9e7a7b0
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 1
+						/showDialog 0
+						/parameterCount 4
+						/parameter-1 {
+							/key 1634625388
+							/showInPalette 1
+							/type (unit real)
+							/value 0.0
+							/unit 591490663
+						}
+						/parameter-2 {
+							/key 1668247673
+							/showInPalette 1
+							/type (boolean)
+							/value 0
+						}
+						/parameter-3 {
+							/key 1684370520
+							/showInPalette 1
+							/type (unit real)
+							/value -13.22265625
+							/unit 592476268
+						}
+						/parameter-4 {
+							/key 1684370521
+							/showInPalette 1
+							/type (unit real)
+							/value -2.6201171875
+							/unit 592476268
+						}
+					}
+				}
+				/action-17 {
+					/name [ 24
+						e5b9b6e99b86efbc88e68980e98089e9a1b9e79baeefbc89
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/useRulersIn1stQuadrant 1
+						/internalName (ai_plugin_pathfinder)
+						/localizedName [ 15
+							e8b7afe5be84e69fa5e689bee599a8
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 0
+						/parameterCount 1
+						/parameter-1 {
+							/key 1851878757
+							/showInPalette 1
+							/type (enumerated)
+							/name [ 6
+								e5b9b6e99b86
+							]
+							/value 0
+						}
+					}
+				}
+				/action-18 {
+					/name [ 24
+						e4baa4e99b86efbc88e68980e98089e9a1b9e79baeefbc89
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/useRulersIn1stQuadrant 1
+						/internalName (ai_plugin_pathfinder)
+						/localizedName [ 15
+							e8b7afe5be84e69fa5e689bee599a8
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 0
+						/parameterCount 1
+						/parameter-1 {
+							/key 1851878757
+							/showInPalette 1
+							/type (enumerated)
+							/name [ 6
+								e4baa4e99b86
+							]
+							/value 1
+						}
+					}
+				}
+				/action-19 {
+					/name [ 24
+						e5b7aee99b86efbc88e68980e98089e9a1b9e79baeefbc89
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/useRulersIn1stQuadrant 1
+						/internalName (ai_plugin_pathfinder)
+						/localizedName [ 15
+							e8b7afe5be84e69fa5e689bee599a8
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 0
+						/parameterCount 1
+						/parameter-1 {
+							/key 1851878757
+							/showInPalette 1
+							/type (enumerated)
+							/name [ 6
+								e5b7aee99b86
+							]
+							/value 2
+						}
+					}
+				}
+				/action-20 {
+					/name [ 36
+						e5878fe58ebbe5898de696b9e5afb9e8b1a1efbc88e68980e98089e9a1b9e79b
+						aeefbc89
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/useRulersIn1stQuadrant 1
+						/internalName (ai_plugin_pathfinder)
+						/localizedName [ 15
+							e8b7afe5be84e69fa5e689bee599a8
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 0
+						/parameterCount 1
+						/parameter-1 {
+							/key 1851878757
+							/showInPalette 1
+							/type (enumerated)
+							/name [ 18
+								e5878fe58ebbe5898de696b9e5afb9e8b1a1
+							]
+							/value 3
+						}
+					}
+				}
+				/action-21 {
+					/name [ 27
+						e6a085e6a0bce58c96efbc88e68980e98089e9a1b9e79baeefbc89
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/useRulersIn1stQuadrant 0
+						/internalName (ai_plugin_rasterize)
+						/localizedName [ 9
+							e6a085e6a0bce58c96
+						]
+						/isOpen 1
+						/isOn 1
+						/hasDialog 1
+						/showDialog 0
+						/parameterCount 8
+						/parameter-1 {
+							/key 1668246642
+							/showInPalette -1
+							/type (enumerated)
+							/name [ 3
+								524742
+							]
+							/value 0
+						}
+						/parameter-2 {
+							/key 1685088558
+							/showInPalette -1
+							/type (integer)
+							/value 150
+						}
+						/parameter-3 {
+							/key 1651205988
+							/showInPalette -1
+							/type (enumerated)
+							/name [ 6
+								e799bde889b2
+							]
+							/value 0
+						}
+						/parameter-4 {
+							/key 1954115685
+							/showInPalette -1
+							/type (enumerated)
+							/name [ 6
+								e8bdaee5bb93
+							]
+							/value 1
+						}
+						/parameter-5 {
+							/key 1634494763
+							/showInPalette -1
+							/type (enumerated)
+							/name [ 3
+								e697a0
+							]
+							/value 0
+						}
+						/parameter-6 {
+							/key 1835103083
+							/showInPalette -1
+							/type (boolean)
+							/value 0
+						}
+						/parameter-7 {
+							/key 1886613620
+							/showInPalette -1
+							/type (boolean)
+							/value 0
+						}
+						/parameter-8 {
+							/key 1885430884
+							/showInPalette -1
+							/type (unit real)
+							/value 0.0
+							/unit 592476268
+						}
+					}
+				}
+			}
+		}
+		/SavedSetCount 2
+	}
+	/WorkspacePrefix {
+		/Last\ Used\ Workspace\ Name [ 12
+			e59fbae69cace58a9fe883bd
+		]
+	}
+	/FileClipboard {
+		/retainClipboardData 0
+		/linkoptions 2
+		/copyAsPDF 1
+		/copyAsAICB 0
+		/AICBOption 1
+		/flatten 1
+	}
+	/AssetManagement {
+		/vcLinkStatusUpdateCycleInTicks 120
+		/vcReplicaStatusUpdateCycleInTicks 30
+		/bridgeTalkPumpCycleInTicks 30
+	}
+	/Illustrator {
+		/WritingStartupFile 0
+	}
+	/PreferenceUI {
+		/width 516.0
+		/height 366.0
+	}
+	/PDF {
+		/CompressPGF 1
+	}
+	/SVGFormat {
+		/FormatForImages 1
+		/CoordinatePrecision 3
+		/Rendering 1
+		/zoom 0
+		/systemFont 0
+		/fontSubsetting 1
+		/Encoding 2
+		/FileCompression 1
+		/StyleType 4
+		/FormatForFonts 0
+		/FontLocation 1
+	}
+	/svgOptionDlg {
+		/O_Width_Unit 0
+		/O_Height_Unit 0
+		/O_Resolution_Unit 0
+		/O_Anti_Alias_Artwork 1
+		/O_ExportHiddenObjects 0
+		/O_Export_LayerAsTitle 0
+		/O_Also_Export_Compressed 0
+		/O_Constrain_Proportions 1
+		/O_Clip_To_Artboard 0
+		/O_EmbedFontFormats 0
+		/O_EmbedRasterLoc 2
+		/O_RasterResolution 72
+		/O_GradientTolerance 0.25
+		/O_TextOnPath 0
+		/O_RoundTrip 0
+		/O_IncludeAdobeNameSpace 0
+		/O_IncludeTemplate 0
+		/O_IncludePGF 0
+		/O_IncludeXAP 0
+		/O_IncludeSlices 0
+		/O_DialogExpanded 0
+		/O_SVGDTD 0
+		/O_SVFontType 0
+		/O_DisbleAutoKerning 1
+		/O_UseSVGTextOnPath 0
+	}
+	/BatchAction {
+		/sourceMode 0
+		/openDir [ 0
+
+		]
+		/overrideOpen 0
+		/includeSubDir 0
+		/saveMode 0
+		/saveDir [ 0
+
+		]
+		/overrideSave 0
+		/exportDir [ 0
+
+		]
+		/overrideExport 0
+		/fileNameAlgorithm 0
+		/stopForErr 1
+		/errFile [ 0
+
+		]
+	}
+	/GlobalBrushOptions {
+		/smoothness 0.0
+		/fidelity 4.0
+		/fill 0
+		/select 0
+	}
+	/ArtBrushOptions {
+		/PreviewChanges 1
+	}
+	/BlobBrushOptions {
+		/keepSelected 0
+		/limitMerge 0
+		/smoothness 0.0
+		/fidelity 4.0
+	}
+	/FuzzyMask {
+		/Radius 4.9889764786
+		/Preview 1
+	}
+	/3D\ Plugin\ Flattener\ Pref {
+		/DontReorderClipGroups 0
+	}
+	/SymbolsPopupPanel {
+		/VisibleKind 0
+	}
+}
+/BIBCacheSizeInPercentOfPhysicalRam 2.0
+/BIBCacheMaxSizeInBytes 41943040
+/strokeUnits 2
+/numbersArePoints 0
+/uiScrollButtonPosition 0
+/Planar {
+	/GapDetection 1
+	/GapDetection {
+		/Size 3.0
+		/Custom 0
+		/GapColor {
+			/Color {
+				/red 65535
+				/green 20224
+				/blue 20224
+			}
+			/red 65535
+			/green 20224
+			/blue 20224
+		}
+		/PreviewOn 1
+	}
+	/ArtboardGapPreview 0
+	/Resolution 100
+	/Paintbucket {
+		/PaintFills 1
+		/PaintStrokes 0
+		/Highlight 1
+		/CursorSwatchPrevew 1
+		/Highlight {
+			/Color {
+				/red 65535
+				/green 20224
+				/blue 20224
+			}
+			/Stroke 4
+		}
+	}
+	/FaceSelect {
+		/SelectFills 1
+		/SelectStrokes 1
+		/Highlight 1
+		/Highlight {
+			/Color {
+				/red 65535
+				/green 20224
+				/blue 20224
+			}
+			/Stroke 4
+		}
+	}
+	/MergeTool {
+		/Gap {
+			/Detect 0
+			/Type 0
+			/Length 3.0
+		}
+		/ClosedOpenFillPaths 1
+		/BreakEdge 0
+		/PaintFills 1
+		/PreviewSwatchCursor 0
+		/Highlight {
+			/Fill 1
+			/Stroke 1
+			/StrokeColorIndex 3
+			/StrokeColor {
+				/Red 65535
+				/Green 20224
+				/Blue 20224
+			}
+		}
+	}
+}
+/smartGuides {
+	/showLabels 1
+	/showConstructionGuides 0
+	/showToolGuides 0
+	/showObjectHighlighting 1
+	/showReadouts 1
+	/showAlignmentGuides 1
+	/anglesCount 4
+	/tolerance 4
+	/isEnabled 1
+	/customAnglesCount 4
+	/angles0 0.0
+	/angles1 45.0
+	/angles2 90.0
+	/angles3 135.0
+	/customAngles0 0.0
+	/customAngles1 45.0
+	/customAngles2 90.0
+	/customAngles3 135.0
+}
+/snapomatic {
+	/Color {
+		/red 0.2899976969
+		/green 1.0
+		/blue 0.2899976969
+	}
+}
+/highlightAnchorOnMouseOver 1
+/selectedAnchorMarkType 2
+/unselectedAnchorMarkType 1
+/Gradient\ Annotator\ View\ Option 0
+/ColorHarmony {
+	/HarmonyDialogRecolorArtCheckbox 1
+	/ShowStorage 1
+	/ShowAdjustSliders 0
+	/SliderColorSpace 3
+	/mapMethodPreserveSpots 1
+	/mapMethodApplyToAll 1
+	/combineTintsOnExtraction 1
+	/ShowHideColorGuide 1
+	/VariationTypeColorGuide 0
+}
+/checkRequiredPlugins 1
+/EyedropperTool {
+	/rasterSampleSize 1
+	/graphicsStyle 0
+	/paint {
+		/object {
+			/transparency 1
+		}
+		/fill 1
+		/fill {
+			/color 1
+			/transparency 1
+			/overprint 1
+		}
+		/stroke 1
+		/stroke {
+			/color 1
+			/transparency 1
+			/overprint 1
+			/weight 1
+			/cap 1
+			/join 1
+			/miter 1
+			/dash 1
+		}
+		/objectExpanded 1
+		/fillExpanded 1
+		/strokeExpanded 1
+	}
+	/text {
+		/characterStyle 1
+		/paragraphStyle 1
+	}
+	/graphicsStyleExpanded 1
+}
+/BucketTool {
+	/rasterSampleSize 1
+	/graphicsStyle 0
+	/paint {
+		/object {
+			/transparency 1
+		}
+		/fill 1
+		/fill {
+			/color 1
+			/transparency 1
+			/overprint 1
+		}
+		/stroke 1
+		/stroke {
+			/color 1
+			/transparency 1
+			/overprint 1
+			/weight 1
+			/cap 1
+			/join 1
+			/miter 1
+			/dash 1
+		}
+		/objectExpanded 1
+		/fillExpanded 1
+		/strokeExpanded 1
+	}
+	/text {
+		/characterStyle 1
+		/paragraphStyle 1
+	}
+	/graphicsStyleExpanded 1
+}
+/showBoundingBox 1
+/includeStrokeInBounds 0
+/DefaultPaintStyle {
+	/StrokeActive 0
+	/PathStyle {
+		/FillPaint 1
+		/Fill {
+			/AIColor {
+				/Kind (Gray)
+				/Gray {
+					/Gray 1.0
+				}
+			}
+			/Overprint 0
+		}
+		/StrokePaint 0
+		/Stroke {
+			/AIColor {
+				/Kind ()
+			}
+			/Overprint 0
+			/Width 1.0
+			/Dash {
+				/Length 0
+				/Offset 0.0
+			}
+			/Cap (ButtCap)
+			/Join (MiterJoin)
+			/MiterLimit 10.0
+		}
+	}
+	/ActiveColor {
+		/AIColor {
+			/Kind (CMYK)
+			/CMYK {
+				/Cyan 0.0
+				/Magenta 0.0
+				/Yellow 0.0
+				/Black 1.0
+			}
+		}
+	}
+	/ActiveGradient {
+		/AIColor {
+			/Kind ()
+		}
+	}
+}
+/ovalRadius 41.0
+/showToolTips 1
+/uiPersistDrawers 1
+/uiBrightness 0.3300000131
+/uiOpenDocumentsAsTabs 1
+/AI\ Container\ Overrides\ Object 1
+/precision {
+	/userWithUnits 4
+	/pointsWithUnits 3
+	/pixelsWithUnits 3
+	/inchesWithUnits 4
+	/centimetersWithUnits 4
+	/millimetersWithUnits 3
+	/fixedNoUnits 3
+	/angleNoUnits 3
+	/percentageNoUnits 2
+}
+/linkTransform 0
+/onlyTransformPatterns 0
+/scaleLineWeight 0
+/dontUseSymbolRegPoint 0
+/isRulerIn4thQuad 1
+/Swatches {
+	/linkHVSpacingInDlg 0
+	/linkHtWidthInDlg 0
+	/showTileBoundsInPDM 1
+	/showSwatchBoundsInPDM 0
+	/moveTileBoundsWithArt 1
+}
+/layers {
+	/pastePreserve 0
+	/pastePreserveBackup 0
+}
+/unloadPlugins 1
+/maxRecentFiles 10
+/FileList {
+	/file0 [ 45
+		433a5c55736572735c7468696e6b5c44726f70626f785c44657369676e5ce5ad
+		97e4bd93e8a782e5af9f2e6169
+	]
+	/file1 [ 32
+		433a5c55736572735c7468696e6b5c446f776e6c6f6164735c4c69334b2e6169
+	]
+	/file2 [ 32
+		433a5c55736572735c7468696e6b5c446f776e6c6f6164735c4c69334b2e6169
+	]
+	/file3 [ 32
+		433a5c55736572735c7468696e6b5c446f776e6c6f6164735c4c69334b2e6169
+	]
+	/file4 [ 32
+		433a5c55736572735c7468696e6b5c446f776e6c6f6164735c4c69334b2e6169
+	]
+	/file5 [ 32
+		433a5c55736572735c7468696e6b5c446f776e6c6f6164735c4c69334b2e6169
+	]
+	/file6 [ 47
+		433a5c55736572735c7468696e6b5c536b7944726976655c44657369676e5c45
+		756c65725f73706972616c2e737667
+	]
+	/file7 [ 97
+		433a5c55736572735c7468696e6b5c536b7944726976655c44657369676e5ce4
+		bdbfe794a82041646f626520496c6c7573747261746f7220e5819a20554920e8
+		aebee8aea15ce58887e59bbee38081e5afbce587bae79a84e7a798e8af802e61
+		69
+	]
+	/file8 [ 100
+		433a5c55736572735c7468696e6b5c536b7944726976655c44657369676e5ce4
+		bdbfe794a82041646f626520496c6c7573747261746f7220e5819a20554920e8
+		aebee8aea15ce5a49ae9878de5a1abe58585e4b88ee5a49ae9878de68f8fe8be
+		b92e6169
+	]
+	/file9 [ 32
+		433a5c55736572735c7468696e6b5c446f776e6c6f6164735c4c69334b2e6169
+	]
+}
+/usePreciseCursors 0
+/blackPreservation {
+	/Onscreen 1
+	/Export 1
+}
+/AI\ New\ Art\ Basic\ Appearance 1
+/attributePalette {
+	/currentUrlCount 0
+}
+/templatesBrowsed 1
+/Illustrator\ version 16
+/transformPatterns 0
+/hitTypeShapeOnPreview 1
+/pen {
+	/disableAutoAddDelete 0
+}
+/selectSameTintPercentage 0
+/cursorKeyLength 1.0000629425
+/freehandTol 2.0
+/outlineTol 0.0
+/artNamesAreXMLIDs 0
+/fileFormatGetFile {
+	/ConvertedInFilename 1
+}
+/doubleClickToIsolate 1
+/showDirectionHandles 0
+/snapToPoint 1
+/selectBehind 1
+/selectionTolerance 3
+/snappingTolerance 2
+/directionHandleMarkType 4
+/useLowResProxy 0
+/rastersys {
+	/scratch {
+		/primary [ 34
+			433a5c55736572735c7468696e6b5c417070446174615c4c6f63616c5c54656d
+			705c
+		]
+		/secondary [ 0
+
+		]
+	}
+}
+/Threshold {
+	/DbrushPath {
+		/Clipboard 30
+		/Save 30
+	}
+}
+/maxMRUFiles 500
+/ExperimentalPixelMerge 0
+/FileFormatGetFile {
+	/Link 0
+}
+/ {
+	/Vectorize {
+		/WriteToSVgFile 0
+	}
+}
+/AIPattern_Default_Dimming_On 1
+/AIPattern_Default_Dim_Percent 30.0
+/photoshopFilter {
+	/excludeSpots 0
+	/separateProcess 0
+}
+/GradientColorStopDialogPref 0
+/mesh {
+	/c1Tolerance 0.003
+	/Flatness 0.1
+	/c1Filter 1
+}
+/changed 0

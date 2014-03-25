@@ -1,0 +1,999 @@
+<?xml version='1.0'?>
+<prop.map version='4'>
+<prop.list>
+<prop.pair>
+<key>DialogInfo</key>
+<prop.list>
+<prop.pair>
+<key>AP_BatchDialog</key>
+<string>&lt;prop.list&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;DialogID&lt;/key&gt;
+&lt;ustring&gt;AP_BatchDialog&lt;/ustring&gt;
+&lt;/prop.pair&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;Position&lt;/key&gt;
+&lt;array&gt;
+&lt;array.type&gt;&lt;int type=&apos;signed&apos; size=&apos;32&apos;/&gt;&lt;/array.type&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;1648&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;66&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;/array&gt;
+&lt;/prop.pair&gt;
+&lt;/prop.list&gt;
+</string>
+</prop.pair>
+<prop.pair>
+<key>Action_NewActionDialogUI</key>
+<string>&lt;prop.list&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;DialogID&lt;/key&gt;
+&lt;ustring&gt;Action_NewActionDialogUI&lt;/ustring&gt;
+&lt;/prop.pair&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;Position&lt;/key&gt;
+&lt;array&gt;
+&lt;array.type&gt;&lt;int type=&apos;signed&apos; size=&apos;32&apos;/&gt;&lt;/array.type&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;1704&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;246&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;/array&gt;
+&lt;/prop.pair&gt;
+&lt;/prop.list&gt;
+</string>
+</prop.pair>
+<prop.pair>
+<key>Action_PlaybackOptionsDialogUI</key>
+<string>&lt;prop.list&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;DialogID&lt;/key&gt;
+&lt;ustring&gt;Action_PlaybackOptionsDialogUI&lt;/ustring&gt;
+&lt;/prop.pair&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;Position&lt;/key&gt;
+&lt;array&gt;
+&lt;array.type&gt;&lt;int type=&apos;signed&apos; size=&apos;32&apos;/&gt;&lt;/array.type&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;1765&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;251&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;/array&gt;
+&lt;/prop.pair&gt;
+&lt;/prop.list&gt;
+</string>
+</prop.pair>
+<prop.pair>
+<key>ArtOnPathBrushTool_ArtOnPathDefDialog</key>
+<string>&lt;prop.list&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;DialogID&lt;/key&gt;
+&lt;ustring&gt;ArtOnPathBrushTool_ArtOnPathDefDialog&lt;/ustring&gt;
+&lt;/prop.pair&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;Position&lt;/key&gt;
+&lt;array&gt;
+&lt;array.type&gt;&lt;int type=&apos;signed&apos; size=&apos;32&apos;/&gt;&lt;/array.type&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;1559&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;56&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;/array&gt;
+&lt;/prop.pair&gt;
+&lt;/prop.list&gt;
+</string>
+</prop.pair>
+<prop.pair>
+<key>ArtboardOptions</key>
+<string>&lt;prop.list&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;DialogID&lt;/key&gt;
+&lt;ustring&gt;ArtboardOptions&lt;/ustring&gt;
+&lt;/prop.pair&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;Position&lt;/key&gt;
+&lt;array&gt;
+&lt;array.type&gt;&lt;int type=&apos;signed&apos; size=&apos;32&apos;/&gt;&lt;/array.type&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;1665&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;35&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;/array&gt;
+&lt;/prop.pair&gt;
+&lt;/prop.list&gt;
+</string>
+</prop.pair>
+<prop.pair>
+<key>BlendOptionsDialog</key>
+<string>&lt;prop.list&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;DialogID&lt;/key&gt;
+&lt;ustring&gt;BlendOptionsDialog&lt;/ustring&gt;
+&lt;/prop.pair&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;Position&lt;/key&gt;
+&lt;array&gt;
+&lt;array.type&gt;&lt;int type=&apos;signed&apos; size=&apos;32&apos;/&gt;&lt;/array.type&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;1723&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;269&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;/array&gt;
+&lt;/prop.pair&gt;
+&lt;/prop.list&gt;
+</string>
+</prop.pair>
+<prop.pair>
+<key>BrushManager_NewBrushOptionsDialog</key>
+<string>&lt;prop.list&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;DialogID&lt;/key&gt;
+&lt;ustring&gt;BrushManager_NewBrushOptionsDialog&lt;/ustring&gt;
+&lt;/prop.pair&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;Position&lt;/key&gt;
+&lt;array&gt;
+&lt;array.type&gt;&lt;int type=&apos;signed&apos; size=&apos;32&apos;/&gt;&lt;/array.type&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;1765&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;298&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;/array&gt;
+&lt;/prop.pair&gt;
+&lt;/prop.list&gt;
+</string>
+</prop.pair>
+<prop.pair>
+<key>CSXSExtension_com.adobe.sonar.feedback_0</key>
+<string>&lt;prop.list&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;DialogID&lt;/key&gt;
+&lt;ustring&gt;CSXSExtension_com.adobe.sonar.feedback_0&lt;/ustring&gt;
+&lt;/prop.pair&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;Position&lt;/key&gt;
+&lt;array&gt;
+&lt;array.type&gt;&lt;int type=&apos;signed&apos; size=&apos;32&apos;/&gt;&lt;/array.type&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;1771&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;252&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;/array&gt;
+&lt;/prop.pair&gt;
+&lt;/prop.list&gt;
+</string>
+</prop.pair>
+<prop.pair>
+<key>CalligraphicOptionsDlg</key>
+<string>&lt;prop.list&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;DialogID&lt;/key&gt;
+&lt;ustring&gt;CalligraphicOptionsDlg&lt;/ustring&gt;
+&lt;/prop.pair&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;Position&lt;/key&gt;
+&lt;array&gt;
+&lt;array.type&gt;&lt;int type=&apos;signed&apos; size=&apos;32&apos;/&gt;&lt;/array.type&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;1626&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;196&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;/array&gt;
+&lt;/prop.pair&gt;
+&lt;/prop.list&gt;
+</string>
+</prop.pair>
+<prop.pair>
+<key>ColorHarmonyDialog</key>
+<string>&lt;prop.list&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;DialogID&lt;/key&gt;
+&lt;ustring&gt;ColorHarmonyDialog&lt;/ustring&gt;
+&lt;/prop.pair&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;Position&lt;/key&gt;
+&lt;array&gt;
+&lt;array.type&gt;&lt;int type=&apos;signed&apos; size=&apos;32&apos;/&gt;&lt;/array.type&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;1519&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;72&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;/array&gt;
+&lt;/prop.pair&gt;
+&lt;/prop.list&gt;
+</string>
+</prop.pair>
+<prop.pair>
+<key>ColorHarmony_ColorGuideOptionsDlg</key>
+<string>&lt;prop.list&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;DialogID&lt;/key&gt;
+&lt;ustring&gt;ColorHarmony_ColorGuideOptionsDlg&lt;/ustring&gt;
+&lt;/prop.pair&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;Position&lt;/key&gt;
+&lt;array&gt;
+&lt;array.type&gt;&lt;int type=&apos;signed&apos; size=&apos;32&apos;/&gt;&lt;/array.type&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;1737&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;280&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;/array&gt;
+&lt;/prop.pair&gt;
+&lt;/prop.list&gt;
+</string>
+</prop.pair>
+<prop.pair>
+<key>ColorPickerDlg</key>
+<string>&lt;prop.list&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;DialogID&lt;/key&gt;
+&lt;ustring&gt;ColorPickerDlg&lt;/ustring&gt;
+&lt;/prop.pair&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;Position&lt;/key&gt;
+&lt;array&gt;
+&lt;array.type&gt;&lt;int type=&apos;signed&apos; size=&apos;32&apos;/&gt;&lt;/array.type&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;1602&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;185&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;/array&gt;
+&lt;/prop.pair&gt;
+&lt;/prop.list&gt;
+</string>
+</prop.pair>
+<prop.pair>
+<key>DBrushToolUI_DBrushToolUIOptionsDialog</key>
+<string>&lt;prop.list&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;DialogID&lt;/key&gt;
+&lt;ustring&gt;DBrushToolUI_DBrushToolUIOptionsDialog&lt;/ustring&gt;
+&lt;/prop.pair&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;Position&lt;/key&gt;
+&lt;array&gt;
+&lt;array.type&gt;&lt;int type=&apos;signed&apos; size=&apos;32&apos;/&gt;&lt;/array.type&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;1671&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;101&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;/array&gt;
+&lt;/prop.pair&gt;
+&lt;/prop.list&gt;
+</string>
+</prop.pair>
+<prop.pair>
+<key>DropShadowUI_DropShadowUIDialog</key>
+<string>&lt;prop.list&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;DialogID&lt;/key&gt;
+&lt;ustring&gt;DropShadowUI_DropShadowUIDialog&lt;/ustring&gt;
+&lt;/prop.pair&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;Position&lt;/key&gt;
+&lt;array&gt;
+&lt;array.type&gt;&lt;int type=&apos;signed&apos; size=&apos;32&apos;/&gt;&lt;/array.type&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;1706&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;216&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;/array&gt;
+&lt;/prop.pair&gt;
+&lt;/prop.list&gt;
+</string>
+</prop.pair>
+<prop.pair>
+<key>Expand_ObjectExpandOptionsDialog</key>
+<string>&lt;prop.list&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;DialogID&lt;/key&gt;
+&lt;ustring&gt;Expand_ObjectExpandOptionsDialog&lt;/ustring&gt;
+&lt;/prop.pair&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;Position&lt;/key&gt;
+&lt;array&gt;
+&lt;array.type&gt;&lt;int type=&apos;signed&apos; size=&apos;32&apos;/&gt;&lt;/array.type&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;1765&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;204&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;/array&gt;
+&lt;/prop.pair&gt;
+&lt;/prop.list&gt;
+</string>
+</prop.pair>
+<prop.pair>
+<key>FlattenTransparencyUI_FlattenTransparencyUIOptionsDialog</key>
+<string>&lt;prop.list&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;DialogID&lt;/key&gt;
+&lt;ustring&gt;FlattenTransparencyUI_FlattenTransparencyUIOptionsDialog&lt;/ustring&gt;
+&lt;/prop.pair&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;Position&lt;/key&gt;
+&lt;array&gt;
+&lt;array.type&gt;&lt;int type=&apos;signed&apos; size=&apos;32&apos;/&gt;&lt;/array.type&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;1689&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;208&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;/array&gt;
+&lt;/prop.pair&gt;
+&lt;/prop.list&gt;
+</string>
+</prop.pair>
+<prop.pair>
+<key>FuzzyEffectUIOptionsDialog</key>
+<string>&lt;prop.list&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;DialogID&lt;/key&gt;
+&lt;ustring&gt;FuzzyEffectUIOptionsDialog&lt;/ustring&gt;
+&lt;/prop.pair&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;Position&lt;/key&gt;
+&lt;array&gt;
+&lt;array.type&gt;&lt;int type=&apos;signed&apos; size=&apos;32&apos;/&gt;&lt;/array.type&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;1723&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;294&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;/array&gt;
+&lt;/prop.pair&gt;
+&lt;/prop.list&gt;
+</string>
+</prop.pair>
+<prop.pair>
+<key>IllustratorUI_AverageOptionsDialog</key>
+<string>&lt;prop.list&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;DialogID&lt;/key&gt;
+&lt;ustring&gt;IllustratorUI_AverageOptionsDialog&lt;/ustring&gt;
+&lt;/prop.pair&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;Position&lt;/key&gt;
+&lt;array&gt;
+&lt;array.type&gt;&lt;int type=&apos;signed&apos; size=&apos;32&apos;/&gt;&lt;/array.type&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;1765&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;254&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;/array&gt;
+&lt;/prop.pair&gt;
+&lt;/prop.list&gt;
+</string>
+</prop.pair>
+<prop.pair>
+<key>IllustratorUI_DocumentSetupDialog</key>
+<string>&lt;prop.list&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;DialogID&lt;/key&gt;
+&lt;ustring&gt;IllustratorUI_DocumentSetupDialog&lt;/ustring&gt;
+&lt;/prop.pair&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;Position&lt;/key&gt;
+&lt;array&gt;
+&lt;array.type&gt;&lt;int type=&apos;signed&apos; size=&apos;32&apos;/&gt;&lt;/array.type&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;1637&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;1&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;/array&gt;
+&lt;/prop.pair&gt;
+&lt;/prop.list&gt;
+</string>
+</prop.pair>
+<prop.pair>
+<key>IllustratorUI_EditViewsDialog</key>
+<string>&lt;prop.list&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;DialogID&lt;/key&gt;
+&lt;ustring&gt;IllustratorUI_EditViewsDialog&lt;/ustring&gt;
+&lt;/prop.pair&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;Position&lt;/key&gt;
+&lt;array&gt;
+&lt;array.type&gt;&lt;int type=&apos;signed&apos; size=&apos;32&apos;/&gt;&lt;/array.type&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;1762&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;223&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;/array&gt;
+&lt;/prop.pair&gt;
+&lt;/prop.list&gt;
+</string>
+</prop.pair>
+<prop.pair>
+<key>IllustratorUI_FontProblem</key>
+<string>&lt;prop.list&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;DialogID&lt;/key&gt;
+&lt;ustring&gt;IllustratorUI_FontProblem&lt;/ustring&gt;
+&lt;/prop.pair&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;Position&lt;/key&gt;
+&lt;array&gt;
+&lt;array.type&gt;&lt;int type=&apos;signed&apos; size=&apos;32&apos;/&gt;&lt;/array.type&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;1662&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;242&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;/array&gt;
+&lt;/prop.pair&gt;
+&lt;/prop.list&gt;
+</string>
+</prop.pair>
+<prop.pair>
+<key>IllustratorUI_IllustratorOptionsDialog</key>
+<string>&lt;prop.list&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;DialogID&lt;/key&gt;
+&lt;ustring&gt;IllustratorUI_IllustratorOptionsDialog&lt;/ustring&gt;
+&lt;/prop.pair&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;Position&lt;/key&gt;
+&lt;array&gt;
+&lt;array.type&gt;&lt;int type=&apos;signed&apos; size=&apos;32&apos;/&gt;&lt;/array.type&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;1650&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;34&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;/array&gt;
+&lt;/prop.pair&gt;
+&lt;/prop.list&gt;
+</string>
+</prop.pair>
+<prop.pair>
+<key>IllustratorUI_MoveOptionsDialog</key>
+<string>&lt;prop.list&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;DialogID&lt;/key&gt;
+&lt;ustring&gt;IllustratorUI_MoveOptionsDialog&lt;/ustring&gt;
+&lt;/prop.pair&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;Position&lt;/key&gt;
+&lt;array&gt;
+&lt;array.type&gt;&lt;int type=&apos;signed&apos; size=&apos;32&apos;/&gt;&lt;/array.type&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;1712&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;166&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;/array&gt;
+&lt;/prop.pair&gt;
+&lt;/prop.list&gt;
+</string>
+</prop.pair>
+<prop.pair>
+<key>IllustratorUI_NewDocumentDialog</key>
+<string>&lt;prop.list&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;DialogID&lt;/key&gt;
+&lt;ustring&gt;IllustratorUI_NewDocumentDialog&lt;/ustring&gt;
+&lt;/prop.pair&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;Position&lt;/key&gt;
+&lt;array&gt;
+&lt;array.type&gt;&lt;int type=&apos;signed&apos; size=&apos;32&apos;/&gt;&lt;/array.type&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;/array&gt;
+&lt;/prop.pair&gt;
+&lt;/prop.list&gt;
+</string>
+</prop.pair>
+<prop.pair>
+<key>IllustratorUI_ReflectOptionsDialog</key>
+<string>&lt;prop.list&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;DialogID&lt;/key&gt;
+&lt;ustring&gt;IllustratorUI_ReflectOptionsDialog&lt;/ustring&gt;
+&lt;/prop.pair&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;Position&lt;/key&gt;
+&lt;array&gt;
+&lt;array.type&gt;&lt;int type=&apos;signed&apos; size=&apos;32&apos;/&gt;&lt;/array.type&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;1712&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;190&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;/array&gt;
+&lt;/prop.pair&gt;
+&lt;/prop.list&gt;
+</string>
+</prop.pair>
+<prop.pair>
+<key>IllustratorUI_ReplaceWarningDialog</key>
+<string>&lt;prop.list&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;DialogID&lt;/key&gt;
+&lt;ustring&gt;IllustratorUI_ReplaceWarningDialog&lt;/ustring&gt;
+&lt;/prop.pair&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;Position&lt;/key&gt;
+&lt;array&gt;
+&lt;array.type&gt;&lt;int type=&apos;signed&apos; size=&apos;32&apos;/&gt;&lt;/array.type&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;1650&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;263&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;/array&gt;
+&lt;/prop.pair&gt;
+&lt;/prop.list&gt;
+</string>
+</prop.pair>
+<prop.pair>
+<key>IllustratorUI_ScaleOptionsDialog</key>
+<string>&lt;prop.list&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;DialogID&lt;/key&gt;
+&lt;ustring&gt;IllustratorUI_ScaleOptionsDialog&lt;/ustring&gt;
+&lt;/prop.pair&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;Position&lt;/key&gt;
+&lt;array&gt;
+&lt;array.type&gt;&lt;int type=&apos;signed&apos; size=&apos;32&apos;/&gt;&lt;/array.type&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;1712&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;170&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;/array&gt;
+&lt;/prop.pair&gt;
+&lt;/prop.list&gt;
+</string>
+</prop.pair>
+<prop.pair>
+<key>KeyboardShortcutDlg</key>
+<string>&lt;prop.list&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;DialogID&lt;/key&gt;
+&lt;ustring&gt;KeyboardShortcutDlg&lt;/ustring&gt;
+&lt;/prop.pair&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;Position&lt;/key&gt;
+&lt;array&gt;
+&lt;array.type&gt;&lt;int type=&apos;signed&apos; size=&apos;32&apos;/&gt;&lt;/array.type&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;1640&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;43&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;/array&gt;
+&lt;/prop.pair&gt;
+&lt;/prop.list&gt;
+</string>
+</prop.pair>
+<prop.pair>
+<key>LayersPanel_LayerOptionsDialog</key>
+<string>&lt;prop.list&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;DialogID&lt;/key&gt;
+&lt;ustring&gt;LayersPanel_LayerOptionsDialog&lt;/ustring&gt;
+&lt;/prop.pair&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;Position&lt;/key&gt;
+&lt;array&gt;
+&lt;array.type&gt;&lt;int type=&apos;signed&apos; size=&apos;32&apos;/&gt;&lt;/array.type&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;1706&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;226&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;/array&gt;
+&lt;/prop.pair&gt;
+&lt;/prop.list&gt;
+</string>
+</prop.pair>
+<prop.pair>
+<key>LayersPanel_PanelOptionsDialog</key>
+<string>&lt;prop.list&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;DialogID&lt;/key&gt;
+&lt;ustring&gt;LayersPanel_PanelOptionsDialog&lt;/ustring&gt;
+&lt;/prop.pair&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;Position&lt;/key&gt;
+&lt;array&gt;
+&lt;array.type&gt;&lt;int type=&apos;signed&apos; size=&apos;32&apos;/&gt;&lt;/array.type&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;1731&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;152&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;/array&gt;
+&lt;/prop.pair&gt;
+&lt;/prop.list&gt;
+</string>
+</prop.pair>
+<prop.pair>
+<key>LineSegmentTool_LineSegmentToolDialog</key>
+<string>&lt;prop.list&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;DialogID&lt;/key&gt;
+&lt;ustring&gt;LineSegmentTool_LineSegmentToolDialog&lt;/ustring&gt;
+&lt;/prop.pair&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;Position&lt;/key&gt;
+&lt;array&gt;
+&lt;array.type&gt;&lt;int type=&apos;signed&apos; size=&apos;32&apos;/&gt;&lt;/array.type&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;1765&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;258&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;/array&gt;
+&lt;/prop.pair&gt;
+&lt;/prop.list&gt;
+</string>
+</prop.pair>
+<prop.pair>
+<key>MainDialog</key>
+<string>&lt;prop.list&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;DialogID&lt;/key&gt;
+&lt;ustring&gt;MainDialog&lt;/ustring&gt;
+&lt;/prop.pair&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;Position&lt;/key&gt;
+&lt;array&gt;
+&lt;array.type&gt;&lt;int type=&apos;signed&apos; size=&apos;32&apos;/&gt;&lt;/array.type&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;14&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;12&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;/array&gt;
+&lt;/prop.pair&gt;
+&lt;/prop.list&gt;
+</string>
+</prop.pair>
+<prop.pair>
+<key>NewSwatchDialog</key>
+<string>&lt;prop.list&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;DialogID&lt;/key&gt;
+&lt;ustring&gt;NewSwatchDialog&lt;/ustring&gt;
+&lt;/prop.pair&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;Position&lt;/key&gt;
+&lt;array&gt;
+&lt;array.type&gt;&lt;int type=&apos;signed&apos; size=&apos;32&apos;/&gt;&lt;/array.type&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;1720&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;187&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;/array&gt;
+&lt;/prop.pair&gt;
+&lt;/prop.list&gt;
+</string>
+</prop.pair>
+<prop.pair>
+<key>OffsetPath_OffsetPathOptionsDialog</key>
+<string>&lt;prop.list&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;DialogID&lt;/key&gt;
+&lt;ustring&gt;OffsetPath_OffsetPathOptionsDialog&lt;/ustring&gt;
+&lt;/prop.pair&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;Position&lt;/key&gt;
+&lt;array&gt;
+&lt;array.type&gt;&lt;int type=&apos;signed&apos; size=&apos;32&apos;/&gt;&lt;/array.type&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;1723&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;262&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;/array&gt;
+&lt;/prop.pair&gt;
+&lt;/prop.list&gt;
+</string>
+</prop.pair>
+<prop.pair>
+<key>PreferenceUI_PreferenceUIOptionsDialog</key>
+<string>&lt;prop.list&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;DialogID&lt;/key&gt;
+&lt;ustring&gt;PreferenceUI_PreferenceUIOptionsDialog&lt;/ustring&gt;
+&lt;/prop.pair&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;Position&lt;/key&gt;
+&lt;array&gt;
+&lt;array.type&gt;&lt;int type=&apos;signed&apos; size=&apos;32&apos;/&gt;&lt;/array.type&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;1538&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;107&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;/array&gt;
+&lt;/prop.pair&gt;
+&lt;/prop.list&gt;
+</string>
+</prop.pair>
+<prop.pair>
+<key>RoundUI_RoundUIOptionsDialog</key>
+<string>&lt;prop.list&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;DialogID&lt;/key&gt;
+&lt;ustring&gt;RoundUI_RoundUIOptionsDialog&lt;/ustring&gt;
+&lt;/prop.pair&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;Position&lt;/key&gt;
+&lt;array&gt;
+&lt;array.type&gt;&lt;int type=&apos;signed&apos; size=&apos;32&apos;/&gt;&lt;/array.type&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;1723&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;294&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;/array&gt;
+&lt;/prop.pair&gt;
+&lt;/prop.list&gt;
+</string>
+</prop.pair>
+<prop.pair>
+<key>ShapeEffectUI_ShapeEffectUIOptionsDialog</key>
+<string>&lt;prop.list&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;DialogID&lt;/key&gt;
+&lt;ustring&gt;ShapeEffectUI_ShapeEffectUIOptionsDialog&lt;/ustring&gt;
+&lt;/prop.pair&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;Position&lt;/key&gt;
+&lt;array&gt;
+&lt;array.type&gt;&lt;int type=&apos;signed&apos; size=&apos;32&apos;/&gt;&lt;/array.type&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;1723&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;195&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;/array&gt;
+&lt;/prop.pair&gt;
+&lt;/prop.list&gt;
+</string>
+</prop.pair>
+<prop.pair>
+<key>ShapeTool_EllipseOptionsDialog</key>
+<string>&lt;prop.list&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;DialogID&lt;/key&gt;
+&lt;ustring&gt;ShapeTool_EllipseOptionsDialog&lt;/ustring&gt;
+&lt;/prop.pair&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;Position&lt;/key&gt;
+&lt;array&gt;
+&lt;array.type&gt;&lt;int type=&apos;signed&apos; size=&apos;32&apos;/&gt;&lt;/array.type&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;1762&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;278&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;/array&gt;
+&lt;/prop.pair&gt;
+&lt;/prop.list&gt;
+</string>
+</prop.pair>
+<prop.pair>
+<key>ShapeTool_RectangleOptionsDialog</key>
+<string>&lt;prop.list&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;DialogID&lt;/key&gt;
+&lt;ustring&gt;ShapeTool_RectangleOptionsDialog&lt;/ustring&gt;
+&lt;/prop.pair&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;Position&lt;/key&gt;
+&lt;array&gt;
+&lt;array.type&gt;&lt;int type=&apos;signed&apos; size=&apos;32&apos;/&gt;&lt;/array.type&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;1762&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;278&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;/array&gt;
+&lt;/prop.pair&gt;
+&lt;/prop.list&gt;
+</string>
+</prop.pair>
+<prop.pair>
+<key>ShapeTool_RoundedRectangleOptionsDialog</key>
+<string>&lt;prop.list&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;DialogID&lt;/key&gt;
+&lt;ustring&gt;ShapeTool_RoundedRectangleOptionsDialog&lt;/ustring&gt;
+&lt;/prop.pair&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;Position&lt;/key&gt;
+&lt;array&gt;
+&lt;array.type&gt;&lt;int type=&apos;signed&apos; size=&apos;32&apos;/&gt;&lt;/array.type&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;1749&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;263&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;/array&gt;
+&lt;/prop.pair&gt;
+&lt;/prop.list&gt;
+</string>
+</prop.pair>
+<prop.pair>
+<key>SplitGridUI_Dialog</key>
+<string>&lt;prop.list&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;DialogID&lt;/key&gt;
+&lt;ustring&gt;SplitGridUI_Dialog&lt;/ustring&gt;
+&lt;/prop.pair&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;Position&lt;/key&gt;
+&lt;array&gt;
+&lt;array.type&gt;&lt;int type=&apos;signed&apos; size=&apos;32&apos;/&gt;&lt;/array.type&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;1658&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;216&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;/array&gt;
+&lt;/prop.pair&gt;
+&lt;/prop.list&gt;
+</string>
+</prop.pair>
+<prop.pair>
+<key>SwatchOptionsDialog</key>
+<string>&lt;prop.list&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;DialogID&lt;/key&gt;
+&lt;ustring&gt;SwatchOptionsDialog&lt;/ustring&gt;
+&lt;/prop.pair&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;Position&lt;/key&gt;
+&lt;array&gt;
+&lt;array.type&gt;&lt;int type=&apos;signed&apos; size=&apos;32&apos;/&gt;&lt;/array.type&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;1720&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;187&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;/array&gt;
+&lt;/prop.pair&gt;
+&lt;/prop.list&gt;
+</string>
+</prop.pair>
+<prop.pair>
+<key>TransformUI_TransformUIOptionsDialog</key>
+<string>&lt;prop.list&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;DialogID&lt;/key&gt;
+&lt;ustring&gt;TransformUI_TransformUIOptionsDialog&lt;/ustring&gt;
+&lt;/prop.pair&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;Position&lt;/key&gt;
+&lt;array&gt;
+&lt;array.type&gt;&lt;int type=&apos;signed&apos; size=&apos;32&apos;/&gt;&lt;/array.type&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;1667&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;84&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;/array&gt;
+&lt;/prop.pair&gt;
+&lt;/prop.list&gt;
+</string>
+</prop.pair>
+<prop.pair>
+<key>TweakUI_TweakUIOptionsDialog</key>
+<string>&lt;prop.list&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;DialogID&lt;/key&gt;
+&lt;ustring&gt;TweakUI_TweakUIOptionsDialog&lt;/ustring&gt;
+&lt;/prop.pair&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;Position&lt;/key&gt;
+&lt;array&gt;
+&lt;array.type&gt;&lt;int type=&apos;signed&apos; size=&apos;32&apos;/&gt;&lt;/array.type&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;1716&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;189&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;/array&gt;
+&lt;/prop.pair&gt;
+&lt;/prop.list&gt;
+</string>
+</prop.pair>
+<prop.pair>
+<key>TwirlToolUI_TwirlToolUIOptionsDialog</key>
+<string>&lt;prop.list&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;DialogID&lt;/key&gt;
+&lt;ustring&gt;TwirlToolUI_TwirlToolUIOptionsDialog&lt;/ustring&gt;
+&lt;/prop.pair&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;Position&lt;/key&gt;
+&lt;array&gt;
+&lt;array.type&gt;&lt;int type=&apos;signed&apos; size=&apos;32&apos;/&gt;&lt;/array.type&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;1723&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;294&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;/array&gt;
+&lt;/prop.pair&gt;
+&lt;/prop.list&gt;
+</string>
+</prop.pair>
+<prop.pair>
+<key>UserInterface_GetInputNameDialog</key>
+<string>&lt;prop.list&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;DialogID&lt;/key&gt;
+&lt;ustring&gt;UserInterface_GetInputNameDialog&lt;/ustring&gt;
+&lt;/prop.pair&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;Position&lt;/key&gt;
+&lt;array&gt;
+&lt;array.type&gt;&lt;int type=&apos;signed&apos; size=&apos;32&apos;/&gt;&lt;/array.type&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;1737&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;287&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;/array&gt;
+&lt;/prop.pair&gt;
+&lt;/prop.list&gt;
+</string>
+</prop.pair>
+<prop.pair>
+<key>kMaRearrangeDialog</key>
+<string>&lt;prop.list&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;DialogID&lt;/key&gt;
+&lt;ustring&gt;kMaRearrangeDialog&lt;/ustring&gt;
+&lt;/prop.pair&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;Position&lt;/key&gt;
+&lt;array&gt;
+&lt;array.type&gt;&lt;int type=&apos;signed&apos; size=&apos;32&apos;/&gt;&lt;/array.type&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;1699&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;218&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;/array&gt;
+&lt;/prop.pair&gt;
+&lt;/prop.list&gt;
+</string>
+</prop.pair>
+<prop.pair>
+<key>svgFileFormatUI_svgFileFormatUIOptionsDialog</key>
+<string>&lt;prop.list&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;DialogID&lt;/key&gt;
+&lt;ustring&gt;svgFileFormatUI_svgFileFormatUIOptionsDialog&lt;/ustring&gt;
+&lt;/prop.pair&gt;
+&lt;prop.pair&gt;
+&lt;key&gt;Position&lt;/key&gt;
+&lt;array&gt;
+&lt;array.type&gt;&lt;int type=&apos;signed&apos; size=&apos;32&apos;/&gt;&lt;/array.type&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;1597&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;49&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;int type=&apos;signed&apos; size=&apos;32&apos;&gt;0&lt;/int&gt;
+&lt;/array&gt;
+&lt;/prop.pair&gt;
+&lt;/prop.list&gt;
+</string>
+</prop.pair>
+</prop.list>
+</prop.pair>
+<prop.pair>
+<key>MonitorInfo</key>
+<prop.list>
+<prop.pair>
+<key>Monitor-0</key>
+<array>
+<array.type><int type='signed' size='32'/></array.type>
+<int type='signed' size='32'>0</int>
+<int type='signed' size='32'>0</int>
+<int type='signed' size='32'>1366</int>
+<int type='signed' size='32'>738</int>
+</array>
+</prop.pair>
+<prop.pair>
+<key>Monitor-1</key>
+<array>
+<array.type><int type='signed' size='32'/></array.type>
+<int type='signed' size='32'>1366</int>
+<int type='signed' size='32'>0</int>
+<int type='signed' size='32'>1024</int>
+<int type='signed' size='32'>738</int>
+</array>
+</prop.pair>
+<prop.pair>
+<key>NumMonitors</key>
+<int type='unsigned' size='32'>2</int>
+</prop.pair>
+</prop.list>
+</prop.pair>
+</prop.list>
+</prop.map>
